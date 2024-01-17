@@ -1,0 +1,1 @@
+java -Xmx2048M -cp Count.jar ca.umontreal.iro.evolution.genecontent.AsymmetricWagner -gain 2.0 -max_paralogs 1000000 Actinomycetota_Phylogeny.RubrobacterD_Rooted.With_InnerNode_Names.tre Orthogroups.restructured.txt > AW_g2.txt

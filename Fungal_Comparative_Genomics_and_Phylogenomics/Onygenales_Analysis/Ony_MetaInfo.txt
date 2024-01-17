@@ -1,0 +1,34 @@
+Amauroascus mutatus	GCA_001430935.1	Non-dimorphic/unknown
+Amauroascus niger	GCA_001430945.1	Non-dimorphic/unknown
+Ascosphaera apis	GCA_001636715.1	Non-dimorphic/unknown
+Blastomyces dermatitidis	GCA_000003525.2	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Blastomyces gilchristii	GCA_000003855.2	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657236/
+Blastomyces parvus	GCA_002572885.1	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7823406/
+Blastomyces percursus	GCA_003206225.1	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7823406/
+Byssoonygena ceratinophila	GCA_001430925.1	Non-dimorphic/unknown
+Chrysosporium queenslandicum	GCA_001430955.1	Non-dimorphic/unknown	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC84155/
+Coccidioides immitis	GCA_000149335.2	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Coccidioides posadasii	GCA_000151335.1	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Emergomyces orientalis	GCA_002110485.1	Dimorphic	https://pubmed.ncbi.nlm.nih.gov/28240390/
+Emergomyces pasteurianus	GCA_001883825.1	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6752945/
+Emmonsia crescens	GCA_002572855.1	Dimorphic	https://academic.oup.com/mmy/article/44/4/375/1036188	
+Helicocarpus griseus	GCA_002573585.1	Non-dimorphic/unknown	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5852033/
+Histoplasma capsulatum	GCA_000149585.1	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Malbranchea cinnamomea	GCA_900128795.2	Non-dimorphic/unknown
+Microsporum canis	GCA_000151145.1	Non-dimorphic/unknown
+Nannizzia gypsea	GCA_000150975.2	Non-dimorphic/unknown
+Onygena corvina	GCA_000812245.1	Non-dimorphic/unknown
+Ophidiomyces ophiodiicola	GCA_002167195.1	Non-dimorphic/unknown
+Paracoccidioides brasiliensis	GCA_000150735.2	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Paracoccidioides lutzii	GCA_000150705.2	Dimorphic	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526722/
+Polytolypa hystricis	GCA_002573605.1	Non-dimorphic/unknown	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5852033/
+Trichophyton benhamiae	GCA_000151125.2	Non-dimorphic/unknown
+Trichophyton equinum	GCA_000151175.1	Non-dimorphic/unknown
+Trichophyton interdigitale	GCA_000622975.1	Non-dimorphic/unknown
+Trichophyton mentagrophytes	GCA_003118255.1	Non-dimorphic/unknown
+Trichophyton rubrum	GCA_000151425.1	Non-dimorphic/unknown	https://pubmed.ncbi.nlm.nih.gov/19615031/ <- inclusive
+Trichophyton soudanense	GCA_000616865.1	Non-dimorphic/unknown
+Trichophyton tonsurans	GCA_000151455.1	Non-dimorphic/unknown
+Trichophyton verrucosum	GCA_000151505.1	Non-dimorphic/unknown
+Trichophyton violaceum	GCA_001651435.1	Non-dimorphic/unknown
+Uncinocarpus reesii	GCA_000003515.2	Non-dimorphic/unknown

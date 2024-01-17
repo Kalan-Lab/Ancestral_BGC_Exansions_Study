@@ -1,0 +1,115 @@
+Phycicoccus	Node_60	Node_62	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Microbacterium	Node_102	Node_103	Node_104	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Herbiconiux	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Propionibacterium	Node_53	Node_54	Node_55	Node_56	Node_124	Node_125	Node_126	Node_127
+Actinomyces	Node_73	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Kribbella	Node_55	Node_56	Node_124	Node_125	Node_126	Node_127
+Rhodoglobus	Node_106	Node_107	Node_108	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Gulosibacter	Node_97	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Rathayibacter	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Cellulosimicrobium	Node_68	Node_69	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Glutamicibacter	Node_85	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Agreia	Node_105	Node_106	Node_107	Node_108	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Tsukamurella	Node_24	Node_26	Node_27	Node_28	Node_38	Node_39	Node_40	Node_127
+Georgenia	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Aeromicrobium	Node_51	Node_56	Node_124	Node_125	Node_126	Node_127
+Arachnia	Node_54	Node_55	Node_56	Node_124	Node_125	Node_126	Node_127
+Actinokineospora	Node_32	Node_34	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Streptacidiphilus	Node_41	Node_42	Node_48	Node_126	Node_127
+Cryobacterium	Node_107	Node_108	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Isoptericola	Node_67	Node_68	Node_69	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Sinomonas	Node_90	Node_91	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Jiangella	Node_47	Node_48	Node_126	Node_127
+Lawsonella	Node_21	Node_22	Node_23	Node_28	Node_38	Node_39	Node_40	Node_127
+Saccharomonospora	Node_33	Node_34	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Pontimonas	Node_98	Node_99	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Acidipropionibacterium	Node_52	Node_53	Node_54	Node_55	Node_56	Node_124	Node_125	Node_126	Node_127
+Bifidobacterium	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Thermobifida	Node_44	Node_45	Node_46	Node_47	Node_48	Node_126	Node_127
+Arthrobacter_D	Node_86	Node_87	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Nocardia	Node_25	Node_26	Node_27	Node_28	Node_38	Node_39	Node_40	Node_127
+Cellulomonas	Node_65	Node_66	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Trueperella	Node_74	Node_76	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Brachybacterium	Node_82	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Geodermatophilus	Node_18	Node_19	Node_20	Node_40	Node_127
+Protaetiibacter	Node_99	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Nakamurella	Node_39	Node_40	Node_127
+Actinotignum	Node_75	Node_76	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Gordonia	Node_24	Node_26	Node_27	Node_28	Node_38	Node_39	Node_40	Node_127
+Arthrobacter_F	Node_87	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Chryseoglobus	Node_98	Node_99	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Paenarthrobacter	Node_89	Node_90	Node_91	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Demequina	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Marihabitans	Node_61	Node_62	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Paeniglutamicibacter	Node_85	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Nocardiopsis	Node_44	Node_45	Node_46	Node_47	Node_48	Node_126	Node_127
+Micromonospora	Node_14	Node_15	Node_20	Node_40	Node_127
+Plantibacter	Node_103	Node_104	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Rhodococcus	Node_25	Node_26	Node_27	Node_28	Node_38	Node_39	Node_40	Node_127
+Arcanobacterium	Node_74	Node_76	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Naasia	Node_102	Node_103	Node_104	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Rothia	Node_84	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Ornithinimicrobium	Node_57	Node_58	Node_59	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Catellatospora	Node_15	Node_20	Node_40	Node_127
+Changpingibacter	Node_75	Node_76	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Leifsonia	Node_101	Node_104	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Nonomuraea	Node_43	Node_46	Node_47	Node_48	Node_126	Node_127
+Rhodoluna	Node_96	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Mobiluncus	Node_72	Node_73	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Frankia	Node_19	Node_20	Node_40	Node_127
+Arthrobacter_K	Node_88	Node_89	Node_90	Node_91	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Pauljensenia	Node_72	Node_73	Node_77	Node_78	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Actinopolyspora	Node_29	Node_30	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Kineococcus	Node_123	Node_124	Node_125	Node_126	Node_127
+Ornithinicoccus	Node_58	Node_59	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Frigoribacterium	Node_100	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Nocardioides	Node_50	Node_51	Node_56	Node_124	Node_125	Node_126	Node_127
+Aquiluna	Node_96	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Dermabacter	Node_82	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Saccharopolyspora	Node_29	Node_30	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Agrococcus	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Leucobacter	Node_97	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Actinoalloteichus	Node_30	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Agromyces	Node_101	Node_104	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Subtercola	Node_105	Node_106	Node_107	Node_108	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Cutibacterium	Node_52	Node_53	Node_54	Node_55	Node_56	Node_124	Node_125	Node_126	Node_127
+Kocuria	Node_84	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Serinicoccus	Node_57	Node_58	Node_59	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Spirillospora	Node_45	Node_46	Node_47	Node_48	Node_126	Node_127
+Specibacter	Node_91	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Dermacoccus	Node_59	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Arthrobacter	Node_88	Node_89	Node_90	Node_91	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Arthrobacter_B	Node_86	Node_87	Node_92	Node_93	Node_94	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Xylanimonas	Node_67	Node_68	Node_69	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Planktophila	Node_49	Node_125	Node_126	Node_127
+Nesterenkonia	Node_83	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Blastococcus	Node_17	Node_18	Node_19	Node_20	Node_40	Node_127
+Corynebacterium	Node_21	Node_22	Node_23	Node_28	Node_38	Node_39	Node_40	Node_127
+Oerskovia	Node_69	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Streptosporangium	Node_43	Node_46	Node_47	Node_48	Node_126	Node_127
+Actinosynnema	Node_31	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Clavibacter	Node_108	Node_109	Node_110	Node_111	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Actinotalea	Node_66	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Cellulomonas_A	Node_65	Node_66	Node_70	Node_71	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Amycolatopsis	Node_33	Node_34	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Pseudonocardia	Node_37	Node_38	Node_39	Node_40	Node_127
+Tropheryma	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Marmoricola	Node_50	Node_51	Node_56	Node_124	Node_125	Node_126	Node_127
+Kibdelosporangium	Node_32	Node_34	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Kitasatospora	Node_41	Node_42	Node_48	Node_126	Node_127
+Dermatophilus	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Klenkia	Node_16	Node_17	Node_18	Node_19	Node_20	Node_40	Node_127
+Ruania	Node_79	Node_80	Node_81	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Modestobacter	Node_16	Node_17	Node_18	Node_19	Node_20	Node_40	Node_127
+Dietzia	Node_22	Node_23	Node_28	Node_38	Node_39	Node_40	Node_127
+Mycobacterium	Node_27	Node_28	Node_38	Node_39	Node_40	Node_127
+Lentzea	Node_31	Node_35	Node_36	Node_37	Node_38	Node_39	Node_40	Node_127
+Nanopelagicus	Node_49	Node_125	Node_126	Node_127
+Streptomyces	Node_42	Node_48	Node_126	Node_127
+Tomitella	Node_23	Node_28	Node_38	Node_39	Node_40	Node_127
+Pedococcus	Node_60	Node_62	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Actinoplanes	Node_14	Node_15	Node_20	Node_40	Node_127
+Micrococcus	Node_83	Node_95	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Curtobacterium	Node_100	Node_112	Node_113	Node_114	Node_115	Node_116	Node_117	Node_118	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Brevibacterium	Node_119	Node_120	Node_121	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127
+Janibacter	Node_61	Node_62	Node_63	Node_64	Node_122	Node_123	Node_124	Node_125	Node_126	Node_127

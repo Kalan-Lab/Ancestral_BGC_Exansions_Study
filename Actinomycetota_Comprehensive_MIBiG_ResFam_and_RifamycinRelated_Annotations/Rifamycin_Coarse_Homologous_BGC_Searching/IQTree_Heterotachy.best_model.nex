@@ -1,0 +1,32 @@
+#nexus
+begin sets;
+  charset OG_1.msa.faa = Combined_IQ_Tree_Input/OG_1.msa.faa: , ;
+  charset OG_10.msa.faa = Combined_IQ_Tree_Input/OG_10.msa.faa: , ;
+  charset OG_11.msa.faa = Combined_IQ_Tree_Input/OG_11.msa.faa: , ;
+  charset OG_12.msa.faa = Combined_IQ_Tree_Input/OG_12.msa.faa: , ;
+  charset OG_17.msa.faa = Combined_IQ_Tree_Input/OG_17.msa.faa: , ;
+  charset OG_18.msa.faa = Combined_IQ_Tree_Input/OG_18.msa.faa: , ;
+  charset OG_19.msa.faa = Combined_IQ_Tree_Input/OG_19.msa.faa: , ;
+  charset OG_20.msa.faa = Combined_IQ_Tree_Input/OG_20.msa.faa: , ;
+  charset OG_3.msa.faa = Combined_IQ_Tree_Input/OG_3.msa.faa: , ;
+  charset OG_5.msa.faa = Combined_IQ_Tree_Input/OG_5.msa.faa: , ;
+  charset OG_6.msa.faa = Combined_IQ_Tree_Input/OG_6.msa.faa: , ;
+  charset OG_7.msa.faa = Combined_IQ_Tree_Input/OG_7.msa.faa: , ;
+  charset OG_8.msa.faa = Combined_IQ_Tree_Input/OG_8.msa.faa: , ;
+  charset OG_9.msa.faa = Combined_IQ_Tree_Input/OG_9.msa.faa: , ;
+  charpartition mymodels =
+    LG+G4{0.178522}: OG_1.msa.faa{2.22012},
+    WAG+F+G4{0.413021}: OG_10.msa.faa{3.07442},
+    WAG+F+I{0.406411}+G4{0.823212}: OG_11.msa.faa{2.09847},
+    LG+F+I{0.20557}+G4{1.72976}: OG_12.msa.faa{3.65175},
+    WAG+F+I{0.313479}+R3{0.327711,0.356662,0.261063,1.75547,0.0977479,4.34617}: OG_17.msa.faa{2.64487},
+    WAG+I{0.27454}+G4{1.77709}: OG_18.msa.faa{2.71076},
+    WAG+F+I{0.124658}+G4{1.94243}: OG_19.msa.faa{4.093},
+    LG+F+I{0.193665}+G4{0.881}: OG_20.msa.faa{2.75345},
+    LG+F+I{0.30621}+G4{0.815505}: OG_3.msa.faa{2.7447},
+    WAG+F+I{0.239594}+G4{1.37004}: OG_5.msa.faa{4.38761},
+    WAG+I{0.414912}+G4{1.42735}: OG_6.msa.faa{2.16517},
+    WAG+F+I{0.238714}+G4{1.18587}: OG_7.msa.faa{2.53624},
+    LG+F+I{0.417618}+G4{0.883912}: OG_8.msa.faa{1.75996},
+    WAG+F+G4{0.534264}: OG_9.msa.faa{3.66374};
+end;

@@ -1,0 +1,12 @@
+Streptomycetaceae	MC1	#3d85c6
+Mycobacteriaceae	MC2	#45818e
+Micromonosporaceae	MC2	#45818e
+Pseudonocardiaceae	MC2	#45818e
+Microbacteriaceae	OA	#e69138
+Micrococcaceae	OA	#e69138
+Streptosporangiaceae	MC1	#3d85c6
+Cellulomonadaceae	OA	#e69138
+Geodermatophilaceae	MC2	#45818e
+Actinomycetaceae	MC2	#45818e
+Bifidobacteriaceae	MC2	#45818e
+Dermatophilaceae	MC2	#45818e

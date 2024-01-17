@@ -1,0 +1,149 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=31;
+TAXLABELS
+[1] 'GCA_000696405|Amycolatopsis|Clade-1'
+[2] 'GCA_000695625|Amycolatopsis|Clade-1'
+[3] 'GCA_004794975|Streptomyces|Clade-2'
+[4] 'GCA_001742805|Amycolatopsis|Clade-1'
+[5] 'GCA_000454025|Amycolatopsis|Clade-1'
+[6] 'GCA_014203355|Kutzneria|Clade-1'
+[7] 'GCA_000700945|Amycolatopsis|Clade-1'
+[8] 'GCA_000282715|Amycolatopsis|Clade-1'
+[9] 'GCA_001660045|Streptomyces|Clade-2'
+[10] 'GCA_900105945|Amycolatopsis|Clade-1'
+[11] 'GCA_004364395|Streptomyces|Clade-2'
+[12] 'GCA_000384275|Micromonospora|Clade-1'
+[13] 'GCA_011765725|Micromonospora|Clade-1'
+[14] 'GCA_020907265|Streptomyces|Clade-2'
+[15] 'GCA_024611995|Streptomyces|Clade-2'
+[16] 'GCA_900105265|Streptomyces|Clade-2'
+[17] 'GCA_001013905|Streptomyces|Clade-2'
+[18] 'GCA_022696125|Streptomyces|Clade-2'
+[19] 'GCA_013364075|Amycolatopsis|Clade-1'
+[20] 'GCA_011765705|Micromonospora|Clade-1'
+[21] 'GCA_017948485|Streptomyces|Clade-2'
+[22] 'GCA_000196835|Amycolatopsis|Clade-1'
+[23] 'GCA_001746425|Streptomyces|Clade-2'
+[24] 'GCA_900090265|Micromonospora|Clade-1'
+[25] 'GCA_014648855|Streptomyces|Clade-2'
+[26] 'GCA_000716785|Amycolatopsis|Clade-1'
+[27] 'GCA_021056305|Actinokineospora|Clade-1'
+[28] 'GCA_011765735|Micromonospora|Clade-1'
+[29] 'GCA_001514035|Streptomyces|Clade-2'
+[30] 'GCA_020884795|Micromonospora|Clade-1'
+[31] 'GCA_017308975|Amycolatopsis|Clade-1'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=31 nsplits=103;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 19,
+	24	 2 19,
+	100	 3,
+	100	 11,
+	100	 3 11,
+	100	 23,
+	100	 3 11 23,
+	100	 15,
+	100	 3 11 15 23,
+	100	 9,
+	100	 25,
+	100	 9 25,
+	100	 14,
+	100	 9 14 25,
+	100	 18,
+	100	 9 14 18 25,
+	100	 29,
+	100	 9 14 18 25 29,
+	100	 21,
+	100	 9 14 18 21 25 29,
+	100	 3 9 11 14 15 18 21 23 25 29,
+	100	 16,
+	100	 3 9 11 14 15 16 18 21 23 25 29,
+	100	 27,
+	100	 3 9 11 14 15 16 18 21 23 25 27 29,
+	100	 6,
+	100	 12,
+	100	 13,
+	92	 12 13,
+	100	 20,
+	100	 28,
+	100	 20 28,
+	100	 12 13 20 28,
+	100	 24,
+	100	 12 13 20 24 28,
+	94	 6 12 13 20 24 28,
+	100	 30,
+	100	 6 12 13 20 24 28 30,
+	100	 17,
+	56	 6 12 13 17 20 24 28 30,
+	100	 1 2 4 5 7 8 10 19 22 26 31,
+	100	 26,
+	100	 31,
+	100	 26 31,
+	100	 1 2 4 5 7 8 10 19 22,
+	100	 10,
+	33	 1 2 4 5 7 8 19 22,
+	100	 1 4 5 7 8 22,
+	100	 4,
+	100	 5,
+	85	 4 5,
+	100	 7,
+	100	 8,
+	100	 22,
+	12	 8 22,
+	18	 7 8 22,
+	3	 4 5 7 8 22,
+	100	 1,
+	44	 3 9 11 14 15 16 17 18 21 23 25 27 29,
+	8	 13 20 28,
+	61	 1 7 8 22,
+	5	 1 8 22,
+	17	 1 22,
+	6	 12 13 20 24 28 30,
+	22	 1 4 5 7 8 19 22,
+	5	 1 4 5 7 8,
+	16	 1 7 8,
+	28	 1 7,
+	36	 10 19,
+	38	 1 2 4 5 7 8 22,
+	23	 2 10,
+	17	 1 2 4 5 7 8 10 22,
+	7	 1 5 7 8 22,
+	23	 7 22,
+	21	 1 7 22,
+	11	 1 8,
+	15	 7 8,
+	5	 1 4 5 8 22,
+	5	 1 4 5 8,
+	8	 4 5 8,
+	11	 1 4 5 7 22,
+	5	 1 4 5 22,
+	2	 1 4 5 7 8 10 19 22,
+	4	 4 5 7 8,
+	9	 1 4 5 7,
+	7	 1 4 7 8 22,
+	4	 1 4 5 7 8 10 22,
+	9	 4 5 7,
+	3	 4 5 8 22,
+	3	 4 5 22,
+	1	 5 7,
+	1	 4 5 7 22,
+	4	 1 4 5,
+	0	 21 29,
+	1	 2 10 19,
+	0	 3 9 11 14 15 18 21 23 25 27 29,
+	0	 16 17,
+	0	 12 13 28,
+	0	 15 23,
+	0	 16 27,
+	0	 5 7 8,
+	0	 12 20 28,
+;
+END; [Splits]
+

@@ -1,0 +1,366 @@
+OG0000019	41	55	Modestobacter, Klenkia, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Amycolatopsis, Rhodococcus, Actinokineospora, Geodermatophilus, Frankia, Actinosynnema, Pseudonocardia	Chryseoglobus, Microbacterium, Kocuria, Streptosporangium, Leucobacter, Demequina, Herbiconiux, Cutibacterium, Actinotalea, Cryobacterium, Curtobacterium, Kineococcus, Gulosibacter, Agrococcus, Arthrobacter_B, Rhodoglobus, Rothia, Leifsonia, Arthrobacter, Protaetiibacter, Arthrobacter_D, Glutamicibacter, Paenarthrobacter, Rhodoluna, Kribbella, Planktophila, Agreia, Subtercola, Kitasatospora, Plantibacter, Nonomuraea, Oerskovia, Nanopelagicus, Specibacter, Arthrobacter_K, Naasia, Agromyces, Streptomyces, Nocardioides, Thermobifida, Sinomonas, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Brevibacterium, Clavibacter	Rubrobacter_D
+OG0005156	1	6	Micromonospora	Chryseoglobus, Nocardiopsis, Demequina, Kineococcus, Arthrobacter_D, Thermobifida	SCSIO-52915, Palsa-465, Rubrobacter_D
+OG0001698	27	52	Tsukamurella, Modestobacter, Klenkia, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Micromonospora, Actinoalloteichus, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Actinosynnema	Chryseoglobus, Pontimonas, Kocuria, Streptosporangium, Cellulosimicrobium, Frigoribacterium, Leucobacter, Herbiconiux, Spirillospora, Actinotalea, Cryobacterium, Curtobacterium, Kineococcus, Rathayibacter, Agrococcus, Arthrobacter_B, Rhodoglobus, Jiangella, Leifsonia, Arthrobacter, Aeromicrobium, Protaetiibacter, Arthrobacter_D, Streptacidiphilus, Paenarthrobacter, Ornithinicoccus, Kribbella, Serinicoccus, Agreia, Subtercola, Kitasatospora, Plantibacter, Nonomuraea, Oerskovia, Nesterenkonia, Specibacter, Arthrobacter_K, Naasia, Agromyces, Streptomyces, Ruania, Thermobifida, Sinomonas, Brachybacterium, Arthrobacter_F, Paeniglutamicibacter, Georgenia, Clavibacter	SCSIO-52915, Rubrobacter_D
+OG0001287	4	9	Tsukamurella, Mycobacterium, Amycolatopsis	Chryseoglobus, Frigoribacterium, Rhodoglobus, Streptacidiphilus, Ornithinicoccus, Plantibacter, Nonomuraea, Agromyces, Streptomyces	
+OG0001183	43	68	Tsukamurella, Modestobacter, Klenkia, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Corynebacterium, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Chryseoglobus, Pontimonas, Microbacterium, Ornithinimicrobium, Streptosporangium, Marihabitans, Cellulosimicrobium, Frigoribacterium, Acidipropionibacterium, Cellulomonas_A, Dermatophilus, Nocardiopsis, Demequina, Herbiconiux, Spirillospora, Actinotalea, Cryobacterium, Isoptericola, Curtobacterium, Kineococcus, Gulosibacter, Agrococcus, Arthrobacter_B, Rhodoglobus, Rothia, Leifsonia, Aeromicrobium, Dermacoccus, Arthrobacter_D, Glutamicibacter, Streptacidiphilus, Paenarthrobacter, Rhodoluna, Aquiluna, Planktophila, Serinicoccus, Agreia, Subtercola, Kitasatospora, Plantibacter, Oerskovia, Nanopelagicus, Nesterenkonia, Specibacter, Naasia, Agromyces, Arachnia, Streptomyces, Cellulomonas, Thermobifida, Sinomonas, Brachybacterium, Paeniglutamicibacter, Georgenia, Micrococcus, Brevibacterium	AWTP1-35, Eggerthella, Ilumatobacter_A, SCSIO-52915, Palsa-465, Gordonibacter, Rubrobacter_D
+OG0000093	26	50	Modestobacter, Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Blastococcus, Tomitella, Micromonospora, Actinoalloteichus, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Actinosynnema, Pseudonocardia	Chryseoglobus, Microbacterium, Kocuria, Leucobacter, Herbiconiux, Spirillospora, Cryobacterium, Curtobacterium, Gulosibacter, Agrococcus, Arthrobacter_B, Rhodoglobus, Rothia, Leifsonia, Arthrobacter, Aeromicrobium, Protaetiibacter, Arthrobacter_D, Glutamicibacter, Streptacidiphilus, Paenarthrobacter, Rhodoluna, Aquiluna, Agreia, Subtercola, Plantibacter, Nonomuraea, Specibacter, Arthrobacter_K, Naasia, Agromyces, Streptomyces, Nocardioides, Thermobifida, Sinomonas, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Clavibacter	Rubrobacter_D
+OG0000249	6	38	Catellatospora, Nocardia, Micromonospora, Saccharopolyspora	Chryseoglobus, Microbacterium, Kocuria, Streptosporangium, Leucobacter, Demequina, Herbiconiux, Cryobacterium, Curtobacterium, Gulosibacter, Agrococcus, Arthrobacter_B, Rhodoglobus, Rothia, Leifsonia, Arthrobacter, Protaetiibacter, Arthrobacter_D, Glutamicibacter, Paenarthrobacter, Rhodoluna, Aquiluna, Agreia, Subtercola, Plantibacter, Nonomuraea, Specibacter, Arthrobacter_K, Naasia, Agromyces, Streptomyces, Actinomyces, Sinomonas, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Clavibacter	
+OG0001952	6	8	Gordonia, Mycobacterium, Micromonospora, Amycolatopsis, Actinosynnema	Pontimonas, Kocuria, Streptosporangium, Frigoribacterium, Spirillospora, Dermacoccus, Ornithinicoccus, Nonomuraea	
+OG0000187	13	10	Tsukamurella, Kibdelosporangium, Gordonia, Saccharomonospora, Blastococcus, Mycobacterium, Micromonospora, Amycolatopsis, Dietzia	Pontimonas, Cutibacterium, Spirillospora, Agreia, Subtercola, Plantibacter, Streptomyces, Ruania	
+OG0002670	7	18	Kibdelosporangium, Lentzea, Actinoplanes, Micromonospora, Actinoalloteichus, Nakamurella, Saccharopolyspora	Pontimonas, Streptosporangium, Cellulosimicrobium, Frigoribacterium, Actinotalea, Jiangella, Streptacidiphilus, Ornithinicoccus, Kribbella, Serinicoccus, Kitasatospora, Plantibacter, Oerskovia, Nesterenkonia, Ruania, Thermobifida, Georgenia, Clavibacter	
+OG0005885	5	2	Modestobacter, Klenkia, Blastococcus, Nakamurella, Frankia	Pontimonas, Ruania	Rubrobacter_D
+OG0000389	4	10	Kibdelosporangium, Blastococcus, Actinokineospora, Actinosynnema	Pontimonas, Streptosporangium, Dermatophilus, Spirillospora, Ornithinicoccus, Nonomuraea, Sinomonas, Paeniglutamicibacter	Rubrobacter_D
+OG0002107	19	41	Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Nocardia, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema	Pauljensenia, Propionibacterium, Streptosporangium, Dermatophilus, Nocardiopsis, Spirillospora, Rathayibacter, Gulosibacter, Rothia, Trueperella, Dermacoccus, Streptacidiphilus, Paenarthrobacter, Ornithinicoccus, Serinicoccus, Agreia, Kitasatospora, Nonomuraea, Phycicoccus, Streptomyces, Actinomyces, Nocardioides, Thermobifida, Brevibacterium, Clavibacter	
+OG0000020	102	83	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Propionibacterium, Microbacterium, Streptosporangium, Nocardiopsis, Cutibacterium, Spirillospora, Actinotalea, Arthrobacter_B, Rothia, Aeromicrobium, Arthrobacter_D, Glutamicibacter, Streptacidiphilus, Ornithinicoccus, Kribbella, Xylanimonas, Agreia, Subtercola, Kitasatospora, Nonomuraea, Oerskovia, Streptomyces, Nocardioides, Thermobifida, Paeniglutamicibacter, Brevibacterium, Clavibacter	Adlercreutzia, AWTP1-35, Ilumatobacter_A, Palsa-465, Rubrobacter_D
+OG0000012	45	34	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Corynebacterium, Saccharopolyspora, Frankia, Actinosynnema, Dietzia	Propionibacterium, Kocuria, Dermatophilus, Nocardiopsis, Herbiconiux, Spirillospora, Arthrobacter_B, Aeromicrobium, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea, Nesterenkonia, Arthrobacter_K, Streptomyces, Janibacter, Nocardioides, Thermobifida	
+OG0000032	61	26	Tsukamurella, Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema	Streptosporangium, Nocardiopsis, Spirillospora, Arthrobacter_B, Aeromicrobium, Streptacidiphilus, Paenarthrobacter, Subtercola, Kitasatospora, Nonomuraea, Specibacter, Streptomyces, Nocardioides, Thermobifida, Micrococcus	Adlercreutzia, Ilumatobacter_A, Rubrobacter_D
+OG0000949	5	3	Tsukamurella, Kibdelosporangium, Actinoplanes, Rhodococcus	Microbacterium, Herbiconiux, Nonomuraea	
+OG0000055	359	271	Tsukamurella, Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Corynebacterium, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Lawsonella, Dietzia	Propionibacterium, Microbacterium, Kocuria, Streptosporangium, Frigoribacterium, Cellulomonas_A, Dermatophilus, Pedococcus, Nocardiopsis, Dermabacter, Herbiconiux, Spirillospora, Cryobacterium, Curtobacterium, Kineococcus, Rathayibacter, Gulosibacter, Agrococcus, Rothia, Leifsonia, Arthrobacter, Dermacoccus, Arthrobacter_D, Glutamicibacter, Streptacidiphilus, Paenarthrobacter, Ornithinicoccus, Kribbella, Xylanimonas, Serinicoccus, Agreia, Subtercola, Kitasatospora, Plantibacter, Nonomuraea, Oerskovia, Arthrobacter_K, Naasia, Streptomyces, Actinomyces, Janibacter, Nocardioides, Thermobifida, Sinomonas, Arthrobacter_F, Paeniglutamicibacter, Georgenia, Micrococcus, Brevibacterium, Clavibacter	SCSIO-52915, Palsa-465, Rubrobacter_D
+OG0001277	10	3	Tsukamurella, Kibdelosporangium, Lentzea, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Actinosynnema, Dietzia	Plantibacter, Streptomyces	
+OG0000065	26	16	Tsukamurella, Modestobacter, Kibdelosporangium, Lentzea, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Geodermatophilus, Dietzia	Cellulosimicrobium, Cellulomonas_A, Cutibacterium, Spirillospora, Rathayibacter, Rothia, Protaetiibacter, Subtercola, Plantibacter, Oerskovia, Arthrobacter_K, Streptomyces, Cellulomonas, Ruania	Rubrobacter_D
+OG0003189	10	1	Tsukamurella, Gordonia, Nocardia, Mycobacterium, Tomitella, Rhodococcus, Corynebacterium, Actinosynnema, Lawsonella, Dietzia	Streptacidiphilus	
+OG0000004	119	86	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Tomitella, Micromonospora, Actinoalloteichus, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Kocuria, Streptosporangium, Dermatophilus, Leucobacter, Nocardiopsis, Herbiconiux, Spirillospora, Isoptericola, Curtobacterium, Kineococcus, Arthrobacter_B, Jiangella, Aeromicrobium, Arthrobacter_D, Streptacidiphilus, Paenarthrobacter, Ornithinicoccus, Kribbella, Xylanimonas, Serinicoccus, Subtercola, Kitasatospora, Nonomuraea, Oerskovia, Nanopelagicus, Streptomyces, Nocardioides, Ruania, Thermobifida, Sinomonas, Georgenia, Micrococcus, Clavibacter	AWTP1-35, Ilumatobacter_A, SCSIO-52915, Palsa-465, Rubrobacter_D
+OG0001450	34	19	Tsukamurella, Catellatospora, Kibdelosporangium, Gordonia, Saccharomonospora, Nocardia, Mycobacterium, Tomitella, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Corynebacterium, Saccharopolyspora, Frankia, Actinosynnema, Lawsonella, Dietzia	Streptosporangium, Cellulosimicrobium, Spirillospora, Kribbella, Kitasatospora, Nonomuraea, Streptomyces	Rubrobacter_D
+OG0000133	238	147	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Corynebacterium, Saccharopolyspora, Frankia, Actinosynnema, Lawsonella, Dietzia	Streptosporangium, Nocardiopsis, Spirillospora, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea, Streptomyces, Actinomyces, Thermobifida	Ilumatobacter_A
+OG0000061	11	11	Tsukamurella, Catellatospora, Lentzea, Actinoalloteichus, Actinopolyspora, Rhodococcus, Saccharopolyspora, Actinosynnema, Pseudonocardia	Nocardiopsis, Curtobacterium, Rothia, Leifsonia, Glutamicibacter, Rhodoluna, Aquiluna, Kitasatospora, Oerskovia, Streptomyces, Paeniglutamicibacter	Adlercreutzia, Palsa-465
+OG0003036	6	1	Tsukamurella, Gordonia, Nocardia, Actinopolyspora, Nakamurella, Actinosynnema	Streptomyces	
+OG0000025	55	45	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia	Frigoribacterium, Cellulomonas_A, Nocardiopsis, Spirillospora, Curtobacterium, Jiangella, Arthrobacter, Aeromicrobium, Glutamicibacter, Streptacidiphilus, Paenarthrobacter, Kribbella, Kitasatospora, Nonomuraea, Arthrobacter_K, Naasia, Streptomyces, Nocardioides, Sinomonas, Brachybacterium, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Clavibacter	AWTP1-35
+OG0008466	4	2	Tsukamurella, Micromonospora, Actinopolyspora, Actinokineospora	Micrococcus, Brevibacterium	
+OG0000000	160	99	Tsukamurella, Modestobacter, Klenkia, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Propionibacterium, Microbacterium, Streptosporangium, Frigoribacterium, Cellulomonas_A, Leucobacter, Nocardiopsis, Herbiconiux, Cutibacterium, Spirillospora, Kineococcus, Rathayibacter, Rhodoglobus, Jiangella, Rothia, Arthrobacter_D, Streptacidiphilus, Kribbella, Xylanimonas, Serinicoccus, Subtercola, Kitasatospora, Nonomuraea, Oerskovia, Specibacter, Arthrobacter_K, Streptomyces, Nocardioides, Thermobifida, Arthrobacter_F, Paeniglutamicibacter, Brevibacterium	AWTP1-35, Ilumatobacter_A, SCSIO-52915, Rubrobacter_D
+OG0000023	45	32	Tsukamurella, Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Tomitella, Micromonospora, Actinoalloteichus, Amycolatopsis, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Propionibacterium, Leucobacter, Nocardiopsis, Marmoricola, Spirillospora, Isoptericola, Curtobacterium, Gulosibacter, Rhodoglobus, Dermacoccus, Arthrobacter_D, Streptacidiphilus, Agreia, Subtercola, Kitasatospora, Nonomuraea, Nesterenkonia, Agromyces, Streptomyces, Janibacter, Micrococcus	AWTP1-35, Rubrobacter_D
+OG0003395	1	1	Tsukamurella	Arthrobacter_D	
+OG0000255	94	13	Tsukamurella, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Ornithinimicrobium, Rothia, Arthrobacter_D, Streptacidiphilus, Agreia, Kitasatospora, Nonomuraea, Streptomyces	
+OG0003387	19	9	Tsukamurella, Modestobacter, Klenkia, Catellatospora, Actinoplanes, Gordonia, Blastococcus, Mycobacterium, Tomitella, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Pseudonocardia, Dietzia	Marmoricola, Herbiconiux, Spirillospora, Jiangella, Aeromicrobium, Subtercola, Phycicoccus, Janibacter, Nocardioides	AWTP1-35, Ilumatobacter_A, SCSIO-52915
+OG0000926	35	15	Tsukamurella, Modestobacter, Klenkia, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Nocardia, Blastococcus, Mycobacterium, Tomitella, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Pseudonocardia, Dietzia	Propionibacterium, Streptosporangium, Marmoricola, Herbiconiux, Spirillospora, Arthrobacter_B, Jiangella, Aeromicrobium, Streptacidiphilus, Subtercola, Kitasatospora, Phycicoccus, Streptomyces, Janibacter, Nocardioides	Parafannyhessea, AWTP1-35, Ilumatobacter_A, SCSIO-52915
+OG0000358	14	9	Tsukamurella, Modestobacter, Catellatospora, Actinoplanes, Gordonia, Blastococcus, Mycobacterium, Tomitella, Nakamurella, Rhodococcus, Actinokineospora, Dietzia	Marmoricola, Herbiconiux, Spirillospora, Jiangella, Aeromicrobium, Subtercola, Phycicoccus, Streptomyces, Nocardioides	SCSIO-52915
+OG0000207	16	11	Tsukamurella, Modestobacter, Catellatospora, Actinoplanes, Gordonia, Nocardia, Mycobacterium, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Dietzia	Marmoricola, Cutibacterium, Spirillospora, Jiangella, Aeromicrobium, Subtercola, Kitasatospora, Phycicoccus, Janibacter, Nocardioides	SCSIO-52915
+OG0003708	9	7	Tsukamurella, Kibdelosporangium, Saccharomonospora, Nocardia, Mycobacterium, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Saccharopolyspora	Spirillospora, Ornithinicoccus, Streptomyces, Ruania, Thermobifida, Arthrobacter_F, Paeniglutamicibacter	
+OG0000465	3	15	Tsukamurella, Actinoalloteichus, Actinosynnema	Propionibacterium, Streptosporangium, Nocardiopsis, Herbiconiux, Trueperella, Kribbella, Xylanimonas, Nonomuraea, Ruania, Thermobifida, Brevibacterium	
+OG0000680	6	10	Tsukamurella, Kibdelosporangium, Actinoplanes, Gordonia, Tomitella, Actinosynnema	Propionibacterium, Microbacterium, Nocardiopsis, Rothia, Xylanimonas, Oerskovia, Nocardioides, Thermobifida	
+OG0001840	14	9	Tsukamurella, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Actinoalloteichus, Amycolatopsis, Rhodococcus, Actinokineospora, Frankia, Actinosynnema, Pseudonocardia	Streptosporangium, Dermatophilus, Nocardiopsis, Spirillospora, Nonomuraea, Oerskovia, Streptomyces, Nocardioides, Thermobifida	
+OG0004652	10	5	Tsukamurella, Kibdelosporangium, Actinoplanes, Gordonia, Nocardia, Tomitella, Rhodococcus, Actinosynnema, Pseudonocardia	Nocardiopsis, Rothia, Oerskovia, Nocardioides, Thermobifida	
+OG0004357	16	4	Tsukamurella, Klenkia, Kibdelosporangium, Lentzea, Gordonia, Nocardia, Tomitella, Actinoalloteichus, Actinopolyspora, Rhodococcus, Actinokineospora, Saccharopolyspora, Actinosynnema, Pseudonocardia, Dietzia	Ornithinimicrobium, Dermatophilus, Isoptericola, Serinicoccus	Ilumatobacter_A
+OG0009212	3	2	Tsukamurella, Nocardia, Actinoalloteichus	Streptacidiphilus, Xylanimonas	
+OG0006808	3	3	Tsukamurella, Nocardia, Actinoalloteichus	Streptacidiphilus, Xylanimonas, Kitasatospora	
+OG0002890	2	2	Tsukamurella, Frankia	Streptosporangium, Streptomyces	
+OG0006269	10	1	Tsukamurella, Lentzea, Gordonia, Nocardia, Mycobacterium, Frankia	Clavibacter	
+OG0001544	3	1	Tsukamurella, Nocardia, Actinokineospora	Streptosporangium	
+OG0000085	10	16	Tsukamurella, Modestobacter, Lentzea, Nocardia, Actinopolyspora, Geodermatophilus, Actinosynnema, Pseudonocardia	Propionibacterium, Streptosporangium, Frigoribacterium, Dermabacter, Demequina, Rothia, Protaetiibacter, Kribbella, Nonomuraea, Agromyces, Phycicoccus, Streptomyces, Ruania, Arthrobacter_F	
+OG0003296	3	1	Tsukamurella, Kibdelosporangium, Actinosynnema	Clavibacter	
+OG0004523	8	11	Tsukamurella, Gordonia, Nocardia, Mycobacterium, Tomitella, Amycolatopsis, Rhodococcus	Cellulosimicrobium, Acidipropionibacterium, Herbiconiux, Jiangella, Rothia, Streptacidiphilus, Kitasatospora, Arachnia, Nocardioides, Arthrobacter_F, Brevibacterium	AWTP1-35
+OG0000090	21	19	Tsukamurella, Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Actinokineospora, Saccharopolyspora, Actinosynnema	Kocuria, Streptosporangium, Cutibacterium, Spirillospora, Cryobacterium, Rothia, Arthrobacter_D, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	
+OG0002956	24	15	Tsukamurella, Kibdelosporangium, Gordonia, Saccharomonospora, Nocardia, Mycobacterium, Tomitella, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Pseudonocardia, Dietzia	Nocardiopsis, Spirillospora, Isoptericola, Dermacoccus, Ornithinicoccus, Nesterenkonia, Streptomyces, Janibacter, Ruania, Thermobifida, Brachybacterium, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Brevibacterium	
+OG0002495	20	20	Tsukamurella, Catellatospora, Kibdelosporangium, Gordonia, Saccharomonospora, Nocardia, Mycobacterium, Tomitella, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Pseudonocardia, Dietzia	Nocardiopsis, Spirillospora, Isoptericola, Jiangella, Streptacidiphilus, Ornithinicoccus, Kitasatospora, Nesterenkonia, Streptomyces, Janibacter, Ruania, Thermobifida, Brachybacterium, Arthrobacter_F, Paeniglutamicibacter, Brevibacterium	
+OG0000154	126	55	Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia, Dietzia	Propionibacterium, Streptosporangium, Nocardiopsis, Cutibacterium, Spirillospora, Leifsonia, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea, Streptomyces, Clavibacter	SCSIO-52915, Rubrobacter_D
+OG0000280	48	23	Modestobacter, Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia	Streptosporangium, Cellulosimicrobium, Spirillospora, Leifsonia, Streptacidiphilus, Paenarthrobacter, Kribbella, Kitasatospora, Nonomuraea, Oerskovia, Streptomyces, Thermobifida	
+OG0000437	7	11	Modestobacter, Lentzea, Actinoplanes, Rhodococcus, Saccharopolyspora	Microbacterium, Kocuria, Streptosporangium, Cellulomonas_A, Kitasatospora, Nonomuraea, Agromyces, Streptomyces, Paeniglutamicibacter	SCSIO-52915, Rubrobacter_D
+OG0000267	9	9	Modestobacter, Nocardia, Actinoalloteichus, Amycolatopsis, Actinokineospora, Saccharopolyspora	Streptosporangium, Cellulosimicrobium, Nocardiopsis, Demequina, Spirillospora, Isoptericola, Streptacidiphilus, Kitasatospora, Nonomuraea	
+OG0000017	37	30	Modestobacter, Catellatospora, Lentzea, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Corynebacterium, Actinosynnema, Dietzia	Propionibacterium, Microbacterium, Spirillospora, Curtobacterium, Kineococcus, Rathayibacter, Rothia, Leifsonia, Arthrobacter_D, Ornithinicoccus, Plantibacter, Specibacter, Arthrobacter_K, Streptomyces, Actinomyces, Ruania, Arthrobacter_F, Georgenia	SCSIO-52915
+OG0000964	1	3	Modestobacter	Streptosporangium, Streptacidiphilus, Kitasatospora	
+OG0001789	2	2	Modestobacter, Lentzea	Arthrobacter_B, Kitasatospora	
+OG0001628	8	5	Modestobacter, Gordonia, Blastococcus, Rhodococcus, Geodermatophilus	Spirillospora, Kitasatospora, Nocardioides, Sinomonas, Paeniglutamicibacter	AWTP1-35, Ilumatobacter_A
+OG0004193	1	3	Modestobacter	Ornithinimicrobium, Rothia, Dermacoccus	
+OG0002268	2	1	Modestobacter, Catellatospora	Agreia	
+OG0002060	3	1	Modestobacter, Klenkia, Nakamurella	Kitasatospora	
+OG0000273	10	4	Modestobacter, Klenkia, Lentzea, Gordonia, Nakamurella, Rhodococcus, Geodermatophilus	Frigoribacterium, Leifsonia, Kitasatospora, Ruania	
+OG0004192	13	7	Modestobacter, Klenkia, Kibdelosporangium, Lentzea, Nocardia, Blastococcus, Micromonospora, Actinoalloteichus, Actinopolyspora, Nakamurella, Frankia	Propionibacterium, Nocardiopsis, Subtercola, Nonomuraea, Ruania, Thermobifida	Rubrobacter_D
+OG0008711	5	1	Modestobacter, Klenkia, Blastococcus, Micromonospora, Nakamurella	Ruania	
+OG0003073	1	1	Modestobacter	Rothia	
+OG0000106	8	8	Modestobacter, Nocardia, Tomitella, Micromonospora, Amycolatopsis, Actinokineospora, Actinosynnema	Propionibacterium, Ornithinimicrobium, Acidipropionibacterium, Pedococcus, Rothia, Aquiluna, Kitasatospora, Naasia	Ilumatobacter_A, SCSIO-52915, Rubrobacter_D
+OG0001937	3	3	Modestobacter, Saccharomonospora, Rhodococcus	Streptosporangium, Spirillospora	Ilumatobacter_A
+OG0002211	6	2	Modestobacter, Gordonia, Geodermatophilus	Curtobacterium	
+OG0003995	5	2	Modestobacter, Catellatospora, Micromonospora, Amycolatopsis, Actinosynnema	Curtobacterium, Streptomyces	
+OG0008156	2	1	Modestobacter, Rhodococcus	Curtobacterium	
+OG0000071	19	13	Modestobacter, Catellatospora, Lentzea, Gordonia, Nocardia, Mycobacterium, Actinopolyspora, Amycolatopsis, Rhodococcus, Geodermatophilus, Corynebacterium, Actinosynnema, Dietzia	Kocuria, Marihabitans, Actinotalea, Curtobacterium, Arthrobacter_B, Arthrobacter, Paenarthrobacter, Plantibacter, Actinomyces, Georgenia, Micrococcus	AWTP1-35
+OG0006177	2	2	Modestobacter, Geodermatophilus	Streptosporangium, Kineococcus	SCSIO-52915
+OG0008658	3	2	Modestobacter, Klenkia, Geodermatophilus	Kineococcus, Arthrobacter_D	SCSIO-52915
+OG0001866	3	1	Modestobacter, Kibdelosporangium	Streptosporangium	
+OG0000194	24	2	Modestobacter, Klenkia, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Nocardia, Tomitella, Actinoalloteichus, Actinopolyspora, Nakamurella, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Actinosynnema, Dietzia	Rothia, Nonomuraea	Eggerthella
+OG0001096	14	3	Modestobacter, Klenkia, Gordonia, Nocardia, Tomitella, Rhodococcus, Actinosynnema	Streptosporangium, Kitasatospora, Thermobifida	
+OG0000705	2	1	Modestobacter, Blastococcus	Nanopelagicus	
+OG0002324	3	1	Modestobacter, Lentzea, Actinoalloteichus	Kribbella	
+OG0003035	2	1	Modestobacter, Lentzea	Kitasatospora	
+OG0001081	8	4	Modestobacter, Saccharomonospora, Nocardia, Micromonospora, Actinopolyspora, Rhodococcus, Actinosynnema, Dietzia	Oerskovia, Streptomyces, Thermobifida, Clavibacter	
+OG0004088	7	3	Modestobacter, Kibdelosporangium, Lentzea, Micromonospora, Actinoalloteichus	Kitasatospora, Streptomyces	
+OG0000720	17	6	Modestobacter, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Geodermatophilus, Actinosynnema, Dietzia	Pedococcus, Cutibacterium, Leifsonia, Kribbella, Streptomyces	
+OG0000083	10	19	Klenkia, Lentzea, Gordonia, Amycolatopsis, Nakamurella, Rhodococcus, Actinosynnema	Propionibacterium, Microbacterium, Frigoribacterium, Curtobacterium, Kineococcus, Rathayibacter, Rothia, Aeromicrobium, Arthrobacter_D, Planktophila, Xylanimonas, Kitasatospora, Nanopelagicus, Streptomyces, Ruania, Thermobifida	
+OG0000077	22	7	Klenkia, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Blastococcus, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Actinosynnema, Pseudonocardia	Kocuria, Streptacidiphilus, Paenarthrobacter, Kitasatospora, Nonomuraea, Nocardioides	
+OG0005700	2	9	Nocardia	Actinotignum, Microbacterium, Dermabacter, Isoptericola, Curtobacterium, Rothia, Plantibacter, Ruania, Brachybacterium	
+OG0005743	9	4	Kibdelosporangium, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis	Propionibacterium, Streptacidiphilus, Nonomuraea	
+OG0005128	2	8	Nocardia, Saccharopolyspora	Propionibacterium, Nocardiopsis, Serinicoccus, Kitasatospora, Nonomuraea, Phycicoccus, Thermobifida	
+OG0000757	58	41	Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema	Propionibacterium, Kocuria, Streptosporangium, Dermatophilus, Nocardiopsis, Spirillospora, Streptacidiphilus, Paenarthrobacter, Kribbella, Kitasatospora, Nonomuraea, Streptomyces, Actinomyces, Thermobifida, Clavibacter	
+OG0002899	16	16	Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Micromonospora, Actinoalloteichus, Amycolatopsis, Saccharopolyspora, Actinosynnema	Propionibacterium, Streptosporangium, Nocardiopsis, Spirillospora, Kribbella, Xylanimonas, Kitasatospora, Nonomuraea, Brevibacterium, Clavibacter	
+OG0004343	6	8	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Frankia	Propionibacterium, Nocardiopsis, Nonomuraea, Streptomyces, Thermobifida	
+OG0005244	8	7	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Saccharopolyspora, Frankia	Propionibacterium, Nocardiopsis, Nonomuraea, Streptomyces, Thermobifida	
+OG0000943	1	2	Nakamurella	Propionibacterium, Rathayibacter	
+OG0001579	3	2	Micromonospora, Actinopolyspora, Geodermatophilus	Propionibacterium, Nonomuraea	
+OG0003533	1	1	Rhodococcus	Propionibacterium	
+OG0000105	13	14	Catellatospora, Kibdelosporangium, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Rhodococcus, Saccharopolyspora, Actinosynnema	Propionibacterium, Kocuria, Streptosporangium, Frigoribacterium, Acidipropionibacterium, Cellulomonas_A, Spirillospora, Streptacidiphilus, Ornithinicoccus, Kribbella, Kitasatospora, Streptomyces	
+OG0000356	1	1	Nocardia	Propionibacterium	
+OG0000664	2	2	Catellatospora, Saccharopolyspora	Propionibacterium, Kitasatospora	
+OG0000216	12	12	Catellatospora, Actinoplanes, Gordonia, Nocardia, Micromonospora, Amycolatopsis, Rhodococcus, Saccharopolyspora, Frankia, Actinosynnema	Propionibacterium, Kocuria, Frigoribacterium, Streptacidiphilus, Kitasatospora, Streptomyces, Cellulomonas, Thermobifida	Ilumatobacter_A, Rubrobacter_D
+OG0000324	5	5	Saccharomonospora, Rhodococcus, Actinokineospora, Saccharopolyspora	Microbacterium, Serinicoccus, Subtercola, Nocardioides	
+OG0000696	1	4	Kibdelosporangium	Microbacterium, Agreia, Kitasatospora, Arthrobacter_F	
+OG0011374	1	3	Catellatospora	Microbacterium, Protaetiibacter, Ruania	
+OG0000346	3	3	Actinoalloteichus, Actinokineospora, Frankia	Microbacterium, Rathayibacter, Agreia	SCSIO-52915
+OG0001516	4	9	Actinoplanes, Nocardia, Saccharopolyspora, Actinosynnema	Microbacterium, Spirillospora, Rothia, Leifsonia, Arthrobacter_K, Naasia, Arachnia, Streptomyces, Cellulomonas	Ilumatobacter_A
+OG0000742	1	1	Amycolatopsis	Microbacterium	
+OG0005111	1	15	Saccharomonospora	Microbacterium, Cellulosimicrobium, Frigoribacterium, Nocardiopsis, Curtobacterium, Rothia, Leifsonia, Actinomyces, Thermobifida	
+OG0002185	2	1	Catellatospora, Frankia	Streptomyces	
+OG0008017	2	3	Catellatospora, Micromonospora	Streptosporangium, Streptacidiphilus	
+OG0003699	6	8	Catellatospora, Micromonospora	Streptosporangium, Cellulosimicrobium, Spirillospora, Streptacidiphilus	
+OG0000072	17	27	Catellatospora, Kibdelosporangium, Mycobacterium, Actinoalloteichus, Actinopolyspora, Nakamurella, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia	Nocardiopsis, Spirillospora, Arthrobacter, Glutamicibacter, Streptacidiphilus, Paenarthrobacter, Agreia, Subtercola, Kitasatospora, Plantibacter, Arthrobacter_K, Streptomyces, Sinomonas, Arthrobacter_F, Paeniglutamicibacter, Micrococcus, Clavibacter	
+OG0001406	4	4	Catellatospora, Lentzea, Actinokineospora, Pseudonocardia	Streptosporangium, Spirillospora, Thermobifida	
+OG0003901	7	4	Catellatospora, Nocardia, Mycobacterium, Amycolatopsis, Rhodococcus, Actinokineospora, Dietzia	Paenarthrobacter, Phycicoccus, Janibacter, Arthrobacter_F	AWTP1-35, Ilumatobacter_A
+OG0000286	2	2	Catellatospora, Rhodococcus	Streptacidiphilus, Kitasatospora	
+OG0006882	2	4	Catellatospora	Nocardiopsis, Agreia, Brevibacterium, Clavibacter	
+OG0000013	3	5	Catellatospora, Micromonospora, Actinoalloteichus	Spirillospora, Ornithinicoccus, Kitasatospora, Agromyces, Streptomyces	
+OG0004650	11	6	Catellatospora, Kibdelosporangium, Lentzea, Actinoalloteichus, Amycolatopsis, Actinokineospora, Actinosynnema	Streptacidiphilus, Kribbella, Kitasatospora, Agromyces, Clavibacter	
+OG0000031	175	82	Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Saccharomonospora, Nocardia, Blastococcus, Mycobacterium, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Actinokineospora, Geodermatophilus, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia	Streptosporangium, Nocardiopsis, Spirillospora, Actinotalea, Rothia, Dermacoccus, Streptacidiphilus, Ornithinicoccus, Kribbella, Kitasatospora, Nonomuraea, Streptomyces, Nocardioides, Thermobifida, Paeniglutamicibacter	Palsa-465
+OG0005022	7	6	Catellatospora, Micromonospora, Actinokineospora, Actinosynnema	Streptosporangium, Cutibacterium, Streptacidiphilus	
+OG0000461	32	10	Catellatospora, Kibdelosporangium, Gordonia, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Actinokineospora, Actinosynnema	Streptosporangium, Nocardiopsis, Spirillospora, Kitasatospora, Nonomuraea, Streptomyces, Thermobifida	
+OG0000191	17	17	Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Actinoalloteichus, Actinopolyspora, Nakamurella, Actinokineospora, Geodermatophilus, Saccharopolyspora, Pseudonocardia	Kocuria, Streptosporangium, Cutibacterium, Spirillospora, Isoptericola, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea, Streptomyces, Arthrobacter_F	Ilumatobacter_A, Rubrobacter_D
+OG0000244	12	12	Catellatospora, Kibdelosporangium, Nocardia, Actinoalloteichus, Amycolatopsis, Saccharopolyspora, Frankia, Actinosynnema, Pseudonocardia	Jiangella, Streptacidiphilus, Xylanimonas, Kitasatospora, Nonomuraea, Streptomyces, Brevibacterium	
+OG0003801	11	15	Catellatospora, Lentzea, Actinoplanes, Nocardia, Actinoalloteichus, Actinopolyspora, Saccharopolyspora, Actinosynnema	Streptosporangium, Dermatophilus, Spirillospora, Jiangella, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea, Streptomyces	
+OG0000320	9	13	Catellatospora, Lentzea, Actinoplanes, Nocardia, Nakamurella, Saccharopolyspora, Actinosynnema	Streptosporangium, Cellulosimicrobium, Dermatophilus, Spirillospora, Curtobacterium, Ornithinicoccus, Kitasatospora, Plantibacter, Nonomuraea, Streptomyces	Rubrobacter_D
+OG0008848	1	1	Catellatospora	Kitasatospora	
+OG0003581	1	1	Catellatospora	Kitasatospora	
+OG0000264	12	10	Catellatospora, Nocardia, Micromonospora, Actinoalloteichus, Amycolatopsis, Nakamurella, Rhodococcus, Actinokineospora, Saccharopolyspora	Streptosporangium, Spirillospora, Kineococcus, Arthrobacter, Streptacidiphilus, Paenarthrobacter, Kitasatospora, Arthrobacter_K	
+OG0002133	26	20	Catellatospora, Kibdelosporangium, Lentzea, Actinoplanes, Micromonospora, Actinoalloteichus, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema	Streptosporangium, Dermatophilus, Spirillospora, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces, Thermobifida	
+OG0000260	7	2	Catellatospora, Saccharomonospora, Nocardia, Actinoalloteichus, Actinopolyspora, Dietzia	Isoptericola, Serinicoccus	
+OG0001457	11	13	Catellatospora, Kibdelosporangium, Actinoplanes, Gordonia, Tomitella, Micromonospora, Rhodococcus, Saccharopolyspora, Frankia	Streptosporangium, Spirillospora, Glutamicibacter, Ornithinicoccus, Subtercola, Streptomyces, Nocardioides, Paeniglutamicibacter, Brevibacterium	AWTP1-35, Rubrobacter_D
+OG0001849	3	2	Catellatospora, Mycobacterium, Rhodococcus	Streptosporangium, Kitasatospora	
+OG0002641	7	16	Catellatospora, Kibdelosporangium, Actinokineospora, Saccharopolyspora	Nocardiopsis, Rathayibacter, Rothia, Dermacoccus, Streptacidiphilus, Ornithinicoccus, Serinicoccus, Kitasatospora, Nonomuraea, Phycicoccus, Nocardioides, Thermobifida, Brevibacterium, Clavibacter	
+OG0006574	8	2	Catellatospora, Kibdelosporangium, Lentzea, Micromonospora, Actinokineospora, Actinosynnema	Streptosporangium, Nonomuraea	
+OG0001394	12	10	Catellatospora, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema	Streptosporangium, Dermatophilus, Spirillospora, Streptacidiphilus, Kitasatospora, Streptomyces	
+OG0003464	19	10	Catellatospora, Kibdelosporangium, Lentzea, Nocardia, Micromonospora, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema	Streptosporangium, Spirillospora, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	
+OG0004524	2	1	Catellatospora, Actinoalloteichus	Sinomonas	
+OG0002863	1	2	Catellatospora	Actinotalea, Nonomuraea	SCSIO-52915, Rubrobacter_D
+OG0000327	11	8	Catellatospora, Kibdelosporangium, Actinoplanes, Gordonia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Dietzia	Streptosporangium, Spirillospora, Nonomuraea, Streptomyces	
+OG0002519	19	10	Catellatospora, Kibdelosporangium, Lentzea, Saccharomonospora, Micromonospora, Actinoalloteichus, Amycolatopsis, Rhodococcus, Actinokineospora, Saccharopolyspora, Actinosynnema	Spirillospora, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	Rubrobacter_D
+OG0001486	3	5	Saccharopolyspora	Ornithinimicrobium, Aeromicrobium, Kitasatospora, Streptomyces, Thermobifida	Adlercreutzia
+OG0008029	2	4	Nocardia	Ornithinimicrobium, Kitasatospora	
+OG0004112	1	11	Actinosynnema	Ornithinimicrobium, Acidipropionibacterium, Dermatophilus, Isoptericola, Streptacidiphilus, Serinicoccus, Arachnia, Streptomyces, Brachybacterium, Brevibacterium	
+OG0002167	10	25	Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema, Dietzia	Kocuria, Marihabitans, Cellulosimicrobium, Frigoribacterium, Cellulomonas_A, Isoptericola, Curtobacterium, Arthrobacter_B, Jiangella, Rothia, Arthrobacter, Dermacoccus, Glutamicibacter, Paenarthrobacter, Kribbella, Kitasatospora, Agromyces, Streptomyces, Cellulomonas, Janibacter, Brachybacterium, Arthrobacter_F, Paeniglutamicibacter, Brevibacterium, Clavibacter	
+OG0002341	2	19	Corynebacterium, Dietzia	Kocuria, Frigoribacterium, Acidipropionibacterium, Cellulomonas_A, Actinotalea, Cryobacterium, Curtobacterium, Rathayibacter, Gulosibacter, Arthrobacter_B, Leifsonia, Glutamicibacter, Aquiluna, Subtercola, Plantibacter, Naasia, Sinomonas, Georgenia, Clavibacter	
+OG0002589	1	3	Rhodococcus	Kocuria, Streptomyces	
+OG0000111	10	14	Lentzea, Actinoplanes, Nocardia, Amycolatopsis, Geodermatophilus, Saccharopolyspora, Frankia	Kocuria, Actinotalea, Curtobacterium, Arthrobacter_B, Arthrobacter_D, Glutamicibacter, Rhodoluna, Aquiluna, Kitasatospora, Nonomuraea, Streptomyces, Arthrobacter_F, Clavibacter	
+OG0000238	5	8	Kibdelosporangium, Saccharomonospora, Micromonospora, Saccharopolyspora, Actinosynnema	Kocuria, Streptosporangium, Aeromicrobium, Streptacidiphilus, Paenarthrobacter, Kribbella, Nocardioides	
+OG0003556	1	1	Amycolatopsis	Kocuria	
+OG0006049	9	3	Kibdelosporangium, Lentzea, Saccharomonospora, Micromonospora, Actinoalloteichus, Amycolatopsis, Saccharopolyspora, Actinosynnema	Streptacidiphilus, Kitasatospora, Streptomyces	
+OG0001137	17	5	Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Micromonospora, Amycolatopsis, Rhodococcus, Actinokineospora, Actinosynnema	Streptosporangium, Kitasatospora, Thermobifida	
+OG0000269	16	15	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Amycolatopsis, Nakamurella, Rhodococcus, Geodermatophilus, Saccharopolyspora, Actinosynnema	Streptosporangium, Actinotalea, Agrococcus, Agreia, Kitasatospora, Nonomuraea, Streptomyces, Thermobifida, Brevibacterium	
+OG0004332	5	11	Kibdelosporangium, Lentzea, Nocardia, Rhodococcus	Streptosporangium, Cellulosimicrobium, Spirillospora, Kribbella, Kitasatospora, Nonomuraea, Streptomyces	
+OG0005744	9	4	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Actinopolyspora, Actinokineospora, Saccharopolyspora	Streptacidiphilus, Kitasatospora, Nonomuraea	
+OG0001573	1	4	Kibdelosporangium	Dermabacter, Demequina, Actinotalea, Streptacidiphilus	Adlercreutzia, Ilumatobacter_A, Palsa-465
+OG0000366	6	1	Kibdelosporangium, Nocardia, Actinokineospora	Spirillospora	
+OG0000196	6	1	Kibdelosporangium, Lentzea, Nocardia, Micromonospora, Amycolatopsis	Kitasatospora	
+OG0000923	18	7	Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Tomitella, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Nakamurella, Actinokineospora, Actinosynnema, Pseudonocardia	Streptosporangium, Kineococcus, Jiangella, Kitasatospora, Nonomuraea	
+OG0000335	2	1	Kibdelosporangium, Lentzea	Streptomyces	Ilumatobacter_A
+OG0000284	8	6	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Actinokineospora, Actinosynnema	Dermatophilus, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	
+OG0011282	3	1	Kibdelosporangium, Actinosynnema	Thermobifida	
+OG0003166	19	13	Kibdelosporangium, Actinoplanes, Micromonospora, Actinopolyspora, Amycolatopsis, Actinokineospora, Frankia, Actinosynnema, Pseudonocardia	Nocardiopsis, Demequina, Spirillospora, Jiangella, Streptacidiphilus, Kribbella, Kitasatospora, Oerskovia, Streptomyces, Thermobifida	
+OG0003353	20	12	Kibdelosporangium, Lentzea, Actinoplanes, Micromonospora, Actinopolyspora, Amycolatopsis, Actinokineospora, Frankia, Actinosynnema, Pseudonocardia	Nocardiopsis, Demequina, Spirillospora, Jiangella, Kribbella, Kitasatospora, Oerskovia, Streptomyces, Thermobifida	
+OG0000601	19	19	Kibdelosporangium, Actinoplanes, Micromonospora, Actinoalloteichus, Actinopolyspora, Actinokineospora, Frankia, Actinosynnema, Pseudonocardia	Nocardiopsis, Spirillospora, Jiangella, Kribbella, Nonomuraea, Streptomyces, Ruania, Thermobifida	
+OG0000159	13	6	Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Nakamurella, Actinosynnema	Cutibacterium, Streptacidiphilus, Kribbella, Kitasatospora, Nonomuraea	
+OG0002523	5	1	Kibdelosporangium, Nocardia, Micromonospora, Amycolatopsis, Actinosynnema	Thermobifida	
+OG0002884	7	1	Kibdelosporangium, Lentzea, Nocardia, Actinokineospora, Actinosynnema	Spirillospora	
+OG0000609	9	5	Kibdelosporangium, Lentzea, Mycobacterium, Rhodococcus, Actinokineospora, Saccharopolyspora, Frankia	Spirillospora, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	AWTP1-35
+OG0003561	2	2	Kibdelosporangium, Lentzea	Oerskovia, Arthrobacter_K	
+OG0003505	9	3	Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Micromonospora, Actinoalloteichus, Actinosynnema	Nocardiopsis, Spirillospora, Streptacidiphilus	Palsa-465
+OG0005491	2	2	Kibdelosporangium, Micromonospora	Streptomyces	
+OG0000040	13	8	Kibdelosporangium, Lentzea, Actinoplanes, Gordonia, Nocardia, Tomitella, Actinokineospora, Frankia, Actinosynnema	Cellulosimicrobium, Spirillospora, Rhodoglobus, Kitasatospora, Streptomyces, Ruania	Rubrobacter_D
+OG0004689	2	2	Kibdelosporangium, Actinopolyspora	Streptacidiphilus, Streptomyces	
+OG0004845	2	2	Kibdelosporangium, Micromonospora	Streptacidiphilus, Streptomyces	
+OG0001835	4	3	Kibdelosporangium, Nocardia, Actinoalloteichus, Amycolatopsis	Streptosporangium, Streptacidiphilus	
+OG0004799	9	9	Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema, Pseudonocardia	Nocardiopsis, Spirillospora, Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces	
+OG0005423	9	2	Kibdelosporangium, Lentzea, Nocardia, Amycolatopsis, Geodermatophilus, Saccharopolyspora, Pseudonocardia	Arthrobacter_B, Streptomyces	SCSIO-52915
+OG0005424	11	2	Kibdelosporangium, Lentzea, Actinoplanes, Nocardia, Amycolatopsis, Geodermatophilus, Saccharopolyspora, Pseudonocardia	Arthrobacter_B, Streptomyces	SCSIO-52915
+OG0005409	9	3	Kibdelosporangium, Nocardia, Micromonospora, Actinoalloteichus, Amycolatopsis, Actinokineospora, Actinosynnema	Streptosporangium, Nocardiopsis, Thermobifida	
+OG0000368	12	6	Kibdelosporangium, Lentzea, Saccharomonospora, Nocardia, Amycolatopsis, Rhodococcus	Jiangella, Nonomuraea, Agromyces, Nocardioides, Thermobifida	
+OG0002031	2	1	Kibdelosporangium, Amycolatopsis	Thermobifida	
+OG0007143	3	6	Kibdelosporangium, Actinoplanes, Actinopolyspora	Paenarthrobacter, Kitasatospora, Oerskovia, Thermobifida, Brevibacterium	
+OG0000340	20	16	Kibdelosporangium, Lentzea, Saccharomonospora, Nocardia, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema	Nocardiopsis, Spirillospora, Actinotalea, Leifsonia, Streptacidiphilus, Paenarthrobacter, Kribbella, Kitasatospora, Nonomuraea, Oerskovia, Streptomyces, Thermobifida	
+OG0007472	1	5	Kibdelosporangium	Streptosporangium, Spirillospora, Kitasatospora, Nonomuraea, Streptomyces	
+OG0004914	13	3	Kibdelosporangium, Actinoplanes, Micromonospora, Actinopolyspora, Actinokineospora, Frankia, Actinosynnema	Nocardiopsis, Spirillospora	
+OG0006612	6	3	Kibdelosporangium, Actinoplanes, Micromonospora, Actinokineospora	Nocardiopsis, Thermobifida	
+OG0011283	2	1	Kibdelosporangium, Micromonospora	Kitasatospora	
+OG0005293	12	3	Kibdelosporangium, Lentzea, Nocardia, Actinoalloteichus, Amycolatopsis, Actinokineospora, Actinosynnema	Spirillospora, Nonomuraea, Streptomyces	
+OG0000289	27	7	Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Nocardia, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Actinosynnema, Dietzia	Spirillospora, Streptacidiphilus, Kitasatospora, Streptomyces	
+OG0000429	2	2	Kibdelosporangium, Actinosynnema	Streptacidiphilus, Streptomyces	
+OG0000476	6	4	Kibdelosporangium, Nocardia, Micromonospora, Actinosynnema	Kribbella, Nonomuraea, Actinomyces, Paeniglutamicibacter	Eggerthella
+OG0001021	1	1	Kibdelosporangium	Kitasatospora	
+OG0008767	2	4	Kibdelosporangium, Lentzea	Streptosporangium	
+OG0000570	6	4	Kibdelosporangium, Nocardia, Micromonospora, Actinopolyspora, Amycolatopsis	Dermacoccus, Glutamicibacter, Kribbella, Clavibacter	
+OG0000385	14	7	Kibdelosporangium, Actinoplanes, Saccharomonospora, Blastococcus, Micromonospora, Actinoalloteichus, Actinopolyspora, Amycolatopsis, Rhodococcus, Saccharopolyspora, Actinosynnema	Spirillospora, Streptacidiphilus, Kitasatospora, Streptomyces, Janibacter	AWTP1-35
+OG0001313	3	1	Kibdelosporangium, Nocardia	Streptosporangium	
+OG0005621	4	1	Kibdelosporangium, Nocardia, Actinokineospora	Streptosporangium	
+OG0000205	10	8	Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Micromonospora, Amycolatopsis, Rhodococcus, Frankia, Pseudonocardia	Streptosporangium, Subtercola, Kitasatospora, Nonomuraea, Streptomyces, Nocardioides	
+OG0000352	11	10	Kibdelosporangium, Lentzea, Actinoplanes, Saccharomonospora, Micromonospora, Amycolatopsis, Rhodococcus, Frankia	Streptosporangium, Spirillospora, Streptacidiphilus, Subtercola, Kitasatospora, Nonomuraea, Streptomyces, Nocardioides	
+OG0002225	2	1	Kibdelosporangium, Tomitella	Rathayibacter	
+OG0005415	3	1	Kibdelosporangium, Micromonospora, Actinosynnema	Streptomyces	
+OG0001955	3	3	Micromonospora, Rhodococcus	Streptosporangium, Spirillospora, Kitasatospora	
+OG0003868	8	17	Gordonia, Nocardia, Blastococcus, Actinopolyspora, Rhodococcus, Saccharopolyspora, Actinosynnema	Streptosporangium, Cellulomonas_A, Nocardiopsis, Spirillospora, Dermacoccus, Streptacidiphilus, Xylanimonas, Agreia, Kitasatospora, Arthrobacter_K, Streptomyces	
+OG0002110	2	1	Amycolatopsis, Actinokineospora	Streptosporangium	
+OG0001879	3	2	Tomitella, Micromonospora	Streptosporangium, Kitasatospora	
+OG0002729	7	9	Saccharomonospora, Nocardia, Actinoalloteichus, Amycolatopsis, Frankia, Actinosynnema	Streptosporangium, Nocardiopsis, Spirillospora, Kitasatospora, Nonomuraea, Streptomyces	
+OG0002365	1	2	Actinoplanes	Streptosporangium, Kitasatospora	
+OG0001777	1	4	Pseudonocardia	Streptosporangium, Spirillospora, Nonomuraea, Thermobifida	Rubrobacter_D
+OG0003145	1	3	Actinoalloteichus	Streptosporangium, Kitasatospora	
+OG0002097	1	2	Micromonospora	Streptosporangium, Oerskovia	
+OG0000986	4	4	Amycolatopsis, Rhodococcus, Saccharopolyspora	Streptosporangium, Streptomyces, Nocardioides	Ilumatobacter_A
+OG0007482	1	1	Actinoalloteichus	Streptosporangium	
+OG0002645	2	2	Lentzea, Amycolatopsis	Streptosporangium, Nonomuraea	
+OG0003045	3	3	Amycolatopsis, Actinokineospora, Actinosynnema	Streptosporangium, Streptomyces, Thermobifida	
+OG0001732	1	3	Lawsonella	Streptosporangium, Paeniglutamicibacter	
+OG0004582	1	3	Nocardia	Streptosporangium, Streptacidiphilus, Streptomyces	AWTP1-35
+OG0008061	1	6	Saccharopolyspora	Streptosporangium, Dermatophilus, Spirillospora, Kitasatospora, Nonomuraea, Streptomyces	
+OG0001829	4	2	Lentzea, Actinoplanes, Micromonospora, Actinosynnema	Nonomuraea, Clavibacter	
+OG0000981	1	2	Lentzea	Frigoribacterium, Plantibacter	
+OG0006084	5	1	Lentzea, Saccharomonospora, Actinoalloteichus, Dietzia	Cutibacterium	
+OG0001684	9	4	Lentzea, Gordonia, Nocardia, Micromonospora, Amycolatopsis, Actinokineospora, Saccharopolyspora, Frankia	Spirillospora, Streptacidiphilus, Thermobifida, Arthrobacter_F	
+OG0001085	7	6	Lentzea, Actinoplanes, Nocardia, Micromonospora, Actinopolyspora, Frankia	Spirillospora, Kitasatospora, Plantibacter, Streptomyces, Ruania	
+OG0013562	2	1	Lentzea, Actinosynnema	Kitasatospora	
+OG0009198	3	2	Lentzea	Streptomyces	
+OG0013563	1	1	Lentzea	Streptomyces	
+OG0009766	1	1	Lentzea	Kribbella	
+OG0002685	9	3	Lentzea, Actinoplanes, Nocardia, Micromonospora, Actinoalloteichus, Amycolatopsis, Saccharopolyspora	Streptacidiphilus, Streptomyces	
+OG0007021	5	3	Lentzea, Saccharomonospora, Geodermatophilus, Frankia	Cutibacterium, Kitasatospora, Streptomyces	
+OG0000808	2	2	Lentzea, Geodermatophilus	Rothia, Georgenia	
+OG0008385	1	1	Lentzea	Streptomyces	
+OG0008386	2	3	Lentzea, Actinopolyspora	Nonomuraea, Streptomyces	
+OG0007002	2	4	Lentzea, Saccharomonospora	Nonomuraea, Streptomyces	
+OG0001488	3	2	Lentzea, Amycolatopsis, Saccharopolyspora	Streptacidiphilus, Streptomyces	
+OG0000272	1	2	Lentzea	Isoptericola, Janibacter	
+OG0001067	6	3	Lentzea, Nocardia, Micromonospora, Actinoalloteichus, Amycolatopsis, Pseudonocardia	Cellulosimicrobium, Arthrobacter_K, Phycicoccus	Rubrobacter_D
+OG0006801	2	1	Lentzea, Actinopolyspora	Kitasatospora	
+OG0002403	10	5	Lentzea, Actinoplanes, Gordonia, Actinopolyspora, Actinokineospora, Saccharopolyspora, Frankia	Arthrobacter_B, Aeromicrobium, Streptomyces, Nocardioides	AWTP1-35
+OG0001724	3	3	Lentzea, Mycobacterium	Rothia, Streptacidiphilus, Streptomyces	
+OG0002001	8	1	Lentzea, Saccharomonospora, Nocardia, Actinoalloteichus, Amycolatopsis, Frankia, Dietzia	Spirillospora	
+OG0010195	1	3	Lentzea	Streptacidiphilus	
+OG0003370	2	1	Lentzea, Pseudonocardia	Kribbella	
+OG0003804	16	9	Lentzea, Nocardia, Mycobacterium, Micromonospora, Amycolatopsis, Saccharopolyspora, Actinosynnema	Streptacidiphilus, Kitasatospora, Nonomuraea, Streptomyces, Thermobifida	
+OG0001011	5	7	Nocardia, Amycolatopsis, Nakamurella, Actinosynnema, Pseudonocardia	Cellulosimicrobium, Pedococcus, Herbiconiux, Leifsonia, Streptacidiphilus, Thermobifida, Clavibacter	
+OG0010813	1	1	Nakamurella	Cellulosimicrobium	
+OG0001995	2	2	Rhodococcus, Actinokineospora	Cellulosimicrobium, Actinomyces	
+OG0001072	1	2	Actinopolyspora	Frigoribacterium, Paenarthrobacter	Palsa-465
+OG0004639	1	7	Micromonospora	Frigoribacterium, Cutibacterium, Rathayibacter, Rothia, Leifsonia, Subtercola, Micrococcus	
+OG0003012	2	4	Actinoplanes, Actinopolyspora	Frigoribacterium, Leucobacter, Agrococcus, Protaetiibacter	SCSIO-52915, Rubrobacter_D
+OG0011089	1	1	Actinoplanes	Kitasatospora	
+OG0010488	1	1	Actinoplanes	Gulosibacter	
+OG0014334	1	1	Actinoplanes	Gulosibacter	
+OG0001873	1	3	Actinoplanes	Streptacidiphilus, Kitasatospora	
+OG0003608	2	1	Actinoplanes, Saccharomonospora	Streptacidiphilus	
+OG0000063	7	2	Actinoplanes, Nocardia, Micromonospora, Rhodococcus, Actinosynnema	Dermatophilus, Nonomuraea	
+OG0003363	3	1	Actinoplanes, Micromonospora	Kitasatospora	
+OG0000474	5	4	Actinoplanes, Actinopolyspora, Amycolatopsis, Geodermatophilus	Spirillospora, Curtobacterium, Streptacidiphilus, Kitasatospora	
+OG0005069	5	4	Actinoplanes, Nocardia, Saccharopolyspora, Actinosynnema	Spirillospora, Leifsonia, Arachnia, Cellulomonas	Ilumatobacter_A
+OG0002819	1	1	Actinoplanes	Nocardiopsis	
+OG0001723	6	1	Actinoplanes, Gordonia, Nocardia, Blastococcus, Mycobacterium, Geodermatophilus	Kitasatospora	Ilumatobacter_A
+OG0000316	2	4	Actinoplanes, Mycobacterium	Spirillospora, Streptomyces, Brevibacterium, Clavibacter	
+OG0001501	5	4	Actinoplanes, Actinopolyspora, Saccharopolyspora	Isoptericola, Kribbella, Arthrobacter_F, Georgenia	
+OG0000259	2	2	Actinoplanes, Micromonospora	Kribbella, Streptomyces	
+OG0010380	2	1	Actinoplanes, Actinosynnema	Kitasatospora	
+OG0002224	2	1	Actinoplanes, Corynebacterium	Nocardiopsis	
+OG0002028	4	1	Gordonia, Nocardia, Actinoalloteichus, Rhodococcus	Agreia	
+OG0002610	3	1	Gordonia, Actinoalloteichus, Rhodococcus	Agreia	
+OG0007248	3	3	Gordonia, Saccharomonospora, Nocardia	Spirillospora, Kitasatospora, Streptomyces	
+OG0003267	2	2	Gordonia, Rhodococcus	Rathayibacter	
+OG0000770	1	1	Gordonia	Dermabacter	Adlercreutzia
+OG0002184	1	1	Rhodococcus	Leucobacter	
+OG0001481	2	1	Saccharomonospora	Arthrobacter_D	
+OG0005959	5	4	Saccharomonospora, Blastococcus, Actinopolyspora, Saccharopolyspora, Frankia	Spirillospora, Kitasatospora, Streptomyces	
+OG0004344	13	6	Saccharomonospora, Nocardia, Blastococcus, Micromonospora, Actinoalloteichus, Actinopolyspora, Actinokineospora, Saccharopolyspora, Frankia, Actinosynnema	Spirillospora, Streptacidiphilus, Kitasatospora, Streptomyces	
+OG0003302	5	1	Saccharomonospora, Nocardia, Amycolatopsis, Actinokineospora, Saccharopolyspora	Streptomyces	
+OG0003108	6	1	Saccharomonospora, Nocardia, Actinoalloteichus, Actinokineospora	Nonomuraea	
+OG0005636	1	2	Saccharomonospora	Spirillospora	
+OG0000388	1	12	Actinoalloteichus	Nocardiopsis, Herbiconiux, Rothia, Streptacidiphilus, Agreia, Kitasatospora, Streptomyces, Janibacter	Ilumatobacter_A
+OG0014881	1	2	Nocardia	Nocardiopsis, Spirillospora	
+OG0006822	2	6	Nocardia, Saccharopolyspora	Nocardiopsis, Streptacidiphilus, Kitasatospora, Nonomuraea, Thermobifida	
+OG0006100	2	10	Nocardia, Saccharopolyspora	Nocardiopsis, Streptacidiphilus, Serinicoccus, Kitasatospora, Nonomuraea, Phycicoccus, Thermobifida	
+OG0007277	2	6	Nocardia, Saccharopolyspora	Nocardiopsis, Streptacidiphilus, Serinicoccus, Kitasatospora, Nonomuraea, Phycicoccus	
+OG0000349	9	8	Nocardia, Mycobacterium, Amycolatopsis, Nakamurella, Geodermatophilus, Saccharopolyspora, Actinosynnema	Nocardiopsis, Spirillospora, Leifsonia, Paenarthrobacter, Arthrobacter_K, Phycicoccus	Ilumatobacter_A, SCSIO-52915
+OG0011617	3	1	Actinoalloteichus, Actinopolyspora, Amycolatopsis	Nocardiopsis	
+OG0009830	2	3	Frankia, Actinosynnema	Nocardiopsis, Streptacidiphilus, Kitasatospora	
+OG0000276	1	3	Nocardia	Dermabacter, Arthrobacter_D, Nonomuraea	
+OG0001802	1	2	Micromonospora	Demequina, Streptomyces	
+OG0001343	2	6	Amycolatopsis, Frankia	Herbiconiux, Streptacidiphilus, Kitasatospora, Arthrobacter_K, Streptomyces	Ilumatobacter_A
+OG0003222	1	2	Micromonospora	Herbiconiux, Kitasatospora	
+OG0000927	1	6	Micromonospora	Cutibacterium, Rothia, Subtercola, Plantibacter, Ruania, Micrococcus	
+OG0000401	7	7	Nocardia, Actinopolyspora, Amycolatopsis, Rhodococcus, Saccharopolyspora	Spirillospora, Streptomyces, Nocardioides	Ilumatobacter_A
+OG0012254	2	1	Nocardia	Spirillospora	
+OG0009844	4	1	Actinopolyspora, Actinokineospora, Frankia, Actinosynnema	Spirillospora	
+OG0007897	1	1	Amycolatopsis	Spirillospora	
+OG0012897	1	1	Actinopolyspora	Spirillospora	
+OG0003636	1	1	Rhodococcus	Spirillospora	
+OG0001290	3	2	Mycobacterium, Actinoalloteichus, Rhodococcus	Spirillospora, Streptacidiphilus	
+OG0002109	3	2	Nocardia, Amycolatopsis	Spirillospora, Georgenia	
+OG0005289	1	3	Actinoalloteichus	Spirillospora, Streptomyces	
+OG0000336	1	6	Actinosynnema	Actinotalea, Agreia, Subtercola, Kitasatospora, Naasia	
+OG0010362	2	1	Nocardia, Saccharopolyspora	Nocardioides	
+OG0003558	1	1	Nocardia	Streptomyces	
+OG0007318	1	2	Nocardia	Streptacidiphilus, Streptomyces	
+OG0001806	4	1	Nocardia, Micromonospora, Geodermatophilus	Nonomuraea	
+OG0001731	2	1	Nocardia, Actinokineospora	Arthrobacter_F	
+OG0000698	1	2	Nocardia	Agreia, Subtercola	
+OG0003530	2	1	Nocardia, Actinosynnema	Streptomyces	
+OG0003080	3	1	Nocardia, Tomitella, Amycolatopsis	Nocardioides	
+OG0012169	2	2	Nocardia, Actinosynnema	Streptomyces	
+OG0007536	1	2	Nocardia	Streptomyces	
+OG0008495	2	4	Nocardia, Amycolatopsis	Kitasatospora, Streptomyces, Clavibacter	
+OG0001033	2	2	Nocardia, Actinosynnema	Specibacter, Actinomyces	Ilumatobacter_A, SCSIO-52915, Rubrobacter_D
+OG0000866	2	1	Nocardia, Mycobacterium	Kineococcus	
+OG0000872	1	1	Nocardia	Plantibacter	
+OG0002644	2	1	Nocardia, Geodermatophilus	Agrococcus	Ilumatobacter_A
+OG0002122	2	2	Blastococcus, Rhodococcus	Kribbella, Agreia	Ilumatobacter_A
+OG0000947	2	1	Blastococcus, Micromonospora	Rothia	
+OG0001596	3	2	Mycobacterium, Micromonospora, Amycolatopsis	Curtobacterium, Nocardioides	Ilumatobacter_A
+OG0001655	1	3	Actinosynnema	Kineococcus, Streptacidiphilus, Thermobifida	
+OG0002972	1	2	Micromonospora	Kineococcus, Jiangella	
+OG0007414	1	2	Micromonospora	Kineococcus, Jiangella	
+OG0004572	1	2	Rhodococcus	Rathayibacter, Subtercola	
+OG0002869	1	1	Mycobacterium	Thermobifida	
+OG0003407	1	1	Mycobacterium	Brachybacterium	
+OG0001587	3	1	Mycobacterium, Micromonospora, Actinosynnema	Streptomyces	
+OG0002540	3	1	Micromonospora	Streptomyces	
+OG0002132	4	3	Micromonospora, Actinopolyspora, Rhodococcus	Streptacidiphilus, Ornithinicoccus, Kitasatospora	
+OG0005294	5	1	Micromonospora, Saccharopolyspora, Actinosynnema	Kribbella	
+OG0002629	3	1	Micromonospora, Frankia, Actinosynnema	Kitasatospora	
+OG0001890	2	1	Micromonospora, Actinokineospora	Xylanimonas	
+OG0006888	3	1	Micromonospora	Kribbella	
+OG0010400	3	1	Micromonospora, Amycolatopsis, Saccharopolyspora	Kitasatospora	
+OG0005101	5	2	Micromonospora, Actinoalloteichus, Actinokineospora, Saccharopolyspora, Actinosynnema	Kribbella	
+OG0009450	2	1	Micromonospora, Actinosynnema	Kribbella	
+OG0000399	2	1	Micromonospora, Geodermatophilus	Streptomyces	
+OG0003597	2	3	Micromonospora, Actinopolyspora	Streptacidiphilus, Kitasatospora, Streptomyces	
+OG0006199	3	3	Micromonospora, Actinopolyspora, Nakamurella	Streptomyces	
+OG0006960	4	1	Micromonospora, Actinopolyspora, Nakamurella	Streptomyces	
+OG0006428	1	1	Micromonospora	Nonomuraea	
+OG0002320	4	7	Nakamurella, Geodermatophilus, Actinosynnema	Agrococcus, Nonomuraea, Thermobifida	
+OG0000262	5	2	Actinoalloteichus, Actinopolyspora, Saccharopolyspora, Actinosynnema, Pseudonocardia	Streptacidiphilus, Kitasatospora	
+OG0005957	4	1	Actinoalloteichus, Saccharopolyspora, Actinosynnema	Nonomuraea	
+OG0000098	2	1	Actinoalloteichus, Pseudonocardia	Kitasatospora	
+OG0001269	2	1	Actinopolyspora, Rhodococcus	Janibacter	
+OG0003665	1	1	Actinopolyspora	Georgenia	
+OG0003813	1	1	Actinopolyspora	Brevibacterium	
+OG0005669	1	1	Amycolatopsis	Kribbella	
+OG0002701	1	2	Amycolatopsis	Arthrobacter_D, Kitasatospora	
+OG0001177	1	2	Amycolatopsis	Paeniglutamicibacter, Micrococcus	
+OG0001526	3	1	Amycolatopsis, Actinokineospora	Phycicoccus	
+OG0006459	1	4	Amycolatopsis	Streptacidiphilus, Kitasatospora, Streptomyces, Thermobifida	
+OG0005750	1	1	Amycolatopsis	Kitasatospora	
+OG0007058	1	3	Amycolatopsis	Streptacidiphilus, Streptomyces, Thermobifida	
+OG0016311	1	1	Pseudonocardia	Glutamicibacter	
+OG0016312	1	1	Pseudonocardia	Glutamicibacter	
+OG0003810	2	1	Frankia, Actinosynnema	Paenarthrobacter	
+OG0001712	1	1	Rhodococcus	Kitasatospora	
+OG0000755	1	1	Rhodococcus	Arthrobacter_F	
+OG0003157	1	6	Actinosynnema	Kribbella, Thermobifida	
+OG0001449	1	4	Actinosynnema	Aquiluna, Oerskovia, Janibacter, Paeniglutamicibacter	
+OG0011840	1	2	Actinokineospora	Kitasatospora, Thermobifida	
+OG0010280	2	3	Actinokineospora, Saccharopolyspora	Nonomuraea, Thermobifida, Brevibacterium	
+OG0003733	1	3	Actinosynnema	Kitasatospora, Streptomyces	
+OG0001543	1	3	Dietzia	Nonomuraea, Arachnia, Streptomyces	
+OG0001965	1	1	Actinosynnema	Nonomuraea	
+OG0017446	1	1	Actinosynnema	Nonomuraea	
+OG0013981	1	1	Saccharopolyspora	Streptomyces	

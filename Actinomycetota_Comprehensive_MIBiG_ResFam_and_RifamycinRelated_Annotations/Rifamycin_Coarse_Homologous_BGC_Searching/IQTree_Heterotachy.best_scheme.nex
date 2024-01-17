@@ -1,0 +1,32 @@
+#nexus
+begin sets;
+  charset OG_1.msa.faa = Combined_IQ_Tree_Input/OG_1.msa.faa: ;
+  charset OG_10.msa.faa = Combined_IQ_Tree_Input/OG_10.msa.faa: ;
+  charset OG_11.msa.faa = Combined_IQ_Tree_Input/OG_11.msa.faa: ;
+  charset OG_12.msa.faa = Combined_IQ_Tree_Input/OG_12.msa.faa: ;
+  charset OG_17.msa.faa = Combined_IQ_Tree_Input/OG_17.msa.faa: ;
+  charset OG_18.msa.faa = Combined_IQ_Tree_Input/OG_18.msa.faa: ;
+  charset OG_19.msa.faa = Combined_IQ_Tree_Input/OG_19.msa.faa: ;
+  charset OG_20.msa.faa = Combined_IQ_Tree_Input/OG_20.msa.faa: ;
+  charset OG_3.msa.faa = Combined_IQ_Tree_Input/OG_3.msa.faa: ;
+  charset OG_5.msa.faa = Combined_IQ_Tree_Input/OG_5.msa.faa: ;
+  charset OG_6.msa.faa = Combined_IQ_Tree_Input/OG_6.msa.faa: ;
+  charset OG_7.msa.faa = Combined_IQ_Tree_Input/OG_7.msa.faa: ;
+  charset OG_8.msa.faa = Combined_IQ_Tree_Input/OG_8.msa.faa: ;
+  charset OG_9.msa.faa = Combined_IQ_Tree_Input/OG_9.msa.faa: ;
+  charpartition mymodels =
+    LG+G4: OG_1.msa.faa,
+    WAG+F+G4: OG_10.msa.faa,
+    WAG+F+I+G4: OG_11.msa.faa,
+    LG+F+I+G4: OG_12.msa.faa,
+    WAG+F+I+I+R3: OG_17.msa.faa,
+    WAG+I+G4: OG_18.msa.faa,
+    WAG+F+I+G4: OG_19.msa.faa,
+    LG+F+I+G4: OG_20.msa.faa,
+    LG+F+I+G4: OG_3.msa.faa,
+    WAG+F+I+G4: OG_5.msa.faa,
+    WAG+I+G4: OG_6.msa.faa,
+    WAG+F+I+G4: OG_7.msa.faa,
+    LG+F+I+G4: OG_8.msa.faa,
+    WAG+F+G4: OG_9.msa.faa;
+end;

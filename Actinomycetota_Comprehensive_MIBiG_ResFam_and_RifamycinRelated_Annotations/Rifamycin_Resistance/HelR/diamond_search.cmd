@@ -1,0 +1,1 @@
+diamond blastp --query Rifamycin_Resistance_Queries.faa --db All_Actinos_in_GTDB-R214_Proteins.dmnd --outfmt 6 qseqid sseqid pident length evalue bitscore qcovhsp scovhsp -k0 --out Search_Full_Actinos_for_Rifamycin_Resistance_Prots.txt --evalue 0.001 --threads 40 --very-sensitive

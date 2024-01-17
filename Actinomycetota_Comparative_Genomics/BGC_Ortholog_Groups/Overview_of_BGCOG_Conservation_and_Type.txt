@@ -1,0 +1,15 @@
+Actinomycetia specific	multi-type (with PKS)	13
+Actinomycetia specific	multi-type (with NRPS & PKS)	28
+Actinomycetia specific	(largely) specific BGC type	46
+Actinomycetia specific	multi-type	6
+Actinomycetia specific	multi-type (with NRPS)	10
+Ancestral - in a BGC context	multi-type (with NRPS & PKS)	57
+Ancestral - in a BGC context	multi-type (with NRPS)	8
+Ancestral - in a BGC context	(largely) specific BGC type	18
+Ancestral - in a BGC context	multi-type (with PKS)	14
+Ancestral - in a BGC context	multi-type	3
+Ancestral - not in a BGC context	(largely) specific BGC type	16
+Ancestral - not in a BGC context	multi-type (with PKS)	30
+Ancestral - not in a BGC context	multi-type (with NRPS & PKS)	87
+Ancestral - not in a BGC context	multi-type (with NRPS)	24
+Ancestral - not in a BGC context	multi-type	6

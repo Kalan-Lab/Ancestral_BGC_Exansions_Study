@@ -1,0 +1,1 @@
+diamond blastp --query Queries_from_TableS4_of_Boden_et_al_2023.faa --db Cyano_Species_Rep_Proteins.dmnd --outfmt 6 qseqid sseqid pident length evalue bitscore qcovhsp scovhsp -k0 --out Diamond_Results.txt --evalue 0.001 --threads 50 --very-sensitive

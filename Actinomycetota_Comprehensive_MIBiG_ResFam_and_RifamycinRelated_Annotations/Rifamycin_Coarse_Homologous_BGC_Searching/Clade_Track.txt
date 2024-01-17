@@ -1,0 +1,39 @@
+DATASET_PIECHART
+SEPARATOR TAB
+DATASET_LABEL	Clades
+COLOR	#000000
+FIELD_LABELS	Clade-1	Clade-2
+FIELD_COLORS	#FF66CC	#9966FF
+DATA
+GCA_000696405|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000695625|Amycolatopsis|Clade-1	0	1	1	0
+GCA_004794975|Streptomyces|Clade-2	0	1	0	1
+GCA_004364395|Streptomyces|Clade-2	0	1	0	1
+GCA_001746425|Streptomyces|Clade-2	0	1	0	1
+GCA_024611995|Streptomyces|Clade-2	0	1	0	1
+GCA_001660045|Streptomyces|Clade-2	0	1	0	1
+GCA_014648855|Streptomyces|Clade-2	0	1	0	1
+GCA_020907265|Streptomyces|Clade-2	0	1	0	1
+GCA_022696125|Streptomyces|Clade-2	0	1	0	1
+GCA_001514035|Streptomyces|Clade-2	0	1	0	1
+GCA_017948485|Streptomyces|Clade-2	0	1	0	1
+GCA_900105265|Streptomyces|Clade-2	0	1	0	1
+GCA_021056305|Actinokineospora|Clade-1	0	1	1	0
+GCA_014203355|Kutzneria|Clade-1	0	1	1	0
+GCA_000384275|Micromonospora|Clade-1	0	1	1	0
+GCA_011765725|Micromonospora|Clade-1	0	1	1	0
+GCA_011765705|Micromonospora|Clade-1	0	1	1	0
+GCA_011765735|Micromonospora|Clade-1	0	1	1	0
+GCA_900090265|Micromonospora|Clade-1	0	1	1	0
+GCA_020884795|Micromonospora|Clade-1	0	1	1	0
+GCA_001013905|Streptomyces|Clade-2	0	1	0	1
+GCA_000716785|Amycolatopsis|Clade-1	0	1	1	0
+GCA_017308975|Amycolatopsis|Clade-1	0	1	1	0
+GCA_900105945|Amycolatopsis|Clade-1	0	1	1	0
+GCA_013364075|Amycolatopsis|Clade-1	0	1	1	0
+GCA_001742805|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000454025|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000282715|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000700945|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000220945|Amycolatopsis|Clade-1	0	1	1	0
+GCA_000196835|Amycolatopsis|Clade-1	0	1	1	0

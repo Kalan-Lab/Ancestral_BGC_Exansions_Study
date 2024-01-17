@@ -1,0 +1,1 @@
+hmmsearch --cut_ga --tblout AntiSMASH_For_All_Species_Reps/ResFam_Search_Results/GCA_000143885.2_ASM14388v2.faa databases/ResFams/Resfams.hmm prepTG_Results_21k/Proteomes/GCA_000143885.2_ASM14388v2.faa
