@@ -28,9 +28,12 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
         metallophore_related = False
         nrps_related = False
         pks_related = False
+        terpene_related = False
+        if 'terpene' in products:
+            terpene_related = True
         if 'NRP-metallophore' in products or 'aminopolycarboxylic-acid' in products or 'opine-like-metallophore' in products or 'NI-siderophore' in products:
             metallophore_related = True
-        if 'thioamide-NRP' in products or 'NRPS' in products or 'NRPS-like' in products or 'NRP-metallophore' in products or 'NI-siderophore' in products:
+        if 'thioamide-NRP' in products or 'NRPS' in products or 'NRPS-like' in products or 'NRP-metallophore' in products:
             nrps_related = True
         if 'hgLE-KS' in products or 'PKS-like' in products or 'prodigiosin' in products or 'T1PKS' in products or 'T2PKS' in products or 'T3PKS' in products or 'transAT-PKS' in products or 'transAT-PKS-like' in products:
             pks_related = True
@@ -38,7 +41,7 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
         sys.stderr.write('Issues parsing BGC Genbank %s\n' % bgc_gbk)
         raise RuntimeError()
 
-    return([metallophore_related, nrps_related, pks_related, bgc_length])
+    return([metallophore_related, nrps_related, pks_related, terpene_related, bgc_length])
 
 asresdir = 'AntiSMASH_Results/'
 overview_file = 'Overview_File.txt'
@@ -56,9 +59,10 @@ with open(overview_file) as ovf:
 
 gca_bgc_count = defaultdict(int)
 gca_bgc_sum = defaultdict(int)
-gca_nrp_sum = defaultdict(int)
-gca_pks_sum = defaultdict(int)
-gca_met_sum = defaultdict(int)
+gca_ter_count = defaultdict(int)
+gca_nrp_count = defaultdict(int)
+gca_pks_count = defaultdict(int)
+gca_met_count = defaultdict(int)
 gca_total_sum = defaultdict(int)
 for s in os.listdir(asresdir):
     gca = '_'.join(s.split('_')[:2])
@@ -69,24 +73,30 @@ for s in os.listdir(asresdir):
         if not '.region' in f: 
             with open(samp_dir + f) as osf:
                 for rec in SeqIO.parse(osf, 'genbank'):
-                    gca_total_sum[gca] += len(str(rec.seq))
+                    gca_total_sum[gca] += len([x for x in str(rec.seq) if x.upper() in set(['A', 'C', 'G', 'T'])])
         else:
             bgc_path = samp_dir + f
-            mr, nr, pr, bl = parseAntiSMASHGBKForFunctionAndCompleteness(bgc_path)
+            mr, nr, pr, tr, bl = parseAntiSMASHGBKForFunctionAndCompleteness(bgc_path)
             gca_bgc_count[gca] += 1
             gca_bgc_sum[gca] += bl
             if mr:
-                gca_met_sum[gca] += bl
+                gca_met_count[gca] += 1
             if nr:
-                gca_nrp_sum[gca] += bl
+                gca_nrp_count[gca] += 1
             if pr:
-                gca_pks_sum[gca] += bl
+                gca_pks_count[gca] += 1
+            if tr:
+                gca_ter_count[gca] += 1
 
-print('Assembly_ID\tAssembly_Name\tBGC_Count\tGenome_Size\tBGC_Genome_Prop\tMetallophore_Genome_Prop\tNRPS_Genome_Prop\tPKS_Genome_Prop')
-for gca in gca_bgc_count:
+print('Assembly_ID\tAssembly_Name\tBGC_Count\tBGC_Sum\tGenome_Size\tBGC_Genome_Prop\tTerpene_Prop\tMetallophore_Prop\tNRPS_Prop\tPKS_Prop')
+for gca in gca_total_sum:
     bgc_count = str(gca_bgc_count[gca])
     bgc_genome_prop = float(gca_bgc_sum[gca])/float(gca_total_sum[gca])
-    met_genome_prop = float(gca_met_sum[gca])/float(gca_total_sum[gca])
-    nrp_genome_prop = float(gca_nrp_sum[gca])/float(gca_total_sum[gca])
-    pks_genome_prop = float(gca_pks_sum[gca])/float(gca_total_sum[gca])
-    print('\t'.join([str(x) for x in [gca, name_mapping[gca], bgc_count, gca_total_sum[gca], bgc_genome_prop, met_genome_prop, nrp_genome_prop, pks_genome_prop]]))
+    
+    met_prop = 0.0; nrp_prop = 0.0; pks_prop = 0.0; ter_prop = 0.0
+    if gca_bgc_count[gca] > 0:
+        met_prop = float(gca_met_count[gca])/float(gca_bgc_count[gca])
+        nrp_prop = float(gca_nrp_count[gca])/float(gca_bgc_count[gca])
+        pks_prop = float(gca_pks_count[gca])/float(gca_bgc_count[gca])
+        ter_prop = float(gca_ter_count[gca])/float(gca_bgc_count[gca])
+    print('\t'.join([str(x) for x in [gca, name_mapping[gca], bgc_count, gca_bgc_sum[gca], gca_total_sum[gca], bgc_genome_prop, ter_prop, met_prop, nrp_prop, pks_prop]]))

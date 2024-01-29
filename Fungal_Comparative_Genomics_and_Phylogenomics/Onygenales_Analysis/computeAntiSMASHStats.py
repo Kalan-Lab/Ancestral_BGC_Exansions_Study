@@ -30,7 +30,7 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
         pks_related = False
         if 'NRP-metallophore' in products or 'aminopolycarboxylic-acid' in products or 'opine-like-metallophore' in products or 'NI-siderophore' in products:
             metallophore_related = True
-        if 'thioamide-NRP' in products or 'NRPS' in products or 'NRPS-like' in products or 'NRP-metallophore' in products or 'NI-siderophore' in products:
+        if 'thioamide-NRP' in products or 'NRPS' in products or 'NRPS-like' in products or 'NRP-metallophore' in products:
             nrps_related = True
         if 'hgLE-KS' in products or 'PKS-like' in products or 'prodigiosin' in products or 'T1PKS' in products or 'T2PKS' in products or 'T3PKS' in products or 'transAT-PKS' in products or 'transAT-PKS-like' in products:
             pks_related = True
@@ -40,8 +40,8 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
 
     return([metallophore_related, nrps_related, pks_related, bgc_length])
 
-asresdir = 'Ony_AntiSMASH_Results/'
-overview_file = 'Ony_Overview_File.txt'
+asresdir = 'AntiSMASH_Results/'
+overview_file = 'Overview_File.txt'
 
 name_mapping = {}
 with open(overview_file) as ovf:
@@ -69,7 +69,7 @@ for s in os.listdir(asresdir):
         if not '.region' in f: 
             with open(samp_dir + f) as osf:
                 for rec in SeqIO.parse(osf, 'genbank'):
-                    gca_total_sum[gca] += len(str(rec.seq))
+                    gca_total_sum[gca] += len([x for x in str(rec.seq) if x.upper() in set(['A', 'C', 'G', 'T'])])
         else:
             bgc_path = samp_dir + f
             mr, nr, pr, bl = parseAntiSMASHGBKForFunctionAndCompleteness(bgc_path)

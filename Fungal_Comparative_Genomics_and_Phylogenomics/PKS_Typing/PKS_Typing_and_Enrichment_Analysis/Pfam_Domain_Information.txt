@@ -1,0 +1,20 @@
+PF00698.25	Acyl_transf_1	General_PKS
+PF02801.26	Ketoacyl-synt_C (ketosynthase)	General_PKS
+PF00109.30	ketoacyl-synt (ketosynthase)	General_PKS
+PF16073.9	SAT (starter acyltransferase)	NR
+TIGR04532.1	PT (product template)	NR
+PF21089.1	PKS_DH_N (dehydratase)	R
+PF14765.10	PS-DH (dehhdratase)	R
+PF08659.14	KR (ketoreductase)	R
+PF00378.24	ECH_1 (enoyl reductase)	R
+PF16113.9	ECH_2 (enoyl reductase)	R
+PF08240.16	ADH_N (enoyl reductase)	R
+PF00107.30	ADH_zinc_N (enoyl reductase)	R
+PF13602.10	ADH_zinc_N_2 (enoyl reductase)	R
+PF02771.20	Acyl-CoA_dh_N (enoyl reductase)	R
+PF00441.28	Acyl-CoA_dh_1 (enoyl reductase)	R
+PF08028.15	Acyl-CoA_dh_2 (enoyl reductase)	R
+PF13561.10	adh_short_C2 (enoyl reductase)	R
+PF00975.24	Thiosterase (release domain)	NR
+PF14759.10	Reductase_C (release domain)	NR
+PF00501.32	AMP-Binding enzyme (adenylation)	NRPS_Hybrid

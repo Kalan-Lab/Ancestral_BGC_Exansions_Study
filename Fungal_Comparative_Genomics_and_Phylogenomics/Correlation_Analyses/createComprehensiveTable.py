@@ -4,10 +4,10 @@ from collections import defaultdict
 
 aafreqs_file = 'Fungal_Amino_Acid_Frequencies.txt'
 gc_file = 'Fungal_Genome_GC_Contents.txt'
-gs_file = 'Fungal_Genome_Sizes.txt'
+gs_file = 'Fungal_Genomes.txt'
 enriched_clade_file = 'BGC_Enriched_Clade_Genomes.txt'
 ascomycota_file = 'Ascomycota_Genomes.txt'
-as_stats_file = 'AntiSMASH_Stats.Species_Names.txt'
+as_stats_file = 'AntiSMASH_Stats.Updated.txt'
 starship_file = 'Starship.iTol.txt'
 cazy_file = 'CAZy.Distinct.iTol.txt'
 
@@ -44,17 +44,19 @@ with open(enriched_clade_file) as oef:
 
 bgc_sums = defaultdict(int)
 bgc_props = defaultdict(int)
+genome_sizes = defaultdict(int)
 with open(as_stats_file) as oasf:
     for i, line in enumerate(oasf):
         if i == 0: continue
         line = line.strip()
         ls = line.split('\t')
-        bgc_prop = float(ls[4])
-        genome_size = float(ls[3])
-        bgc_sum = genome_size*bgc_prop
+        bgc_prop = ls[5] 
+        bgc_sum = ls[3]
         gca = ls[0]
+        gs = ls[4]
         bgc_sums[gca] = bgc_sum
         bgc_props[gca] = bgc_prop
+        genome_sizes[gca] = gs
 
 aa_freqs = {}
 with open(aafreqs_file) as oaf:
@@ -76,10 +78,8 @@ print('\t'.join(['gca', 'clade', 'bgc_sum', 'bgc_prop', 'genome_size', 'gc', 'ca
 
 with open(gs_file) as ogf:
     for line in ogf:
-        line = line.strip()
-        ls = line.split('\t')
-        gca = ls[0]
-        genome_size = ls[1]
+        gca = line.strip()
+        genome_size = genome_sizes[gca]
         is_ascomycota = 'Non-Ascomycota'
         if gca in ascomycota:
             is_ascomycota = 'Ascomycota'
@@ -90,5 +90,5 @@ with open(gs_file) as ogf:
         cazy_count = cazy_counts[gca]
         starship_count = starship_counts[gca]
         gc = gcs[gca]
-        if is_ascomycota == 'Ascomycota - BGC Enriched Clade':
-            print('\t'.join([str(x) for x in [gca, is_ascomycota, bgc_sum, bgc_prop, genome_size, gc, cazy_count, starship_count] + aa_freqs[gca]]))
+        #if is_ascomycota == 'Ascomycota - BGC Enriched Clade':
+        print('\t'.join([str(x) for x in [gca, is_ascomycota, bgc_sum, bgc_prop, genome_size, gc, cazy_count, starship_count] + aa_freqs[gca]]))
