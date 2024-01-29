@@ -2,6 +2,8 @@
 
 Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
 
+*Note, names of files/paths in the repor or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
+
 ## Directory stucture:
 
 * **BacterialPhylum_Genome_Selection**: Code for selection of species-level representative genomes from five bacterial phyla (Actinomycetota, Bacillota, Cyanobacteriota, Myxococcota, and Pseudomonadota) for investigation of BGC content and associations with other genomic/ecological factors (Table S1).
@@ -16,13 +18,10 @@ Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
 * **Actinomycetota_Comprehensive_MIBiG_ResFam_and_RifamycinRelated_Annotations**: Code pertaining to more large-scale Actnomycetota analyses on all ~33,000 genomes in the phylum in GTDB R214 - primarily around identifying MIBiG BGCs, Resfam resistance markers, rifamycin resistance, and fai-based detection of rifamycin BGC homologs. 
 ---
 * **Fungal_Comparative_Genomics_and_Phylogenomics**: Code pertaining to fungal genomics analyses:
-  * **Genome_Selection_and_Gene_Calling**: Code for 
-  * **Annotations**:
-  * **PKS_Typing**:
-  * **Correlation_Analyses**:
-  * **Onygenales_Analysis**:
-  * **TimeTree_Construction**:
-  * **Phylogenomics**:
-
-
-*Note, names of files/paths in the repor or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
+  * **Genome_Selection_and_Gene_Calling**: Code for genome selection of representative fungal genomes. Code for selecting gene calling information from NCBI databases or performing gene calling using funannotate/MetaEuk.
+  * **Phylogenomics**: Code for comprehensive phylogeny construction of all 252 fungal genome representatives and 4 outgroup genomes.
+  * **TimeTree_Construction**: Code for construction of timetree using MCMCTree and subset of representative genomes from the fungal kingdom.
+  * **Annotations**: Code for performing annotation of BGCs using antiSMASH, CAZy/dBCAN homologs, and Starship associated cargo.
+  * **PKS_Typing**: Code related to in-depth analysis of polyketide synthase domains and ketosynthase phylogeny construction.
+  * **Correlation_Analyses**: Code for correlation analyses of BGC-ome size with other factors, including genome size and number of distinct CAZy homologs. 
+  * **Onygenales_Analysis**: Code related to the Onygenales analysis to investigate the impact of developing dimorphism on fungal BGC-ome sizes.
