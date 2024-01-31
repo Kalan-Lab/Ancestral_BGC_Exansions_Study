@@ -2,7 +2,7 @@
 
 Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
 
-*Note, names of files/paths in the repor or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
+*Note, names of files/paths in the repo or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
 
 ## Directory stucture:
 
