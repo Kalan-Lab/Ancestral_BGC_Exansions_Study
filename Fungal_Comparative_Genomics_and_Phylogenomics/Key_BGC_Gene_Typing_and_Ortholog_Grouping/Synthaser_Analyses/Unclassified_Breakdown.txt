@@ -1,0 +1,20 @@
+clade	category	count
+1. Pezizomycotina	PKS|Type I	25
+1. Pezizomycotina	PKS	25
+1. Pezizomycotina	Fatty acid synthase|alpha subunit	6
+1. Pezizomycotina	Fatty acid synthase	181
+1. Pezizomycotina	NA|Suspected PKS	2
+1. Pezizomycotina	PKS|Multi-modular PKS	1
+1. Pezizomycotina	NA|Suspected NRPS	103
+1. Pezizomycotina	NRPS-like	18
+3. Basidiomycota	PKS	2
+3. Basidiomycota	NA|Suspected NRPS	1
+4. Zygomycota	NRPS-like	7
+4. Zygomycota	NA|Suspected NRPS	1
+5. Zoosporic Fungi	Fatty acid synthase	6
+5. Zoosporic Fungi	NA|Suspected PKS & NRPS	4
+5. Zoosporic Fungi	PKS|Type I	9
+5. Zoosporic Fungi	HMG-CoA synthase	1
+5. Zoosporic Fungi	PKS	1
+5. Zoosporic Fungi	NA|Suspected NRPS	54
+5. Zoosporic Fungi	NRPS-like	27

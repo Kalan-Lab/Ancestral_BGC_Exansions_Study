@@ -1,0 +1,42 @@
+DATASET_SIMPLEBAR
+SEPARATOR TAB
+DATASET_LABEL	NPAtlas Distinct Nodes (Simple)
+DATA
+Rhodothermales	0.30102999566398114
+Propionibacteriales	0.9030899869919434
+PCC-6307	0.0
+Staphylococcales	1.1139433523068367
+Flavobacteriales	1.556302500767287
+Cyanobacteriales	2.2695129442179165
+Bacillales_D	0.6020599913279623
+Pseudomonadales	2.187520720836463
+Enterobacterales_A	1.8325089127062362
+Cytophagales	1.2787536009528289
+Paenibacillales	1.0
+Clostridiales	1.0
+Rhodobacterales	1.447158031342219
+Rhodospirillales_A	0.47712125471966244
+Xanthomonadales	1.0791812460476247
+Sphingobacteriales	0.0
+Campylobacterales	0.7781512503836435
+Streptosporangiales	2.0
+Methylococcales	0.6020599913279623
+Mycobacteriales	2.4899584794248346
+Enterobacterales	1.9493900066449126
+Streptomycetales	3.139249217571607
+Lactobacillales	1.4313637641589871
+Caulobacterales	0.0
+Verrucomicrobiales	0.30102999566398114
+Legionellales	0.0
+Actinomycetales	1.8864907251724818
+Deinococcales	0.8450980400142567
+Chlorobiales	0.30102999566398114
+Bacteroidales	0.6989700043360187
+Lachnospirales	0.0
+Burkholderiales	1.8808135922807911
+Myxococcales	1.7993405494535815
+Acetobacterales	0.47712125471966244
+Bacillales	2.021189299069938
+Sphingomonadales	1.041392685158225
+Rhizobiales	1.5440680443502754
+Borreliales	0.0

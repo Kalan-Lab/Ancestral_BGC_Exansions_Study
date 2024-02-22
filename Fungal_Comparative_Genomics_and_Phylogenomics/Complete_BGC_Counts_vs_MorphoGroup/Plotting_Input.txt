@@ -1,0 +1,210 @@
+GCA	Domain	Phylum_or_Clade	Complete_BGC_Count	BGC_Count_Corrected	BGCome_Size	Complete_NRPS_or_PKS_BGC_Count	Coloring
+GCA_000392275	fungi	1. Pezizomycotina	19	22.5	1469578	11	Pezizomycotina
+GCA_003016335	fungi	1. Pezizomycotina	56	61.0	4436637	37	Pezizomycotina
+GCA_025602915	fungi	4. Zoosporic Fungi	4	4.5	174597	1	Zoosporic Fungi
+GCA_001600175	fungi	2. Multicellular (non-Pez)	5	5.0	217595	2	Basidiomycota
+GCA_003086735	fungi	2. Multicellular (non-Pez)	0	2.0	88475	0	Zygomycota
+GCA_000836135	fungi	2. Multicellular (non-Pez)	9	9.0	450313	5	Ascomycota
+GCA_025765595	fungi	4. Zoosporic Fungi	7	8.0	512070	4	Zoosporic Fungi
+GCA_025602895	fungi	4. Zoosporic Fungi	61	62.5	4288817	56	Zoosporic Fungi
+GCA_002162545	fungi	1. Pezizomycotina	41	42.5	3179834	30	Pezizomycotina
+GCA_000328475	fungi	3. Dikaryotic Yeast	9	11.0	715389	7	Basidiomycota
+GCA_003988945	fungi	1. Pezizomycotina	7	26.0	1929239	6	Pezizomycotina
+GCA_001574975	fungi	4. Zoosporic Fungi	5	5.0	196268	1	Zoosporic Fungi
+GCA_002368545	fungi	1. Pezizomycotina	27	30.5	2207740	17	Pezizomycotina
+GCA_000760515	fungi	4. Zoosporic Fungi	0	0.0	0	0	Zoosporic Fungi
+GCA_003385255	fungi	1. Pezizomycotina	15	28.5	2142944	11	Pezizomycotina
+GCA_001619985	fungi	1. Pezizomycotina	24	25.5	1622670	17	Pezizomycotina
+GCA_000354255	fungi	1. Pezizomycotina	40	52.5	3835495	24	Pezizomycotina
+GCA_002572855	fungi	1. Pezizomycotina	10	13.5	1097976	4	Pezizomycotina
+GCA_002105135	fungi	2. Multicellular (non-Pez)	12	12.5	539213	5	Zygomycota
+GCA_001692915	fungi	1. Pezizomycotina	3	29.5	1768264	3	Pezizomycotina
+GCA_026937265	fungi	4. Zoosporic Fungi	0	1.5	13589	0	Zoosporic Fungi
+GCA_001600815	fungi	3. Dikaryotic Yeast	4	5.0	275433	3	Ascomycota
+GCA_000836295	fungi	1. Pezizomycotina	15	17.0	1292979	7	Pezizomycotina
+GCA_000708205	fungi	2. Multicellular (non-Pez)	9	9.0	414063	4	Basidiomycota
+GCA_900290415	fungi	1. Pezizomycotina	34	34.5	2496526	24	Pezizomycotina
+GCA_000235945	fungi	4. Zoosporic Fungi	2	3.0	120061	0	Zoosporic Fungi
+GCA_000349385	fungi	1. Pezizomycotina	19	42.5	3267375	17	Pezizomycotina
+GCA_025558095	fungi	4. Zoosporic Fungi	5	5.5	243785	1	Zoosporic Fungi
+GCA_000721755	fungi	1. Pezizomycotina	24	27.5	1936074	14	Pezizomycotina
+GCA_900073065	fungi	1. Pezizomycotina	68	73.5	5505573	39	Pezizomycotina
+GCA_004335205	fungi	1. Pezizomycotina	9	24.0	2115583	6	Pezizomycotina
+GCA_027604685	fungi	4. Zoosporic Fungi	0	3.5	209071	0	Zoosporic Fungi
+GCA_027600665	fungi	4. Zoosporic Fungi	0	6.5	453462	0	Zoosporic Fungi
+GCA_002778095	fungi	1. Pezizomycotina	23	23.5	1597277	17	Pezizomycotina
+GCA_001661345	fungi	3. Dikaryotic Yeast	1	1.5	71698	0	Ascomycota
+GCA_002916505	fungi	1. Pezizomycotina	8	22.5	1758394	6	Pezizomycotina
+GCA_002591845	fungi	1. Pezizomycotina	13	22.5	1647281	9	Pezizomycotina
+GCA_000151645	fungi	1. Pezizomycotina	7	7.5	451448	4	Pezizomycotina
+GCA_000182565	fungi	4. Zoosporic Fungi	8	10.5	765324	6	Zoosporic Fungi
+GCA_003795315	fungi	1. Pezizomycotina	41	50.5	3848048	30	Pezizomycotina
+GCA_003833135	fungi	2. Multicellular (non-Pez)	5	7.0	305816	2	Zygomycota
+GCA_002865625	fungi	1. Pezizomycotina	39	42.0	3280553	21	Pezizomycotina
+GCA_000149305	fungi	2. Multicellular (non-Pez)	15	15.0	669928	7	Zygomycota
+GCA_025399235	fungi	2. Multicellular (non-Pez)	4	8.5	488719	3	Zygomycota
+GCA_003706495	fungi	3. Dikaryotic Yeast	1	2.0	87212	0	Ascomycota
+GCA_002261195	fungi	2. Multicellular (non-Pez)	4	7.0	322691	2	Zygomycota
+GCA_027604305	fungi	4. Zoosporic Fungi	2	5.0	167986	1	Zoosporic Fungi
+GCA_000812075	fungi	1. Pezizomycotina	9	20.0	1721282	8	Pezizomycotina
+GCA_027604065	fungi	4. Zoosporic Fungi	1	4.0	109388	0	Zoosporic Fungi
+GCA_027596945	fungi	4. Zoosporic Fungi	0	7.0	217739	0	Zoosporic Fungi
+GCA_003264845	fungi	1. Pezizomycotina	35	47.0	3706221	22	Pezizomycotina
+GCA_002104985	fungi	4. Zoosporic Fungi	9	9.5	542899	6	Zoosporic Fungi
+GCA_003788565	fungi	1. Pezizomycotina	13	13.5	864709	6	Pezizomycotina
+GCA_000149865	fungi	4. Zoosporic Fungi	5	5.0	268079	3	Zoosporic Fungi
+GCA_002081935	fungi	1. Pezizomycotina	33	69.0	5408965	18	Pezizomycotina
+GCA_027604665	fungi	4. Zoosporic Fungi	0	6.5	113093	0	Zoosporic Fungi
+GCA_025558075	fungi	4. Zoosporic Fungi	5	5.5	342256	2	Zoosporic Fungi
+GCA_001563115	fungi	1. Pezizomycotina	25	47.5	3904645	14	Pezizomycotina
+GCA_027604625	fungi	4. Zoosporic Fungi	0	3.0	55247	0	Zoosporic Fungi
+GCA_025602905	fungi	4. Zoosporic Fungi	6	7.0	402159	2	Zoosporic Fungi
+GCA_000385595	fungi	1. Pezizomycotina	15	35.0	2820706	6	Pezizomycotina
+GCA_001557505	fungi	1. Pezizomycotina	43	44.5	3957835	29	Pezizomycotina
+GCA_001270325	fungi	1. Pezizomycotina	37	41.5	2749749	29	Pezizomycotina
+GCA_000225545	fungi	1. Pezizomycotina	18	19.5	1103214	7	Pezizomycotina
+GCA_000732205	fungi	1. Pezizomycotina	30	30.5	2088665	21	Pezizomycotina
+GCA_002374405	fungi	3. Dikaryotic Yeast	3	3.0	126603	1	Ascomycota
+GCA_000338955	fungi	1. Pezizomycotina	21	21.0	1293462	10	Pezizomycotina
+GCA_003184365	fungi	1. Pezizomycotina	47	65.5	5089503	30	Pezizomycotina
+GCA_000002945	fungi	3. Dikaryotic Yeast	4	4.0	233594	3	Ascomycota
+GCA_025201845	fungi	2. Multicellular (non-Pez)	3	4.5	147067	0	Zygomycota
+GCA_000002525	fungi	3. Dikaryotic Yeast	3	3.0	186198	1	Ascomycota
+GCA_000226115	fungi	1. Pezizomycotina	28	28.5	2091629	17	Pezizomycotina
+GCA_002104995	fungi	2. Multicellular (non-Pez)	6	6.0	190944	1	Zygomycota
+GCA_003990805	fungi	1. Pezizomycotina	34	34.5	2187407	21	Pezizomycotina
+GCA_002104975	fungi	4. Zoosporic Fungi	26	29.5	2038726	23	Zoosporic Fungi
+GCA_900120095	fungi	2. Multicellular (non-Pez)	5	5.0	227782	2	Basidiomycota
+GCA_003144135	fungi	3. Dikaryotic Yeast	5	6.0	316999	2	Basidiomycota
+GCA_003671545	fungi	1. Pezizomycotina	33	65.0	5311010	19	Pezizomycotina
+GCA_027603945	fungi	4. Zoosporic Fungi	4	7.0	293934	1	Zoosporic Fungi
+GCA_002705745	fungi	2. Multicellular (non-Pez)	3	3.5	145583	1	Zygomycota
+GCA_900119595	fungi	3. Dikaryotic Yeast	2	2.5	118542	1	Ascomycota
+GCA_027604465	fungi	4. Zoosporic Fungi	0	1.5	115705	0	Zoosporic Fungi
+GCA_003574815	fungi	1. Pezizomycotina	44	48.5	3623676	31	Pezizomycotina
+GCA_000516985	fungi	1. Pezizomycotina	91	91.5	6120631	58	Pezizomycotina
+GCA_027603065	fungi	4. Zoosporic Fungi	13	14.5	870820	8	Zoosporic Fungi
+GCA_002104905	fungi	2. Multicellular (non-Pez)	11	22.5	1584518	4	Zygomycota
+GCA_000442015	fungi	4. Zoosporic Fungi	0	0.5	9832	0	Zoosporic Fungi
+GCA_001599975	fungi	2. Multicellular (non-Pez)	8	8.0	426531	5	Basidiomycota
+GCA_025449115	fungi	4. Zoosporic Fungi	5	5.5	312706	2	Zoosporic Fungi
+GCA_027596035	fungi	4. Zoosporic Fungi	0	7.5	414522	0	Zoosporic Fungi
+GCA_002240705	fungi	1. Pezizomycotina	0	17.5	584744	0	Pezizomycotina
+GCA_000261425	fungi	1. Pezizomycotina	17	19.0	1273538	11	Pezizomycotina
+GCA_001600455	fungi	1. Pezizomycotina	80	83.0	6754477	55	Pezizomycotina
+GCA_025526955	fungi	4. Zoosporic Fungi	4	4.0	157542	1	Zoosporic Fungi
+GCA_002105025	fungi	1. Pezizomycotina	29	47.5	4202908	15	Pezizomycotina
+GCA_017911155	fungi	4. Zoosporic Fungi	0	0.5	3481	0	Zoosporic Fungi
+GCA_002105095	fungi	1. Pezizomycotina	63	64.0	4469028	46	Pezizomycotina
+GCA_000151295	fungi	4. Zoosporic Fungi	10	10.0	329435	2	Zoosporic Fungi
+GCA_000003515	fungi	1. Pezizomycotina	23	23.0	1514770	15	Pezizomycotina
+GCA_025603075	fungi	2. Multicellular (non-Pez)	1	3.5	203739	1	Zygomycota
+GCA_000442125	fungi	1. Pezizomycotina	40	40.5	3087933	29	Pezizomycotina
+GCA_001566295	fungi	1. Pezizomycotina	35	40.0	2814412	21	Pezizomycotina
+GCA_001692735	fungi	1. Pezizomycotina	8	24.0	1663867	6	Pezizomycotina
+GCA_001661425	fungi	3. Dikaryotic Yeast	2	2.5	127836	1	Ascomycota
+GCA_003019895	fungi	1. Pezizomycotina	16	30.0	2712082	9	Pezizomycotina
+GCA_002927785	fungi	1. Pezizomycotina	3	35.5	2654059	2	Pezizomycotina
+GCA_027600645	fungi	4. Zoosporic Fungi	4	6.0	295659	1	Zoosporic Fungi
+GCA_001481775	fungi	1. Pezizomycotina	41	43.5	3137760	32	Pezizomycotina
+GCA_002104895	fungi	4. Zoosporic Fungi	13	25.0	2189531	13	Zoosporic Fungi
+GCA_003707925	fungi	3. Dikaryotic Yeast	4	4.0	154971	1	Ascomycota
+GCA_003049485	fungi	1. Pezizomycotina	11	22.0	1716453	5	Pezizomycotina
+GCA_002105105	fungi	2. Multicellular (non-Pez)	6	6.0	266007	2	Ascomycota
+GCA_000182925	fungi	1. Pezizomycotina	19	19.5	1255064	12	Pezizomycotina
+GCA_003705835	fungi	3. Dikaryotic Yeast	5	5.0	278149	3	Ascomycota
+GCA_000417875	fungi	3. Dikaryotic Yeast	9	10.0	595011	6	Basidiomycota
+GCA_001447215	fungi	1. Pezizomycotina	18	56.5	4507020	12	Pezizomycotina
+GCA_001642045	fungi	1. Pezizomycotina	69	71.5	5545732	31	Pezizomycotina
+GCA_001566745	fungi	2. Multicellular (non-Pez)	5	7.0	417335	3	Zygomycota
+GCA_002104935	fungi	2. Multicellular (non-Pez)	10	10.0	403269	3	Zygomycota
+GCA_000498615	fungi	1. Pezizomycotina	0	23.5	1699501	0	Pezizomycotina
+GCA_006535985	fungi	4. Zoosporic Fungi	5	5.5	213949	1	Zoosporic Fungi
+GCA_004000055	fungi	1. Pezizomycotina	12	12.0	642452	6	Pezizomycotina
+GCA_001660795	fungi	1. Pezizomycotina	16	20.0	1430559	13	Pezizomycotina
+GCA_002989075	fungi	1. Pezizomycotina	30	30.5	2021288	21	Pezizomycotina
+GCA_000401635	fungi	2. Multicellular (non-Pez)	7	10.0	500038	2	Zygomycota
+GCA_002319055	fungi	1. Pezizomycotina	12	13.0	792444	7	Pezizomycotina
+GCA_002794465	fungi	4. Zoosporic Fungi	0	0.0	0	0	Zoosporic Fungi
+GCA_000365145	fungi	1. Pezizomycotina	18	19.5	1491602	8	Pezizomycotina
+GCA_001636725	fungi	1. Pezizomycotina	32	39.0	3133737	18	Pezizomycotina
+GCA_004216415	fungi	1. Pezizomycotina	8	10.0	673408	5	Pezizomycotina
+GCA_027604725	fungi	4. Zoosporic Fungi	2	5.0	246603	0	Zoosporic Fungi
+GCA_000968615	fungi	1. Pezizomycotina	5	8.0	527486	3	Pezizomycotina
+GCA_002127715	fungi	1. Pezizomycotina	19	24.0	1828911	14	Pezizomycotina
+GCA_027604185	fungi	4. Zoosporic Fungi	2	6.0	274584	0	Zoosporic Fungi
+GCA_001929475	fungi	2. Multicellular (non-Pez)	2	4.5	193498	0	Ascomycota
+GCA_004014935	fungi	3. Dikaryotic Yeast	3	3.0	127608	1	Ascomycota
+GCA_003988795	fungi	1. Pezizomycotina	49	56.0	4722183	32	Pezizomycotina
+GCA_003790465	fungi	1. Pezizomycotina	11	11.5	676359	7	Pezizomycotina
+GCA_000182895	fungi	2. Multicellular (non-Pez)	18	18.0	901156	5	Basidiomycota
+GCA_000464535	fungi	1. Pezizomycotina	22	28.5	1989075	16	Pezizomycotina
+GCA_003614675	fungi	2. Multicellular (non-Pez)	0	16.0	609786	0	Zygomycota
+GCA_900618795	fungi	1. Pezizomycotina	57	59.0	4326105	32	Pezizomycotina
+GCA_001651415	fungi	2. Multicellular (non-Pez)	4	5.0	217495	1	Zygomycota
+GCA_001510565	fungi	1. Pezizomycotina	9	10.0	626701	6	Pezizomycotina
+GCA_003706095	fungi	3. Dikaryotic Yeast	3	3.5	145149	1	Ascomycota
+GCA_001179705	fungi	2. Multicellular (non-Pez)	1	19.5	481718	0	Basidiomycota
+GCA_002798055	fungi	1. Pezizomycotina	3	17.5	1484337	2	Pezizomycotina
+GCA_000963775	fungi	1. Pezizomycotina	41	53.0	4203312	36	Pezizomycotina
+GCA_025526995	fungi	4. Zoosporic Fungi	7	9.0	586050	3	Zoosporic Fungi
+GCA_000812885	fungi	1. Pezizomycotina	0	38.0	1095262	0	Pezizomycotina
+GCA_003706805	fungi	3. Dikaryotic Yeast	4	4.5	296322	2	Ascomycota
+GCA_002102555	fungi	4. Zoosporic Fungi	5	6.0	202967	1	Zoosporic Fungi
+GCA_900536445	fungi	1. Pezizomycotina	19	46.0	4001601	11	Pezizomycotina
+GCA_003013795	fungi	1. Pezizomycotina	22	23.5	1562526	14	Pezizomycotina
+GCA_025201865	fungi	2. Multicellular (non-Pez)	1	2.5	111132	0	Zygomycota
+GCA_001956345	fungi	1. Pezizomycotina	9	29.5	1929509	6	Pezizomycotina
+GCA_025765615	fungi	4. Zoosporic Fungi	12	14.5	938506	7	Zoosporic Fungi
+GCA_001638985	fungi	2. Multicellular (non-Pez)	10	10.0	385114	2	Zygomycota
+GCA_000313485	fungi	3. Dikaryotic Yeast	2	2.5	113671	1	Ascomycota
+GCA_027596075	fungi	4. Zoosporic Fungi	5	9.5	487318	1	Zoosporic Fungi
+GCA_004155245	fungi	1. Pezizomycotina	34	37.0	2926567	27	Pezizomycotina
+GCA_025349905	fungi	4. Zoosporic Fungi	0	3.0	101913	0	Zoosporic Fungi
+GCA_000400465	fungi	2. Multicellular (non-Pez)	5	6.5	376695	2	Basidiomycota
+GCA_025435555	fungi	4. Zoosporic Fungi	8	9.5	597665	4	Zoosporic Fungi
+GCA_000467715	fungi	1. Pezizomycotina	11	35.0	2834001	8	Pezizomycotina
+GCA_003073855	fungi	1. Pezizomycotina	45	83.5	6700813	30	Pezizomycotina
+GCA_003313425	fungi	1. Pezizomycotina	46	51.0	3351049	32	Pezizomycotina
+GCA_025786725	fungi	2. Multicellular (non-Pez)	6	6.0	237973	1	Zygomycota
+GCA_000738655	fungi	1. Pezizomycotina	28	32.5	2340445	14	Pezizomycotina
+GCA_003788615	fungi	1. Pezizomycotina	8	8.0	438430	5	Pezizomycotina
+GCA_025399215	fungi	4. Zoosporic Fungi	1	8.5	384909	0	Zoosporic Fungi
+GCA_002818225	fungi	3. Dikaryotic Yeast	5	5.0	300681	4	Basidiomycota
+GCA_000412615	fungi	4. Zoosporic Fungi	0	117.5	1059714	0	Zoosporic Fungi
+GCA_003614145	fungi	2. Multicellular (non-Pez)	0	1.5	20024	0	Zygomycota
+GCA_000836435	fungi	1. Pezizomycotina	26	27.5	1937094	13	Pezizomycotina
+GCA_003118255	fungi	1. Pezizomycotina	17	29.0	2131043	11	Pezizomycotina
+GCA_002157105	fungi	4. Zoosporic Fungi	9	32.5	1565310	9	Zoosporic Fungi
+GCA_003988815	fungi	1. Pezizomycotina	26	32.5	2467271	17	Pezizomycotina
+GCA_000146915	fungi	1. Pezizomycotina	43	48.5	3566149	26	Pezizomycotina
+GCA_027596065	fungi	4. Zoosporic Fungi	0	3.5	214745	0	Zoosporic Fungi
+GCA_027596845	fungi	4. Zoosporic Fungi	0	7.5	196724	0	Zoosporic Fungi
+GCA_000149925	fungi	2. Multicellular (non-Pez)	4	4.5	221016	2	Basidiomycota
+GCA_001636715	fungi	1. Pezizomycotina	10	12.0	750100	6	Pezizomycotina
+GCA_001599695	fungi	2. Multicellular (non-Pez)	6	6.0	285896	3	Basidiomycota
+GCA_001599595	fungi	1. Pezizomycotina	53	57.0	4416498	31	Pezizomycotina
+GCA_003610855	fungi	1. Pezizomycotina	0	5.0	114874	0	Pezizomycotina
+GCA_027596195	fungi	4. Zoosporic Fungi	1	3.5	139734	1	Zoosporic Fungi
+GCA_025526975	fungi	4. Zoosporic Fungi	10	10.0	595746	7	Zoosporic Fungi
+GCA_003868215	fungi	1. Pezizomycotina	25	29.5	1845198	18	Pezizomycotina
+GCA_000697415	fungi	2. Multicellular (non-Pez)	12	13.0	634469	4	Zygomycota
+GCA_000611775	fungi	1. Pezizomycotina	31	31.0	1813591	23	Pezizomycotina
+GCA_001630345	fungi	2. Multicellular (non-Pez)	13	14.0	851086	6	Basidiomycota
+GCA_001513895	fungi	1. Pezizomycotina	19	20.5	1351256	13	Pezizomycotina
+GCA_003019875	fungi	1. Pezizomycotina	20	20.0	1390539	13	Pezizomycotina
+GCA_027604605	fungi	4. Zoosporic Fungi	0	4.0	120199	0	Zoosporic Fungi
+GCA_003615045	fungi	4. Zoosporic Fungi	2	2.5	153409	1	Zoosporic Fungi
+GCA_027604005	fungi	4. Zoosporic Fungi	0	3.5	216813	0	Zoosporic Fungi
+GCA_000146045	fungi	3. Dikaryotic Yeast	3	3.0	135159	1	Ascomycota
+GCA_002105155	fungi	2. Multicellular (non-Pez)	4	4.0	166881	1	Zygomycota
+GCA_003012165	fungi	1. Pezizomycotina	18	48.5	3767193	13	Pezizomycotina
+GCA_000697055	fungi	2. Multicellular (non-Pez)	3	6.0	249608	0	Zygomycota
+GCA_025526935	fungi	4. Zoosporic Fungi	10	11.0	618779	5	Zoosporic Fungi
+GCA_001662655	fungi	1. Pezizomycotina	26	29.5	2232339	18	Pezizomycotina
+GCA_001604925	fungi	1. Pezizomycotina	6	16.0	1198186	5	Pezizomycotina
+GCA_003705295	fungi	3. Dikaryotic Yeast	3	3.0	128135	1	Ascomycota
+GCA_003705335	fungi	3. Dikaryotic Yeast	2	2.5	120171	1	Ascomycota
+GCA_000442885	fungi	3. Dikaryotic Yeast	4	4.0	170328	1	Ascomycota
+GCA_003550325	fungi	2. Multicellular (non-Pez)	18	20.5	1080977	10	Zygomycota
+GCA_900465125	fungi	1. Pezizomycotina	21	27.0	1912441	14	Pezizomycotina

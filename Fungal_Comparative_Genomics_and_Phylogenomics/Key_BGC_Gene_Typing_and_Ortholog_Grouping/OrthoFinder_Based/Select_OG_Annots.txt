@@ -1,0 +1,22 @@
+OG0000000	(mostly) NRPS
+OG0000001	cytochrome P450/NADPH
+OG0000002	(mostly) type-I PKS
+OG0000003	DUF3328	(putative oxidase)
+OG0000004	(mostly) NRPS
+OG0000005	protein kinase
+OG0000006	non-reducing; type-I PKS
+OG0000007	OG7|hypothetical protein
+OG0000008	putative Zn-type alcohol dehydrogenase
+OG0000009	squalene synthase
+OG0000010	cytochrome P450 monooxygenase 
+OG0000011	enoyl reductase
+OG0000012	oxygenase
+OG0000013	geranyl pyrophosphate synthetase
+OG0000014	OG14|hypothetical protein
+OG0000015	phytoene synthase
+OG0000016	terpene synthase
+OG0000017	prenyltransferase
+OG0000020	glutathione S-transferase
+OG0000021	putative aminotransferase
+OG0000022	type-III PKS
+OG0000025	L-ornithine N(5) oxygenase

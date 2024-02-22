@@ -22,6 +22,9 @@ Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
   * **Phylogenomics**: Code for comprehensive phylogeny construction of all 252 fungal genome representatives and 4 outgroup genomes.
   * **TimeTree_Construction**: Code for construction of timetree using MCMCTree and subset of representative genomes from the fungal kingdom.
   * **Annotations**: Code for performing annotation of BGCs using antiSMASH, CAZy/dBCAN homologs, and Starship associated cargo.
-  * **PKS_Typing**: Code related to in-depth analysis of polyketide synthase domains and ketosynthase phylogeny construction.
+  * **ProductTemplate_Evolution**: Code for creating a phylogeny of product template domain sequences.
+  * **Key_BGC_Gene_Typing_and_Ortholog_Grouping**: Code and data from performing OrthoFinder analysis of key BGC genes and processing synthaser typing results for NRPSs and PKSs.
+  * **Complete_BGC_Counts_vs_MorphoGroup**: Code for comparing counts of BGCs by antiSMASH between taxonomic groups.
+  * **Taxonomic_Clades**: A directory containing files for different taxonomic or morphological genome listings.
   * **Correlation_Analyses**: Code for correlation analyses of BGC-ome size with other factors, including genome size and number of distinct CAZy homologs. 
   * **Onygenales_Analysis**: Code related to the Onygenales analysis to investigate the impact of developing dimorphism on fungal BGC-ome sizes.
