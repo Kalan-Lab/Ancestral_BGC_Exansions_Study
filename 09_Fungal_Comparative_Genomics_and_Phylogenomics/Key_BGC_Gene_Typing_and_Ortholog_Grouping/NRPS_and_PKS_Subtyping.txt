@@ -1,0 +1,66 @@
+{'Squalene/phytoene synthase family - OG-3': '1', 'NRPS': '2', 'Polyprenyl synthetase': '3', 'Squalene-hopene cyclase': '4', 'Squalene/phytoene synthase family - OG-1': '5', 'PKS|Type I|Non-reducing': '6', 'PKS|Type I|Highly-reducing': '7', 'Hybrid NRPS-PKS': '8', 'Squalene/phytoene synthase family - OG-2': '9', 'PKS|Type I|Partially-reducing': '10', 'Only Suspected PKS': '11'}
+ST	ST_Type	Clade	Prop_Clade_With	ST_Order
+PKS|Type I|Partially-reducing	PKS	1. Pezizomycotina	0.6288659793814433	10
+PKS|Type I|Highly-reducing	PKS	1. Pezizomycotina	0.8556701030927835	7
+NRPS	NRPS	1. Pezizomycotina	0.8144329896907216	2
+PKS|Type I|Non-reducing	PKS	1. Pezizomycotina	0.9072164948453608	6
+Hybrid NRPS-PKS	0. Suspected	1. Pezizomycotina	0.05154639175257732	8
+Hybrid NRPS-PKS	Hybrid	1. Pezizomycotina	0.6701030927835051	8
+NRPS	0. Suspected	1. Pezizomycotina	0.17525773195876287	2
+Only Suspected PKS	0. Suspected	1. Pezizomycotina	0.061855670103092786	11
+PKS|Type I|Partially-reducing	PKS	2. Non-Yeast Basidimycota	0.2	10
+PKS|Type I|Highly-reducing	PKS	2. Non-Yeast Basidimycota	0.0	7
+NRPS	NRPS	2. Non-Yeast Basidimycota	0.4	2
+PKS|Type I|Non-reducing	PKS	2. Non-Yeast Basidimycota	0.2	6
+Hybrid NRPS-PKS	0. Suspected	2. Non-Yeast Basidimycota	0.0	8
+Hybrid NRPS-PKS	Hybrid	2. Non-Yeast Basidimycota	0.1	8
+NRPS	0. Suspected	2. Non-Yeast Basidimycota	0.1	2
+Only Suspected PKS	0. Suspected	2. Non-Yeast Basidimycota	0.0	11
+PKS|Type I|Partially-reducing	PKS	3. Yeast Dikarya	0.0	10
+PKS|Type I|Highly-reducing	PKS	3. Yeast Dikarya	0.045454545454545456	7
+NRPS	NRPS	3. Yeast Dikarya	0.3181818181818182	2
+PKS|Type I|Non-reducing	PKS	3. Yeast Dikarya	0.09090909090909091	6
+Hybrid NRPS-PKS	0. Suspected	3. Yeast Dikarya	0.0	8
+Hybrid NRPS-PKS	Hybrid	3. Yeast Dikarya	0.045454545454545456	8
+NRPS	0. Suspected	3. Yeast Dikarya	0.0	2
+Only Suspected PKS	0. Suspected	3. Yeast Dikarya	0.0	11
+PKS|Type I|Partially-reducing	PKS	4. Mucoromycota	0.0	10
+PKS|Type I|Highly-reducing	PKS	4. Mucoromycota	0.0	7
+NRPS	NRPS	4. Mucoromycota	0.0	2
+PKS|Type I|Non-reducing	PKS	4. Mucoromycota	0.07692307692307693	6
+Hybrid NRPS-PKS	0. Suspected	4. Mucoromycota	0.0	8
+Hybrid NRPS-PKS	Hybrid	4. Mucoromycota	0.15384615384615385	8
+NRPS	0. Suspected	4. Mucoromycota	0.07692307692307693	2
+Only Suspected PKS	0. Suspected	4. Mucoromycota	0.0	11
+PKS|Type I|Partially-reducing	PKS	5. Zoopagomycota	0.09090909090909091	10
+PKS|Type I|Highly-reducing	PKS	5. Zoopagomycota	0.0	7
+NRPS	NRPS	5. Zoopagomycota	0.2727272727272727	2
+PKS|Type I|Non-reducing	PKS	5. Zoopagomycota	0.0	6
+Hybrid NRPS-PKS	0. Suspected	5. Zoopagomycota	0.0	8
+Hybrid NRPS-PKS	Hybrid	5. Zoopagomycota	0.0	8
+NRPS	0. Suspected	5. Zoopagomycota	0.0	2
+Only Suspected PKS	0. Suspected	5. Zoopagomycota	0.0	11
+PKS|Type I|Partially-reducing	PKS	6. Neocallimastigomycota	0.75	10
+PKS|Type I|Highly-reducing	PKS	6. Neocallimastigomycota	0.75	7
+NRPS	NRPS	6. Neocallimastigomycota	1.0	2
+PKS|Type I|Non-reducing	PKS	6. Neocallimastigomycota	0.0	6
+Hybrid NRPS-PKS	0. Suspected	6. Neocallimastigomycota	0.0	8
+Hybrid NRPS-PKS	Hybrid	6. Neocallimastigomycota	0.0	8
+NRPS	0. Suspected	6. Neocallimastigomycota	0.0	2
+Only Suspected PKS	0. Suspected	6. Neocallimastigomycota	0.25	11
+PKS|Type I|Partially-reducing	PKS	7. Spizellomycetales	0.0	10
+PKS|Type I|Highly-reducing	PKS	7. Spizellomycetales	0.1111111111111111	7
+NRPS	NRPS	7. Spizellomycetales	0.6666666666666666	2
+PKS|Type I|Non-reducing	PKS	7. Spizellomycetales	0.1111111111111111	6
+Hybrid NRPS-PKS	0. Suspected	7. Spizellomycetales	0.0	8
+Hybrid NRPS-PKS	Hybrid	7. Spizellomycetales	0.5555555555555556	8
+NRPS	0. Suspected	7. Spizellomycetales	0.2222222222222222	2
+Only Suspected PKS	0. Suspected	7. Spizellomycetales	0.0	11
+PKS|Type I|Partially-reducing	PKS	8. Other Zoosporic and Basal Fungi	0.0	10
+PKS|Type I|Highly-reducing	PKS	8. Other Zoosporic and Basal Fungi	0.05128205128205128	7
+NRPS	NRPS	8. Other Zoosporic and Basal Fungi	0.46153846153846156	2
+PKS|Type I|Non-reducing	PKS	8. Other Zoosporic and Basal Fungi	0.0	6
+Hybrid NRPS-PKS	0. Suspected	8. Other Zoosporic and Basal Fungi	0.02564102564102564	8
+Hybrid NRPS-PKS	Hybrid	8. Other Zoosporic and Basal Fungi	0.1794871794871795	8
+NRPS	0. Suspected	8. Other Zoosporic and Basal Fungi	0.10256410256410256	2
+Only Suspected PKS	0. Suspected	8. Other Zoosporic and Basal Fungi	0.02564102564102564	11

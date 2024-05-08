@@ -1,0 +1,3 @@
+MXAN_2432 & MXAN2269	OG0007098	/home/salamzade/Multicellularity_and_BGC_Abundances/Myxo/OrthoFinder_Analysis/Determine_OrthoGroup_HMMs/Orthogroup_HMMs/OG0007098.fa.hmm	189.1
+MXAN_5430	OG0004200	/home/salamzade/Multicellularity_and_BGC_Abundances/Myxo/OrthoFinder_Analysis/Determine_OrthoGroup_HMMs/Orthogroup_HMMs/OG0004200.fa.hmm	90.1
+MXAN_6969	OG0005033	/home/salamzade/Multicellularity_and_BGC_Abundances/Myxo/OrthoFinder_Analysis/Determine_OrthoGroup_HMMs/Orthogroup_HMMs/OG0005033.fa.hmm	97.2

@@ -1,0 +1,192 @@
+General	Genome Size	0.8246196733499805	0.0
+General	Transposon Homologs	0.6356912377835109	0.0
+General	Distinct CAZy Enzyme Homologs	0.5016757680572339	0.0
+General	Total CAZy Enzyme Homologs	0.6848800295451876	0.0
+General	Distinct Oxidative Phosphorylation Homologs	0.5251331666614137	0.0
+General	Distinct Adherence Protein Homologs	0.529996612453569	0.0
+General	GC%	0.5111183048855628	0.0
+General	Predicted Optimal Growth Temperature	0.046830616998338605	3.8820844434622456e-10
+General	Phage-ome Size	0.2482141193794871	1.028112568435699e-248
+General	Median Relative Abundance in MGs	-0.02189164030673938	0.008151715026445717
+General	Prop. of MGs which are Eukaryotic-Host Associated	-0.25350050541561164	6.258370884996836e-213
+General	Total MGs Detected Within	-0.37210115001289235	0.0
+General	A Amino Acid Frequency	0.48626610769204187	0.0
+General	C Amino Acid Frequency	-0.2453614690914259	6.697539854875666e-243
+General	D Amino Acid Frequency	-0.017388244071811925	0.020192076910893624
+General	E Amino Acid Frequency	-0.3799387767267413	0.0
+General	F Amino Acid Frequency	-0.4768047353998151	0.0
+General	G Amino Acid Frequency	0.4807437555731647	0.0
+General	H Amino Acid Frequency	0.44125652528182246	0.0
+General	I Amino Acid Frequency	-0.526363673541115	0.0
+General	K Amino Acid Frequency	-0.5256583507134089	0.0
+General	L Amino Acid Frequency	0.4121332360110335	0.0
+General	M Amino Acid Frequency	-0.33472644437634125	0.0
+General	N Amino Acid Frequency	-0.5080855237993943	0.0
+General	P Amino Acid Frequency	0.567627227097338	0.0
+General	Q Amino Acid Frequency	-0.011998131777856623	0.10900685120202887
+General	R Amino Acid Frequency	0.5292958387450513	0.0
+General	S Amino Acid Frequency	-0.35851644266597965	0.0
+General	T Amino Acid Frequency	0.17080420976377433	6.776642003453813e-117
+General	V Amino Acid Frequency	0.3973056548255529	0.0
+General	W Amino Acid Frequency	0.5229945000975602	0.0
+General	Y Amino Acid Frequency	-0.4760387461459129	0.0
+Pseudomonadota	Genome Size	0.7589564356276407	0.0
+Pseudomonadota	Transposon Homologs	0.5401174746891033	0.0
+Pseudomonadota	Distinct CAZy Enzyme Homologs	0.45452970486819577	0.0
+Pseudomonadota	Total CAZy Enzyme Homologs	0.611124411624531	0.0
+Pseudomonadota	Distinct Oxidative Phosphorylation Homologs	0.4764540499531385	0.0
+Pseudomonadota	Distinct Adherence Protein Homologs	0.49359562692125303	0.0
+Pseudomonadota	GC%	0.3535058334887413	6.173443436450871e-249
+Pseudomonadota	Predicted Optimal Growth Temperature	0.14325406276466232	2.9849777051608253e-40
+Pseudomonadota	Phage-ome Size	0.43059678969614207	0.0
+Pseudomonadota	Median Relative Abundance in MGs	0.05799005640063449	7.705347789633597e-07
+Pseudomonadota	Prop. of MGs which are Eukaryotic-Host Associated	0.10859157121651695	1.771665461727407e-20
+Pseudomonadota	Total MGs Detected Within	-0.2834689761298356	3.87048907759068e-134
+Pseudomonadota	A Amino Acid Frequency	0.3144727681739116	1.202275466851233e-194
+Pseudomonadota	C Amino Acid Frequency	-0.08089592028285074	7.818646712269313e-14
+Pseudomonadota	D Amino Acid Frequency	-0.0741573101728523	7.436214253440867e-12
+Pseudomonadota	E Amino Acid Frequency	-0.26556591502338195	2.575147147543033e-137
+Pseudomonadota	F Amino Acid Frequency	-0.2861369614910039	4.8310665972856064e-160
+Pseudomonadota	G Amino Acid Frequency	0.24507470042721075	1.3341181637682584e-116
+Pseudomonadota	H Amino Acid Frequency	0.2633701102657652	5.2631173487461706e-135
+Pseudomonadota	I Amino Acid Frequency	-0.3654512443050053	3.597902760147453e-267
+Pseudomonadota	K Amino Acid Frequency	-0.3280622754559665	1.1865936076031065e-212
+Pseudomonadota	L Amino Acid Frequency	0.35947451012772064	5.991297801719288e-258
+Pseudomonadota	M Amino Acid Frequency	-0.07127162946663221	4.6477933353620526e-11
+Pseudomonadota	N Amino Acid Frequency	-0.28945786831950654	6.7468224018335436e-164
+Pseudomonadota	P Amino Acid Frequency	0.31919911284372154	8.387944034733694e-201
+Pseudomonadota	Q Amino Acid Frequency	0.15776834317628846	1.4961082141835952e-48
+Pseudomonadota	R Amino Acid Frequency	0.31315120552379433	6.045188049825158e-193
+Pseudomonadota	S Amino Acid Frequency	-0.20674695012068448	8.373248802709256e-83
+Pseudomonadota	T Amino Acid Frequency	0.08465749376030803	5.196438089484153e-15
+Pseudomonadota	V Amino Acid Frequency	0.33085504585532693	1.8086642829782756e-216
+Pseudomonadota	W Amino Acid Frequency	0.28403416024581185	1.2530480031591353e-157
+Pseudomonadota	Y Amino Acid Frequency	-0.2445583891838544	4.1963972126805876e-116
+Bacillota	Genome Size	0.6676433974199735	0.0
+Bacillota	Transposon Homologs	0.5073270815511949	2.5916642808940747e-287
+Bacillota	Distinct CAZy Enzyme Homologs	0.48067980624516576	6.294999446459332e-254
+Bacillota	Total CAZy Enzyme Homologs	0.5772781011350248	0.0
+Bacillota	Distinct Oxidative Phosphorylation Homologs	0.5652529656224984	0.0
+Bacillota	Distinct Adherence Protein Homologs	0.6222271382440208	0.0
+Bacillota	GC%	0.050740612691072974	0.0007474516839561879
+Bacillota	Predicted Optimal Growth Temperature	0.2503017438470522	5.274983816686551e-64
+Bacillota	Phage-ome Size	0.25887503877153045	1.728045232668642e-68
+Bacillota	Median Relative Abundance in MGs	0.016445787501013057	0.3097305999916088
+Bacillota	Prop. of MGs which are Eukaryotic-Host Associated	-0.2642711861240022	5.152366711929911e-62
+Bacillota	Total MGs Detected Within	-0.25466261269402785	1.435202725737094e-57
+Bacillota	A Amino Acid Frequency	-0.01891785529509755	0.20899455975177977
+Bacillota	C Amino Acid Frequency	-0.10503447443888067	2.6702597420263123e-12
+Bacillota	D Amino Acid Frequency	-0.3786130452229942	2.1620736751908034e-150
+Bacillota	E Amino Acid Frequency	0.11614423395402357	1.0047721531858714e-14
+Bacillota	F Amino Acid Frequency	0.010657807042454668	0.47910559895687865
+Bacillota	G Amino Acid Frequency	0.11719996797951573	5.742412489591871e-15
+Bacillota	H Amino Acid Frequency	0.32055724389700047	5.491815946581711e-106
+Bacillota	I Amino Acid Frequency	-0.004812983062819973	0.7492689226413707
+Bacillota	K Amino Acid Frequency	-0.14012949157036103	8.654338993049918e-21
+Bacillota	L Amino Acid Frequency	0.13208225334307572	1.2579675317362955e-18
+Bacillota	M Amino Acid Frequency	0.25140396202779663	1.429591921499049e-64
+Bacillota	N Amino Acid Frequency	-0.15584745610367334	2.1723847054781678e-25
+Bacillota	P Amino Acid Frequency	0.21850754249233886	7.738931569869514e-49
+Bacillota	Q Amino Acid Frequency	0.1931638696736945	2.380365625282399e-38
+Bacillota	R Amino Acid Frequency	0.1087995067727692	4.284732053385104e-13
+Bacillota	S Amino Acid Frequency	0.10642313971214429	1.3698791389834851e-12
+Bacillota	T Amino Acid Frequency	-0.10649692460588522	1.3218291124186188e-12
+Bacillota	V Amino Acid Frequency	0.05172116603237969	0.0005886387596380271
+Bacillota	W Amino Acid Frequency	0.3879103347804685	2.111043644920523e-158
+Bacillota	Y Amino Acid Frequency	-0.19661528578766216	1.0712684974136313e-39
+Cyanobacteriota	Genome Size	0.7518914357548939	3.0008531312781937e-89
+Cyanobacteriota	Transposon Homologs	0.6187063360595358	1.821112033776049e-52
+Cyanobacteriota	Distinct CAZy Enzyme Homologs	0.7350380653909088	2.258458812981925e-83
+Cyanobacteriota	Total CAZy Enzyme Homologs	0.7287900037205687	2.6263510654341433e-81
+Cyanobacteriota	Distinct Oxidative Phosphorylation Homologs	0.8103379868463039	5.813023632184214e-114
+Cyanobacteriota	Distinct Adherence Protein Homologs	0.6895859129000594	1.4912448664656335e-69
+Cyanobacteriota	GC%	0.4391927917680979	3.052154710311674e-24
+Cyanobacteriota	Predicted Optimal Growth Temperature	0.5365624134402411	1.95375836476362e-37
+Cyanobacteriota	Phage-ome Size	0.5550669851062328	1.838202523290971e-40
+Cyanobacteriota	Median Relative Abundance in MGs	0.04062904433006482	0.39740024934486073
+Cyanobacteriota	Prop. of MGs which are Eukaryotic-Host Associated	-0.40614860306503603	9.554524000686591e-19
+Cyanobacteriota	Total MGs Detected Within	-0.4257623781916335	1.2603970945936856e-20
+Cyanobacteriota	A Amino Acid Frequency	0.41184048045749855	3.0749493062814235e-21
+Cyanobacteriota	C Amino Acid Frequency	-0.7461572327723789	3.3794915619399303e-87
+Cyanobacteriota	D Amino Acid Frequency	-0.6802522867533778	5.015725153933708e-67
+Cyanobacteriota	E Amino Acid Frequency	-0.5701967946745174	4.418185000561781e-43
+Cyanobacteriota	F Amino Acid Frequency	-0.4523151236801789	8.788330049277371e-26
+Cyanobacteriota	G Amino Acid Frequency	0.47526771451702005	1.2109009673123038e-28
+Cyanobacteriota	H Amino Acid Frequency	0.5485614248578065	2.2383997354475437e-39
+Cyanobacteriota	I Amino Acid Frequency	-0.444420375354359	7.5656195786014755e-25
+Cyanobacteriota	K Amino Acid Frequency	-0.5614864145364178	1.477572435673369e-41
+Cyanobacteriota	L Amino Acid Frequency	0.4730856717369595	2.3146455584299912e-28
+Cyanobacteriota	M Amino Acid Frequency	-0.6658605470856752	2.613310840260049e-63
+Cyanobacteriota	N Amino Acid Frequency	-0.4641646590781347	3.1191607908703936e-27
+Cyanobacteriota	P Amino Acid Frequency	0.5667188165136758	1.8168595823884692e-42
+Cyanobacteriota	Q Amino Acid Frequency	0.6562730079887188	6.028496451598069e-61
+Cyanobacteriota	R Amino Acid Frequency	0.5470070966411436	4.034542071222786e-39
+Cyanobacteriota	S Amino Acid Frequency	0.17439604950439175	0.00011507668197527052
+Cyanobacteriota	T Amino Acid Frequency	0.42034912356594445	3.826859620997621e-22
+Cyanobacteriota	V Amino Acid Frequency	0.37248751629943366	2.239718524194666e-17
+Cyanobacteriota	W Amino Acid Frequency	0.5237977543983204	1.8702904648125972e-35
+Cyanobacteriota	Y Amino Acid Frequency	-0.22508282237568075	5.633891503954713e-07
+Myxococcota	Genome Size	0.7208261617900172	1.0648793127025138e-14
+Myxococcota	Transposon Homologs	0.48116061313577013	3.6032959553850876e-06
+Myxococcota	Distinct CAZy Enzyme Homologs	0.7256718810435997	5.7917077187998065e-15
+Myxococcota	Total CAZy Enzyme Homologs	0.7838413961819073	1.1955630335978311e-18
+Myxococcota	Distinct Oxidative Phosphorylation Homologs	-0.24645413170236094	0.02382593894092137
+Myxococcota	Distinct Adherence Protein Homologs	0.7723764519095678	7.747278997198205e-18
+Myxococcota	GC%	-0.11979345955249569	0.27774977123077543
+Myxococcota	Predicted Optimal Growth Temperature	0.3927710843373494	0.0002194119591633266
+Myxococcota	Phage-ome Size	0.2270122506834059	0.03783650434132417
+Myxococcota	Median Relative Abundance in MGs	-0.3433465824996862	0.0023934120693062176
+Myxococcota	Prop. of MGs which are Eukaryotic-Host Associated	0.3550845845675534	0.0016467412323071438
+Myxococcota	Total MGs Detected Within	-0.44453275033621337	5.7473549460153026e-05
+Myxococcota	A Amino Acid Frequency	-0.4664574263440316	7.743083238781472e-06
+Myxococcota	C Amino Acid Frequency	-0.5595221221018528	3.153067482851546e-08
+Myxococcota	D Amino Acid Frequency	-0.5442543282373191	8.739152501993246e-08
+Myxococcota	E Amino Acid Frequency	0.564402146400729	2.2515109846323016e-08
+Myxococcota	F Amino Acid Frequency	0.3766933279335831	0.00041280353290244136
+Myxococcota	G Amino Acid Frequency	-0.3795079477574162	0.0003704250698541231
+Myxococcota	H Amino Acid Frequency	0.311268603827073	0.003951081455623635
+Myxococcota	I Amino Acid Frequency	-0.5792852080591273	7.789188938303543e-09
+Myxococcota	K Amino Acid Frequency	0.1085147311936823	0.3258255489867985
+Myxococcota	L Amino Acid Frequency	0.624825351827478	2.1225645705181644e-10
+Myxococcota	M Amino Acid Frequency	0.2899463399817759	0.007465923871428816
+Myxococcota	N Amino Acid Frequency	0.26244811177483046	0.0158751071884665
+Myxococcota	P Amino Acid Frequency	0.18153285410549763	0.09841061287819046
+Myxococcota	Q Amino Acid Frequency	0.5507542776146603	5.697497623028557e-08
+Myxococcota	R Amino Acid Frequency	0.04564138908575478	0.6801508486162436
+Myxococcota	S Amino Acid Frequency	0.22130201478181633	0.043069735573724545
+Myxococcota	T Amino Acid Frequency	0.1888427660220715	0.08536800106352321
+Myxococcota	V Amino Acid Frequency	-0.06307583274273565	0.5686739995972199
+Myxococcota	W Amino Acid Frequency	0.3340488002429888	0.0018998415982985882
+Myxococcota	Y Amino Acid Frequency	0.5253012048192772	2.8930901717489925e-07
+Actinomycetota	Genome Size	0.8903812427869887	0.0
+Actinomycetota	Transposon Homologs	0.7081503954890387	0.0
+Actinomycetota	Distinct CAZy Enzyme Homologs	0.5754056225640372	0.0
+Actinomycetota	Total CAZy Enzyme Homologs	0.7873537938562712	0.0
+Actinomycetota	Distinct Oxidative Phosphorylation Homologs	0.7174022637593086	0.0
+Actinomycetota	Distinct Adherence Protein Homologs	0.715412540135891	0.0
+Actinomycetota	GC%	0.4600825276716283	3.9562244609544167e-227
+Actinomycetota	Predicted Optimal Growth Temperature	0.03259448007697076	0.031480718756916666
+Actinomycetota	Phage-ome Size	0.2791342303934819	9.09038217343138e-79
+Actinomycetota	Median Relative Abundance in MGs	-0.171656544958687	2.0675400921481277e-21
+Actinomycetota	Prop. of MGs which are Eukaryotic-Host Associated	-0.3319756056137746	1.2326634850252958e-78
+Actinomycetota	Total MGs Detected Within	-0.4169936948960775	2.0644669264150057e-127
+Actinomycetota	A Amino Acid Frequency	0.45452271546640094	4.788404064408807e-221
+Actinomycetota	C Amino Acid Frequency	0.17565365344919864	1.6244085660064161e-31
+Actinomycetota	D Amino Acid Frequency	-0.22593678975478035	1.5825754403705158e-51
+Actinomycetota	E Amino Acid Frequency	-0.3877833879104434	2.8542219412814957e-156
+Actinomycetota	F Amino Acid Frequency	-0.5341616167204843	0.0
+Actinomycetota	G Amino Acid Frequency	0.5667136604496222	0.0
+Actinomycetota	H Amino Acid Frequency	0.5548853472575405	0.0
+Actinomycetota	I Amino Acid Frequency	-0.6168283516975961	0.0
+Actinomycetota	K Amino Acid Frequency	-0.31016091271538504	9.586521608489669e-98
+Actinomycetota	L Amino Acid Frequency	0.4506745652294644	6.679203357862249e-217
+Actinomycetota	M Amino Acid Frequency	-0.5408775364796702	0.0
+Actinomycetota	N Amino Acid Frequency	-0.42927747296352714	8.309136193260163e-195
+Actinomycetota	P Amino Acid Frequency	0.7607364149950527	0.0
+Actinomycetota	Q Amino Acid Frequency	-0.3267678413944886	6.783171282609114e-109
+Actinomycetota	R Amino Acid Frequency	0.6557921935967845	0.0
+Actinomycetota	S Amino Acid Frequency	-0.5895645096885831	0.0
+Actinomycetota	T Amino Acid Frequency	0.21380848041072123	3.3169758983583337e-46
+Actinomycetota	V Amino Acid Frequency	0.08316225679717494	3.884464518696239e-08
+Actinomycetota	W Amino Acid Frequency	0.39486529112621654	1.8240247675333398e-162
+Actinomycetota	Y Amino Acid Frequency	-0.1229952167777784	3.7813800976667016e-16

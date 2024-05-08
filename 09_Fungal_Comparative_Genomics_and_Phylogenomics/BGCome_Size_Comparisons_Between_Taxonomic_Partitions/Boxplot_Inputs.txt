@@ -1,0 +1,206 @@
+GCA	Phylum_or_Clade	Complete_BGC_Count	BGCome_Size	Strict_NRPS_or_PKSome_Size	Color	Grid
+GCA_000392275	1. Pezizomycotina	19.0	1.469578	0.649291	haploid-dominant	1 Pez
+GCA_003016335	1. Pezizomycotina	56.0	4.436637	2.508726	haploid-dominant	1 Pez
+GCA_025602915	8. Other Zoosporic and Basal Fungi	4.0	0.174597	0.0	polyploid-dominant	2 other
+GCA_001600175	2. Non-Yeast Basidimycota	5.0	0.217595	0.0	polyploid-dominant	2 other
+GCA_003086735	5. Zoopagomycota	0.0	0.088475	0.0	polyploid-dominant	2 other
+GCA_025765595	8. Other Zoosporic and Basal Fungi	7.0	0.51207	0.288691	polyploid-dominant	2 other
+GCA_025602895	8. Other Zoosporic and Basal Fungi	61.0	4.288817	0.245708	polyploid-dominant	2 other
+GCA_002162545	1. Pezizomycotina	41.0	3.179834	1.930214	haploid-dominant	1 Pez
+GCA_000328475	3. Yeast Dikarya	9.0	0.715389	0.248757	yeast	2 other
+GCA_003988945	1. Pezizomycotina	7.0	1.929239	1.237315	haploid-dominant	1 Pez
+GCA_001574975	8. Other Zoosporic and Basal Fungi	5.0	0.196268	0.0	polyploid-dominant	2 other
+GCA_002368545	1. Pezizomycotina	27.0	2.20774	1.274752	haploid-dominant	1 Pez
+GCA_000760515	8. Other Zoosporic and Basal Fungi	0.0	0.0	0.0	polyploid-dominant	2 other
+GCA_003385255	1. Pezizomycotina	15.0	2.142944	1.521628	haploid-dominant	1 Pez
+GCA_001619985	1. Pezizomycotina	24.0	1.62267	0.996325	haploid-dominant	1 Pez
+GCA_000354255	1. Pezizomycotina	40.0	3.835495	2.126181	haploid-dominant	1 Pez
+GCA_002572855	1. Pezizomycotina	10.0	1.097976	0.30884	haploid-dominant	1 Pez
+GCA_002105135	4. Mucoromycota	12.0	0.539213	0.0	haploid-dominant	2 other
+GCA_001692915	1. Pezizomycotina	3.0	1.768264	1.133382	haploid-dominant	1 Pez
+GCA_026937265	8. Other Zoosporic and Basal Fungi	0.0	0.013589	0.0	polyploid-dominant	2 other
+GCA_001600815	3. Yeast Dikarya	4.0	0.275433	0.0	yeast	2 other
+GCA_000836295	1. Pezizomycotina	15.0	1.292979	0.449668	haploid-dominant	1 Pez
+GCA_000708205	2. Non-Yeast Basidimycota	9.0	0.414063	0.064279	polyploid-dominant	2 other
+GCA_900290415	1. Pezizomycotina	34.0	2.496526	1.77992	haploid-dominant	1 Pez
+GCA_000235945	8. Other Zoosporic and Basal Fungi	2.0	0.120061	0.0	polyploid-dominant	2 other
+GCA_000349385	1. Pezizomycotina	19.0	3.267375	2.113989	haploid-dominant	1 Pez
+GCA_025558095	8. Other Zoosporic and Basal Fungi	5.0	0.243785	0.0	polyploid-dominant	2 other
+GCA_000721755	1. Pezizomycotina	24.0	1.936074	0.807297	haploid-dominant	1 Pez
+GCA_900073065	1. Pezizomycotina	68.0	5.505573	2.234234	haploid-dominant	1 Pez
+GCA_004335205	1. Pezizomycotina	9.0	2.115583	1.243556	haploid-dominant	1 Pez
+GCA_027604685	8. Other Zoosporic and Basal Fungi	0.0	0.209071	0.059559	polyploid-dominant	2 other
+GCA_027600665	8. Other Zoosporic and Basal Fungi	0.0	0.360067	0.245252	polyploid-dominant	2 other
+GCA_002778095	1. Pezizomycotina	23.0	1.597277	0.82556	haploid-dominant	1 Pez
+GCA_001661345	3. Yeast Dikarya	1.0	0.071698	0.0	yeast	2 other
+GCA_002916505	1. Pezizomycotina	8.0	1.758394	1.154963	haploid-dominant	1 Pez
+GCA_002591845	1. Pezizomycotina	13.0	1.647281	0.946949	haploid-dominant	1 Pez
+GCA_000151645	1. Pezizomycotina	7.0	0.451448	0.228235	haploid-dominant	1 Pez
+GCA_000182565	7. Spizellomycetales	8.0	0.765324	0.356434	haploid-dominant	2 other
+GCA_003795315	1. Pezizomycotina	41.0	3.848048	2.198516	haploid-dominant	1 Pez
+GCA_003833135	4. Mucoromycota	5.0	0.305816	0.065011	haploid-dominant	2 other
+GCA_002865625	1. Pezizomycotina	39.0	3.280553	1.149796	haploid-dominant	1 Pez
+GCA_000149305	4. Mucoromycota	15.0	0.669928	0.064296	haploid-dominant	2 other
+GCA_025399235	4. Mucoromycota	4.0	0.488719	0.040553	haploid-dominant	2 other
+GCA_003706495	3. Yeast Dikarya	1.0	0.087212	0.0	yeast	2 other
+GCA_002261195	4. Mucoromycota	4.0	0.322691	0.018996	haploid-dominant	2 other
+GCA_027604305	8. Other Zoosporic and Basal Fungi	2.0	0.167986	0.065807	polyploid-dominant	2 other
+GCA_000812075	1. Pezizomycotina	9.0	1.721282	1.174844	haploid-dominant	1 Pez
+GCA_027604065	8. Other Zoosporic and Basal Fungi	1.0	0.109388	0.037696	polyploid-dominant	2 other
+GCA_027596945	8. Other Zoosporic and Basal Fungi	0.0	0.217739	0.074538	polyploid-dominant	2 other
+GCA_003264845	1. Pezizomycotina	35.0	3.706221	2.313885	haploid-dominant	1 Pez
+GCA_002104985	8. Other Zoosporic and Basal Fungi	9.0	0.542899	0.132529	polyploid-dominant	2 other
+GCA_003788565	1. Pezizomycotina	13.0	0.864709	0.373721	haploid-dominant	1 Pez
+GCA_000149865	8. Other Zoosporic and Basal Fungi	5.0	0.268079	0.133003	polyploid-dominant	2 other
+GCA_002081935	1. Pezizomycotina	33.0	5.408965	3.081464	haploid-dominant	1 Pez
+GCA_027604665	8. Other Zoosporic and Basal Fungi	0.0	0.113093	0.009594	polyploid-dominant	2 other
+GCA_025558075	7. Spizellomycetales	5.0	0.342256	0.183303	haploid-dominant	2 other
+GCA_001563115	1. Pezizomycotina	25.0	3.904645	2.055539	haploid-dominant	1 Pez
+GCA_027604625	8. Other Zoosporic and Basal Fungi	0.0	0.055247	0.01315	polyploid-dominant	2 other
+GCA_025602905	7. Spizellomycetales	6.0	0.402159	0.211256	haploid-dominant	2 other
+GCA_000385595	1. Pezizomycotina	15.0	2.820706	1.688754	haploid-dominant	1 Pez
+GCA_001557505	1. Pezizomycotina	43.0	3.957835	3.005175	haploid-dominant	1 Pez
+GCA_001270325	1. Pezizomycotina	37.0	2.749749	1.88201	haploid-dominant	1 Pez
+GCA_000225545	1. Pezizomycotina	18.0	1.103214	0.33565	haploid-dominant	1 Pez
+GCA_000732205	1. Pezizomycotina	30.0	2.088665	1.109042	haploid-dominant	1 Pez
+GCA_002374405	3. Yeast Dikarya	3.0	0.126603	0.0	yeast	2 other
+GCA_000338955	1. Pezizomycotina	21.0	1.293462	0.279381	haploid-dominant	1 Pez
+GCA_003184365	1. Pezizomycotina	47.0	5.089503	3.091722	haploid-dominant	1 Pez
+GCA_000002945	3. Yeast Dikarya	4.0	0.233594	0.075005	yeast	2 other
+GCA_025201845	5. Zoopagomycota	3.0	0.147067	0.0363	polyploid-dominant	2 other
+GCA_000002525	3. Yeast Dikarya	3.0	0.186198	0.0	yeast	2 other
+GCA_000226115	1. Pezizomycotina	28.0	2.091629	1.232024	haploid-dominant	1 Pez
+GCA_002104995	5. Zoopagomycota	6.0	0.190944	0.064218	polyploid-dominant	2 other
+GCA_003990805	1. Pezizomycotina	34.0	2.187407	1.02029	haploid-dominant	1 Pez
+GCA_002104975	6. Neocallimastigomycota	26.0	2.038726	1.539134	haploid-dominant	2 other
+GCA_900120095	2. Non-Yeast Basidimycota	5.0	0.227782	0.064901	polyploid-dominant	2 other
+GCA_003144135	3. Yeast Dikarya	5.0	0.316999	0.072775	yeast	2 other
+GCA_003671545	1. Pezizomycotina	33.0	5.31101	2.866342	haploid-dominant	1 Pez
+GCA_027603945	8. Other Zoosporic and Basal Fungi	4.0	0.293934	0.197948	polyploid-dominant	2 other
+GCA_002705745	5. Zoopagomycota	3.0	0.145583	0.064152	polyploid-dominant	2 other
+GCA_900119595	3. Yeast Dikarya	2.0	0.118542	0.0	yeast	2 other
+GCA_027604465	8. Other Zoosporic and Basal Fungi	0.0	0.115705	0.084782	polyploid-dominant	2 other
+GCA_003574815	1. Pezizomycotina	44.0	3.623676	2.573377	haploid-dominant	1 Pez
+GCA_000516985	1. Pezizomycotina	91.0	6.120631	2.991406	haploid-dominant	1 Pez
+GCA_027603065	7. Spizellomycetales	13.0	0.87082	0.35025	haploid-dominant	2 other
+GCA_002104905	5. Zoopagomycota	11.0	1.584518	0.972773	polyploid-dominant	2 other
+GCA_000442015	8. Other Zoosporic and Basal Fungi	0.0	0.009832	0.0	polyploid-dominant	2 other
+GCA_001599975	2. Non-Yeast Basidimycota	8.0	0.426531	0.125971	polyploid-dominant	2 other
+GCA_025449115	8. Other Zoosporic and Basal Fungi	5.0	0.312706	0.151969	polyploid-dominant	2 other
+GCA_027596035	7. Spizellomycetales	0.0	0.414522	0.249117	haploid-dominant	2 other
+GCA_002240705	1. Pezizomycotina	0.0	0.584744	0.394884	haploid-dominant	1 Pez
+GCA_000261425	1. Pezizomycotina	17.0	1.273538	0.507078	haploid-dominant	1 Pez
+GCA_001600455	1. Pezizomycotina	80.0	6.754477	4.175582	haploid-dominant	1 Pez
+GCA_025526955	8. Other Zoosporic and Basal Fungi	4.0	0.157542	0.0	polyploid-dominant	2 other
+GCA_002105025	1. Pezizomycotina	29.0	4.202908	1.984816	haploid-dominant	1 Pez
+GCA_002105095	1. Pezizomycotina	63.0	4.469028	2.703443	haploid-dominant	1 Pez
+GCA_000151295	8. Other Zoosporic and Basal Fungi	10.0	0.329435	0.0	polyploid-dominant	2 other
+GCA_000003515	1. Pezizomycotina	23.0	1.51477	0.962749	haploid-dominant	1 Pez
+GCA_025603075	5. Zoopagomycota	1.0	0.203739	0.0	polyploid-dominant	2 other
+GCA_000442125	1. Pezizomycotina	40.0	3.087933	1.623739	haploid-dominant	1 Pez
+GCA_001566295	1. Pezizomycotina	35.0	2.814412	1.529556	haploid-dominant	1 Pez
+GCA_001692735	1. Pezizomycotina	8.0	1.663867	0.895854	haploid-dominant	1 Pez
+GCA_001661425	3. Yeast Dikarya	2.0	0.127836	0.0	yeast	2 other
+GCA_003019895	1. Pezizomycotina	16.0	2.712082	1.385172	haploid-dominant	1 Pez
+GCA_002927785	1. Pezizomycotina	3.0	2.654059	1.63451	haploid-dominant	1 Pez
+GCA_027600645	8. Other Zoosporic and Basal Fungi	4.0	0.295659	0.040354	polyploid-dominant	2 other
+GCA_001481775	1. Pezizomycotina	41.0	3.13776	1.800029	haploid-dominant	1 Pez
+GCA_002104895	6. Neocallimastigomycota	13.0	2.189531	1.873127	haploid-dominant	2 other
+GCA_003707925	3. Yeast Dikarya	4.0	0.154971	0.064173	yeast	2 other
+GCA_003049485	1. Pezizomycotina	11.0	1.716453	0.989202	haploid-dominant	1 Pez
+GCA_000182925	1. Pezizomycotina	19.0	1.255064	0.724275	haploid-dominant	1 Pez
+GCA_003705835	3. Yeast Dikarya	5.0	0.278149	0.087821	yeast	2 other
+GCA_000417875	3. Yeast Dikarya	9.0	0.595011	0.160854	yeast	2 other
+GCA_001447215	1. Pezizomycotina	18.0	4.50702	2.996801	haploid-dominant	1 Pez
+GCA_001642045	1. Pezizomycotina	69.0	5.545732	1.892169	haploid-dominant	1 Pez
+GCA_001566745	5. Zoopagomycota	5.0	0.417335	0.14366	polyploid-dominant	2 other
+GCA_002104935	4. Mucoromycota	10.0	0.403269	0.064441	haploid-dominant	2 other
+GCA_000498615	1. Pezizomycotina	0.0	1.699501	0.88667	haploid-dominant	1 Pez
+GCA_006535985	8. Other Zoosporic and Basal Fungi	5.0	0.213949	0.0	polyploid-dominant	2 other
+GCA_004000055	1. Pezizomycotina	12.0	0.642452	0.337581	haploid-dominant	1 Pez
+GCA_001660795	1. Pezizomycotina	16.0	1.430559	0.933366	haploid-dominant	1 Pez
+GCA_002989075	1. Pezizomycotina	30.0	2.021288	1.064695	haploid-dominant	1 Pez
+GCA_000401635	4. Mucoromycota	7.0	0.500038	0.050438	haploid-dominant	2 other
+GCA_002319055	1. Pezizomycotina	12.0	0.792444	0.261596	haploid-dominant	1 Pez
+GCA_002794465	8. Other Zoosporic and Basal Fungi	0.0	0.0	0.0	polyploid-dominant	2 other
+GCA_000365145	1. Pezizomycotina	18.0	1.491602	0.43601	haploid-dominant	1 Pez
+GCA_001636725	1. Pezizomycotina	32.0	3.133737	1.577267	haploid-dominant	1 Pez
+GCA_004216415	1. Pezizomycotina	8.0	0.673408	0.264168	haploid-dominant	1 Pez
+GCA_027604725	8. Other Zoosporic and Basal Fungi	2.0	0.246603	0.0	polyploid-dominant	2 other
+GCA_000968615	1. Pezizomycotina	5.0	0.527486	0.302336	haploid-dominant	1 Pez
+GCA_002127715	1. Pezizomycotina	19.0	1.828911	0.566362	haploid-dominant	1 Pez
+GCA_027604185	8. Other Zoosporic and Basal Fungi	2.0	0.274584	0.104071	polyploid-dominant	2 other
+GCA_004014935	3. Yeast Dikarya	3.0	0.127608	0.0	yeast	2 other
+GCA_003988795	1. Pezizomycotina	49.0	4.722183	2.683526	haploid-dominant	1 Pez
+GCA_003790465	1. Pezizomycotina	11.0	0.676359	0.167393	haploid-dominant	1 Pez
+GCA_000182895	2. Non-Yeast Basidimycota	18.0	0.901156	0.20048	polyploid-dominant	2 other
+GCA_000464535	1. Pezizomycotina	22.0	1.989075	1.409448	haploid-dominant	1 Pez
+GCA_003614675	5. Zoopagomycota	0.0	0.609786	0.466244	polyploid-dominant	2 other
+GCA_900618795	1. Pezizomycotina	57.0	4.326105	1.276017	haploid-dominant	1 Pez
+GCA_001651415	4. Mucoromycota	4.0	0.217495	0.0	haploid-dominant	2 other
+GCA_001510565	1. Pezizomycotina	9.0	0.626701	0.34307	haploid-dominant	1 Pez
+GCA_003706095	3. Yeast Dikarya	3.0	0.145149	0.0	yeast	2 other
+GCA_001179705	2. Non-Yeast Basidimycota	1.0	0.481718	0.044918	polyploid-dominant	2 other
+GCA_002798055	1. Pezizomycotina	3.0	1.484337	0.881251	haploid-dominant	1 Pez
+GCA_000963775	1. Pezizomycotina	41.0	4.203312	3.227797	haploid-dominant	1 Pez
+GCA_025526995	7. Spizellomycetales	7.0	0.58605	0.340648	haploid-dominant	2 other
+GCA_000812885	1. Pezizomycotina	0.0	1.095262	0.426136	haploid-dominant	1 Pez
+GCA_003706805	3. Yeast Dikarya	4.0	0.296322	0.078159	yeast	2 other
+GCA_002102555	8. Other Zoosporic and Basal Fungi	5.0	0.202967	0.0	polyploid-dominant	2 other
+GCA_900536445	1. Pezizomycotina	19.0	4.001601	1.812186	haploid-dominant	1 Pez
+GCA_003013795	1. Pezizomycotina	22.0	1.562526	0.64908	haploid-dominant	1 Pez
+GCA_025201865	5. Zoopagomycota	1.0	0.111132	0.0	polyploid-dominant	2 other
+GCA_001956345	1. Pezizomycotina	9.0	1.929509	1.186457	haploid-dominant	1 Pez
+GCA_025765615	8. Other Zoosporic and Basal Fungi	12.0	0.938506	0.452003	polyploid-dominant	2 other
+GCA_001638985	4. Mucoromycota	10.0	0.385114	0.064436	haploid-dominant	2 other
+GCA_000313485	3. Yeast Dikarya	2.0	0.113671	0.0	yeast	2 other
+GCA_027596075	7. Spizellomycetales	5.0	0.487318	0.201758	haploid-dominant	2 other
+GCA_004155245	1. Pezizomycotina	34.0	2.926567	2.400576	haploid-dominant	1 Pez
+GCA_025349905	8. Other Zoosporic and Basal Fungi	0.0	0.101913	0.0	polyploid-dominant	2 other
+GCA_000400465	2. Non-Yeast Basidimycota	5.0	0.376695	0.073584	polyploid-dominant	2 other
+GCA_025435555	8. Other Zoosporic and Basal Fungi	8.0	0.597665	0.223936	polyploid-dominant	2 other
+GCA_000467715	1. Pezizomycotina	11.0	2.834001	1.594342	haploid-dominant	1 Pez
+GCA_003073855	1. Pezizomycotina	45.0	6.700813	3.874896	haploid-dominant	1 Pez
+GCA_003313425	1. Pezizomycotina	46.0	3.351049	2.239503	haploid-dominant	1 Pez
+GCA_025786725	5. Zoopagomycota	6.0	0.237973	0.06477	polyploid-dominant	2 other
+GCA_000738655	1. Pezizomycotina	28.0	2.340445	0.781842	haploid-dominant	1 Pez
+GCA_003788615	1. Pezizomycotina	8.0	0.43843	0.293089	haploid-dominant	1 Pez
+GCA_025399215	8. Other Zoosporic and Basal Fungi	1.0	0.384909	0.313731	polyploid-dominant	2 other
+GCA_002818225	3. Yeast Dikarya	5.0	0.300681	0.139974	yeast	2 other
+GCA_000412615	6. Neocallimastigomycota	0.0	1.059714	0.95642	haploid-dominant	2 other
+GCA_003614145	5. Zoopagomycota	0.0	0.020024	0.0	polyploid-dominant	2 other
+GCA_000836435	1. Pezizomycotina	26.0	1.937094	0.551818	haploid-dominant	1 Pez
+GCA_003118255	1. Pezizomycotina	17.0	2.131043	1.462723	haploid-dominant	1 Pez
+GCA_002157105	6. Neocallimastigomycota	9.0	1.56531	1.325022	haploid-dominant	2 other
+GCA_003988815	1. Pezizomycotina	26.0	2.467271	1.334545	haploid-dominant	1 Pez
+GCA_000146915	1. Pezizomycotina	43.0	3.566149	1.883216	haploid-dominant	1 Pez
+GCA_027596065	8. Other Zoosporic and Basal Fungi	0.0	0.214745	0.091865	polyploid-dominant	2 other
+GCA_027596845	8. Other Zoosporic and Basal Fungi	0.0	0.196724	0.07154	polyploid-dominant	2 other
+GCA_000149925	2. Non-Yeast Basidimycota	4.0	0.221016	0.065714	polyploid-dominant	2 other
+GCA_001636715	1. Pezizomycotina	10.0	0.7501	0.20594	haploid-dominant	1 Pez
+GCA_001599695	2. Non-Yeast Basidimycota	6.0	0.285896	0.061703	polyploid-dominant	2 other
+GCA_001599595	1. Pezizomycotina	53.0	4.416498	2.423817	haploid-dominant	1 Pez
+GCA_003610855	1. Pezizomycotina	0.0	0.114874	0.059798	haploid-dominant	1 Pez
+GCA_027596195	8. Other Zoosporic and Basal Fungi	1.0	0.139734	0.094003	polyploid-dominant	2 other
+GCA_025526975	7. Spizellomycetales	10.0	0.595746	0.372571	haploid-dominant	2 other
+GCA_003868215	1. Pezizomycotina	25.0	1.845198	0.958021	haploid-dominant	1 Pez
+GCA_000697415	4. Mucoromycota	12.0	0.634469	0.071625	haploid-dominant	2 other
+GCA_000611775	1. Pezizomycotina	31.0	1.813591	1.203056	haploid-dominant	1 Pez
+GCA_001630345	2. Non-Yeast Basidimycota	13.0	0.851086	0.129253	polyploid-dominant	2 other
+GCA_001513895	1. Pezizomycotina	19.0	1.351256	0.823754	haploid-dominant	1 Pez
+GCA_003019875	1. Pezizomycotina	20.0	1.390539	0.626554	haploid-dominant	1 Pez
+GCA_027604605	7. Spizellomycetales	0.0	0.120199	0.0	haploid-dominant	2 other
+GCA_003615045	8. Other Zoosporic and Basal Fungi	2.0	0.153409	0.0	polyploid-dominant	2 other
+GCA_027604005	8. Other Zoosporic and Basal Fungi	0.0	0.216813	0.097284	polyploid-dominant	2 other
+GCA_000146045	3. Yeast Dikarya	3.0	0.135159	0.0	yeast	2 other
+GCA_002105155	4. Mucoromycota	4.0	0.166881	0.064848	haploid-dominant	2 other
+GCA_003012165	1. Pezizomycotina	18.0	3.767193	2.618066	haploid-dominant	1 Pez
+GCA_000697055	4. Mucoromycota	3.0	0.249608	0.055282	haploid-dominant	2 other
+GCA_025526935	8. Other Zoosporic and Basal Fungi	10.0	0.618779	0.20332	polyploid-dominant	2 other
+GCA_001662655	1. Pezizomycotina	26.0	2.232339	1.298561	haploid-dominant	1 Pez
+GCA_001604925	1. Pezizomycotina	6.0	1.198186	0.476936	haploid-dominant	1 Pez
+GCA_003705295	3. Yeast Dikarya	3.0	0.128135	0.0	yeast	2 other
+GCA_003705335	3. Yeast Dikarya	2.0	0.120171	0.0	yeast	2 other
+GCA_000442885	3. Yeast Dikarya	4.0	0.170328	0.0	yeast	2 other
+GCA_003550325	4. Mucoromycota	18.0	1.080977	0.394724	haploid-dominant	2 other
+GCA_900465125	1. Pezizomycotina	21.0	1.912441	1.166435	haploid-dominant	1 Pez

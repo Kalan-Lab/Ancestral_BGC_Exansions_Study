@@ -1,0 +1,12 @@
+Annotation_Category	Count
+Carbohydrate utilization	13
+Cytochrome	3
+Het	3
+Hypothetical / other	101
+Methyltransferase	4
+Peptidase / protease	10
+PKS	4
+Redox	23
+Regulatory	13
+Terpene synthase	4
+Transport	5

@@ -1,0 +1,1 @@
+../All_BGC_Proteins.with_Labels.txt

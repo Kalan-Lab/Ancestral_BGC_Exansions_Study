@@ -1,0 +1,184 @@
+variant	af	filter-pvalue	lrt-pvalue	beta	beta-std-err	variant_h2	k-samples	nk-samples	notes
+HOG0002513	Belongs to the GMC oxidoreductase family=94; GMC oxidoreductase=10	E=56; J=48
+HOG0028069	-=96; Methyltransferase domain=4; cytidylate kinase activity=1	-=96; E=4; F=1
+HOG0032322	Trichodiene synthase (TRI5)=23; longiborneol synthase=7; Longiborneol synthase=6; Terpenoid synthase=3; terpenoid synthase=1	S=36; G=4
+HOG0041348	-=4	-=4
+HOG0031756	FAD binding domain=10; fad fmn-containing dehydrogenase=10; D-arabinono-1,4-lactone oxidase=8; FAD FMN-containing dehydrogenase=5	V=33
+HOG0027334	Domain of unknown function (DUF3328)=86; Encoded by=25; iron ion binding=3; -=3; Cytochrome P450=1	S=111; Q=4; -=3
+HOG0040539	-=2	-=2
+HOG0031919	-=47	-=47
+HOG0006779	Belongs to the oxygen-dependent FAD-linked oxidoreductase family=80; FAD-binding domain-containing protein=3; iron ion binding=1; Cytochrome P450=1; Berberine and berberine like=1	C=64; O=20; Q=2
+HOG0024285	NAD(P)H-binding=64; NmrA-like family=1	S=64; G=1; M=1
+HOG0029548	Kinetochore Sim4 complex subunit FTA2=72	S=69; T=3
+HOG0027491	-=40; Heterokaryon incompatibility protein (HET)=1	-=40; S=1
+HOG0038526	-=13	-=13
+HOG0028599	Protein of unknown function (DUF2855)=33	S=33
+HOG0028739	-=89; Broad-Complex, Tramtrack and Bric a brac=1	-=89; S=1
+HOG0030979	-=32	-=32
+HOG0040372		
+HOG0032359	-=50	-=50
+HOG0035202	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=6; -=4; NAD(P)H-binding=1	S=7; -=4
+HOG0003392	polyketide synthase=63; Enoylreductase=10; KR domain=6; Zinc-binding dehydrogenase=5; phosphopantetheine binding=4; PKS_DH=3; synthase=2; PKS_KR=2; -=2; Polyketide synthase=1; Polyketide synthase dehydratase=1	I=54; Q=44; -=2
+HOG0031457	FAD binding domain=45	C=33; H=33; E=11; I=1
+HOG0009094	Belongs to the peptidase S1 family=57; serine-type endopeptidase activity=1	O=58
+HOG0002043	short chain dehydrogenase=17; KR domain=13; Enoyl-(Acyl carrier protein) reductase=2	Q=32
+HOG0029427	Terpene synthase family protein=29; Belongs to the terpene synthase family=18; Polyprenyl synthetase=11; ent-copalyl diphosphate synthase activity=8; -=1; terpene synthase family protein=1	S=55; H=11; -=1; E=1
+HOG0003838	Alcohol dehydrogenase GroES-like domain=29; alcohol dehydrogenase=16; zinc-binding=10; Zinc-binding dehydrogenase=3	C=58
+HOG0031177	-=48; WGS project CABT00000000 data, contig 2.35=2	-=48; S=2
+HOG0001359	Heterokaryon incompatibility protein (HET)=208; -=11; Heterokaryon incompatibility protein=7; Ankyrin repeat and SAM domain containing protein 6=5; protein localization to T-tubule=4; Ankyrin repeat and sam domain containing protein 6=4; Fungal protein of unknown function (DUF1752)=2; HET domain-containing protein=1; Pfam:RRM_6=1; HET domain protein=1	S=223; -=11; M=9; A=1
+HOG0036531	-=9; cytochrome P-450=2	-=9; Q=2
+HOG0019774	Protein tyrosine kinase=53; Protein kinase domain-containing protein=25; Protein kinase domain=16; protein serine/threonine kinase activity=12; Heterokaryon incompatibility protein (HET)=10; cyclin-dependent protein serine/threonine kinase activity=8; MAP kinase kinase kinase activity=5; Serine threonine protein kinase=5; -=4; RNA polymerase II CTD heptapeptide repeat kinase activity=4; aldehyde reductase=3; histone serine kinase activity=3; MAP kinase activity=2; JUN phosphorylation=2; Protein kinase, catalytic domain (InterPro IPR000719), Serine threonine-protein kinase-like domain (InterPro IPR017442), Protein kinase-like domain (InterPro IPR011009), Serine threonine-protein kinase, active site (InterPro IPR008271)=1; ephrin receptor activity=1; FAD binding domain=1; cellular response to bisphenol A=1; NACHT domain protein=1; Kinase-like=1; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family=1; positive regulation of hh target transcription factor activity=1	T=91; G=35; S=11; H=6; C=5; -=4; D=4; K=4; L=4; F=3; O=2; U=2; P=1
+HOG0030636	-=13; Protein tyrosine kinase=1; WD repeat-containing protein=1; RNA recognition motif=1	-=13; T=1; S=1; A=1
+HOG0001200	cytochrome P450=24; Cytochrome p-450=8; Belongs to the cytochrome P450 family=7; cytochrome p450=4; Cytochrome P450=4; Fungal specific transcription factor domain=1	Q=47; I=9; K=1
+HOG0036711	-=12	-=12
+HOG0025450	Belongs to the glycosyl hydrolase 12 (cellulase H) family=133; Glycosyl hydrolase family 12=24; Catalyzes endohydrolysis of 1,4-beta-D-glucosidic linkages in xyloglucan with retention of the beta-configuration of the glycosyl residues. Specific for xyloglucan and does not hydrolyze other cell wall components (By similarity)=7; Catalyzes endohydrolysis of 1,4-beta-D-glucosidic linkages in xyloglucan with retention of the beta-configuration of the glycosyl residues. Specific for xyloglucan and does not hydrolyze other cell wall components=3; Multi-copper oxidase laccase-like protein=1	G=167; Q=1
+HOG0026187	Alpha/beta hydrolase family=41; paf acetylhydrolase family protein=30; Platelet-activating factor acetylhydrolase, isoform II=24; Platelet-activating factor acetylhydrolase=11; PAF acetylhydrolase family protein=10; PAF acetylhydrolase=4; Chlorophyllase enzyme=2; Platelet-activating factor acetylhydrolase, plasma intracellular isoform II=1	G=92; I=23; S=7; M=1
+HOG0028454	-=83	-=83
+HOG0006190	alpha/beta hydrolase fold=40; Serine aminopeptidase, S33=22; Alpha/beta hydrolase family=18; Alpha beta hydrolase fold protein=5; Thioesterase domain=3; Alpha beta hydrolase=2; Function proposed based on presence of conserved amino acid motif, structural feature or limited homology=1	I=83; S=8
+HOG0003844	Alcohol dehydrogenase GroES-like domain=47; Alcohol dehydrogenase, zinc-containing=24; Zinc-binding dehydrogenase=14; GroES-like protein=2; oxidoreductase activity=1; Sugar (and other) transporter=1; alcohol dehydrogenase=1	C=88; S=2
+HOG0004212	Enoyl-CoA hydratase/isomerase=26; Belongs to the enoyl-CoA hydratase isomerase family=5; enoyl-CoA hydratase activity=3; HMGL-like=2; enoyl-CoA delta isomerase 2=1; Enoyl-CoA hydratase=1	I=37; C=1; E=1
+HOG0029375	Nad dependent epimerase=19; NAD dependent epimerase/dehydratase family=11; NmrA-like family=4	S=34
+HOG0027897	short-chain protein=39; Dehydrogenase=29; short chain dehydrogenase=12; short-chain=12; short-chain dehydrogenase=9; KR domain=6; oxidation-reduction process=3; Encoded by=2; FAD linked oxidases, C-terminal domain=1; GMC oxidoreductase=1	Q=112; I=3; C=1; E=1
+HOG0034357	Alpha-lytic protease prodomain=21	O=21
+HOG0025642	F-box domain protein=36; -=17; F-box domain=3; F-box domain-containing protein=2; Major Facilitator Superfamily=2; A Receptor for Ubiquitination Targets=1	S=44; -=17
+HOG0044406	-=4	-=4
+HOG0027152	-=90; Telomerase reverse transcriptase=1; Region found in RelA / SpoT proteins=1	-=90; B=1; L=1; S=1
+HOG0033713	zinc finger protein 585a=12; DNA polymerase epsilon=7; -=4; Tyrosinase central domain containing protein=1	S=19; -=4; E=1
+HOG0035508	-=4	-=4
+HOG0042266	-=2	-=2
+HOG0022984	-=156	-=156
+HOG0038617	-=6	-=6
+HOG0031752	Phosphotransferase enzyme family=28; Podospora anserina S mat genomic DNA chromosome=6; Phosphotransferase enzyme family protein=4; Ecdysteroid kinase=1; -=1	H=19; S=18; G=2; -=1
+HOG0007950	polyketide synthase=26; Thioesterase domain=18; 6-methylsalicylic acid synthase=11; Beta-ketoacyl synthase=9; PKS_KR=5; Polyketide synthase dehydratase=5; Ketoacyl-synthetase C-terminal extension=2; Enoylreductase=2; Phosphopantetheine attachment site=2; synthase=2; Beta-ketoacyl synthase domain-containing protein=1; Beta-ketoacyl synthase, C-terminal domain=1	I=60; S=12; Q=9; H=6
+HOG0027759	UDP-glucoronosyl and UDP-glucosyl transferase=60; Belongs to the OSBP family=20; Udp-glucoronosyl and udp-glucosyl transferase family protein=8; -=4; short chain dehydrogenase=4; Udp-glucoronosyl and udp-glucosyl transferase=2; 6-phosphogluconate dehydrogenase family protein=2; Belongs to the cytochrome P450 family=1	H=34; G=32; T=16; C=15; I=10; Q=5; -=4
+HOG0034416	-=24	-=24
+HOG0026258	UbiA prenyltransferase family=114; UbiA prenyltransferase=12; Integral membrane protein=3; cytochrome P450=2; -=1; Removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val)=1; Cytochrome P450=1; to reverse transcriptase=1	S=95; I=34; Q=3; -=1; E=1; L=1
+HOG0032300	Ankyrin repeats (many copies)=2; Ankyrin repeats (3 copies)=2; Ankyrin repeat=2; EP4 subtype prostaglandin E2 receptor binding=1	M=6; L=1
+HOG0035751	FAD binding domain=6; Fungal specific transcription factor domain=5; -=4	C=6; L=5; -=4
+HOG0032892	-=36; isomerase activity=4	-=36; S=4
+HOG0031014	Luciferase-like monooxygenase=38; monooxygenase=9; alkanesulfonate monooxygenase=7; Methanesulfonate monooxygenase=4; Alkanesulfonate monooxygenase=4; to alkanesulfonate monooxygenase=1	E=52; C=10; S=1
+HOG0032461	Guanine nucleotide-binding protein alpha-3 subunit=9; alpha subunit=7; G-protein beta/gamma-subunit complex binding=3; G protein alpha subunit=3; Rac GTPase binding=3; Ankyrin repeat=2; Guanine nucleotide-binding protein alpha-2 subunit=1; guanine nucleotide-binding protein=1; -=1	D=24; T=24; F=3; S=1; -=1; M=1
+HOG0042792	-=9	-=9
+HOG0001464	FAD binding domain=29; FAD binding=3; FAD binding domain-containing protein=1; zinc-binding=1	C=29; I=4; H=1; T=1
+HOG0048189	-=1	-=1
+HOG0026808	alpha/beta hydrolase fold=60; Alpha/beta hydrolase family=26; homoserine acetyltransferase family protein=11; Homoserine O-acetyltransferase=11; Homoserine acetyltransferase family protein=8; Homoserine acetyltransferase=2; Alpha beta hydrolase fold=2; Transfers a succinyl group from succinyl-CoA to L- homoserine, forming succinyl-L-homoserine=1	H=73; E=48
+HOG0027060	Tryptophan dimethylallyltransferase=52; part of the gene cluster that mediates the biosynthesis of neosartoricin, a prenylated anthracenone that exhibits T-cell antiproliferative activity, suggestive of a physiological role as an immunosuppressive agent. The non-reducing polyketide synthase nscA probably synthesizes and cyclizes the decaketide backbone. The hydrolase nscB then mediates the product release through hydrolysis followed by spontaneous decarboxylation. The prenyltransferase nscD catalyzes the addition of the dimethylallyl group to the aromatic C5. The FAD-dependent monooxygenase nscC is then responsible for the stereospecific hydroxylation at C2. There is no gene encoding O-acetyltransferase in the nsc gene cluster=14; tryptophan=12; Aromatic prenyltransferase, DMATS type=11; dimethylallyl tryptophan synthase=7; Dimethylallyl tryptophan synthase=4; Aromatic prenyltransferase=3; alkaloid metabolic process=2; part of the gene cluster that mediates the biosynthesis of neosartoricin B, a prenylated anthracenone that probably exhibits T-cell antiproliferative activity, suggestive of a physiological role as an immunosuppressive agent. The non-reducing polyketide synthase nscA probably synthesizes and cyclizes the decaketide backbone (By similarity). The hydrolase nscB then mediates the product release through hydrolysis followed by spontaneous decarboxylation (By similarity). The prenyltransferase nscD catalyzes the addition of the dimethylallyl group to the aromatic C5 (By similarity). The FAD-dependent monooxygenase nscC is then responsible for the stereospecific hydroxylation at C2 (By similarity). Neosartoricin B can be converted into two additional compounds neosartoricins C and D (By similarity). Neosartoricin C is a spirocyclic compound that is cyclized through the attack of C3 hydroxyl on C14, followed by dehydration (By similarity). On the other hand, neosartoricin D is a further cyclized compound in which attack of C2 on C14 in neosartoricin C results in the formation of the acetal-containing dioxabicyclo-octanone ring (By similarity). Both of these compounds are novel and possibly represent related metabolites of the gene cluster (By similarity)=2; Aromatic prenyl transferase=2; part of the gene cluster that mediates the biosynthesis of fungal ergot alkaloid. DmaW catalyzes the first step of ergot alkaloid biosynthesis by condensing dimethylallyl diphosphate (DMAP) and tryptophan to form 4-dimethylallyl-L-tryptophan. The second step is catalyzed by the methyltransferase easF that methylates 4-dimethylallyl-L-tryptophan in the presence of S- adenosyl-L-methionine, resulting in the formation of 4- dimethylallyl-L-abrine. The catalase easC and the FAD-dependent oxidoreductase easE then transform 4- dimethylallyl-L-abrine to chanoclavine-I which is further oxidized by easD in the presence of NAD( ), resulting in the formation of chanoclavine-I aldehyde. Chanoclavine-I aldehyde is the precursor of ergoamides and ergopeptines in Clavicipitaceae, and clavine-type alcaloids such as fumiclavine in Trichocomaceae. However, the metabolites downstream of chanoclavine-I aldehyde in Arthrodermataceae have not been identified yet=1; Can also prenylate other tryptophan-containing cyclic dipeptides. Prenylation occurs mainly at C-2, but also at C-3=1; Pyridoxamine 5'-phosphate oxidase=1	H=93; E=14; S=5
+HOG0004945	Aldo/keto reductase family=59; norsolorinic acid reductase=33; reductase=12; aldo-keto reductase=5; organic heteropentacyclic compound biosynthetic process=3; Norsolorinic acid reductase=2; oxidoreductase activity=2; (Gmc) oxidoreductase=1; GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=1	C=116; E=1; B=1
+HOG0033958	-=30	-=30
+HOG0024955	Uncharacterized protein conserved in bacteria (DUF2236)=89; Tat pathway signal sequence=6; protein heterodimerization activity=1; Serine threonine protein kinase=1; WD repeat protein=1	S=96; B=1; M=1
+HOG0031282	Transferase family=30; transferase=9; -transferase family=8; -transferase=2	H=48; E=1
+HOG0030235	-=33; GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=5	-=33; S=4; K=1
+HOG0007539	Belongs to the cytochrome P450 family=102; Cytochrome P450=23; -=13; iron ion binding=6; Belongs to the ABC transporter superfamily. ABCG family. PDR (TC 3.A.1.205) subfamily=2; cytochrome P450 family=2	Q=129; -=13; C=6
+HOG0039120	-=5	-=5
+HOG0026856	Glycosyl hydrolase family 65, N-terminal domain=34; Alpha-l-fucosidase=19; Glycoside hydrolase family 95 protein=17; alpha-L-fucosidase=3	G=60; O=12; S=1
+HOG0034649	-=26; Cytochrome b5-like Heme/Steroid binding domain=1	-=26; S=1
+HOG0013354	oxidoreductase activity=14; Saccharopine dehydrogenase NADP binding domain=2; saccharopine dehydrogenase=1; Saccharopine dehydrogenase=1	S=18
+HOG0016226	Phytanoyl-CoA dioxygenase (PhyH)=221; Phytanoyl-CoA dioxygenase=12; Phytanoyl-CoA dioxygenase family protein=8; dioxygenase activity=6; dioxygenase=4; phytanoyl-CoA dioxygenase family protein=2; Catalyzes the conversion of fumitremorgin B to verruculogen=1; solute carrier family 22=1; terpenoid biosynthetic process=1; Toxin biosynthesis proten (Fum3)=1; S-adenosyl-L-methionine-dependent protein-lysine N- methyltransferase that mono- and dimethylates elongation factor 1- alpha at 'Lys-316'. May play a role in intracellular transport=1; Membrane transport protein=1	E=237; Q=15; S=5; G=1; M=1; J=1
+HOG0027901	Protein kinase domain=25; Protein tyrosine kinase=12; -=5; protein serine/threonine kinase activity=2; cyclin-dependent protein serine/threonine kinase activity=1; serine threonine protein kinase=1; kinase kinase kinase=1; von Willebrand factor (vWF) type A domain=1	G=25; T=10; D=6; -=5; H=2
+HOG0032800	Glycosyl hydrolase 36 superfamily, catalytic domain=19; Glycoside hydrolase family 94 protein=15; glycoside hydrolase family 94 protein=9	G=36; E=7
+HOG0030835	F-box domain-containing protein=33; F-box domain=15; F-box domain protein=6; -=1; Conserved hypothetical protein=1; A Receptor for Ubiquitination Targets=1	S=56; -=1
+HOG0030675	NAD(P)H-binding=46; NmrA-like family=5; The pathway begins with the synthesis of atrochrysone thioester by the polyketide synthase (PKS)=4; monooxygenase activity=4; Involved in the conversion of averufin (AVF) to versiconal hemiacetal acetate (VHA)=2; Glutathione S-transferase=1; Fungal specific transcription factor domain=1	S=35; E=18; H=9; O=1
+HOG0029501	Capsular polysaccharide synthesis protein=61; Capsule polysaccharide biosynthesis protein=30; GO:0015222=1	S=86; H=3; E=2; J=1
+HOG0031378	-=48	-=48
+HOG0031713	Phosphomevalonate kinase=48; Phosphoribosyl transferase domain protein=5	F=52; H=1
+HOG0037617	Peptidase family S51=18; Major facilitator superfamily transporter=1	P=18; Q=18; S=1
+HOG0031070	-=35; Podospora anserina S mat genomic DNA chromosome 1, supercontig=3	-=35; S=3
+HOG0001363	Heterokaryon incompatibility protein (HET)=70; Ankyrin and HET domain protein=11; Heterokaryon incompatibility protein=3; -=2; HET domain-containing protein=2; Ankyrin and HET=2; Ankyrin and het domain protein=2; Ankyrin repeats (many copies)=1; protein localization to T-tubule=1; Ankyrin repeat and sam domain containing protein 6=1	S=88; M=5; -=2
+HOG0033600	-=12	-=12
+HOG0015676	Pyridoxal-dependent decarboxylase conserved domain=9; decarboxylase=6; carboxy-lyase activity=3; Glutamate decarboxylase and related PLP-dependent proteins=1	E=19
+HOG0029206	Metal dependent phosphohydrolase=68; HD domain=26; Sugar (and other) transporter=2	S=82; E=12; U=2
+HOG0034099	-=18; DNA binding=7; O-methyltransferase activity=4	-=18; S=4; K=3; J=3; H=1
+HOG0032049	Kelch=19; kelch repeat-containing protein=13; Kelch motif=7; Kelch repeat-containing protein=2; protein ubiquitination=2; nitrile biosynthetic process=1	S=25; T=18; P=1
+HOG0010242	Organic solute transporter Ostalpha=47; negative regulation of brassinosteroid mediated signaling pathway=2	T=46; S=3
+HOG0003388	polyketide synthase=9; Enoylreductase=2; Beta-ketoacyl synthase domain-containing protein=1; Phosphopantetheine attachment site=1	I=11; Q=4
+HOG0028373	Terpene synthase family, metal binding domain=37; Terpene synthase metal binding domain protein=25; Terpenoid synthase=11; -=2; and Ankyrin domain protein=2; Terpene synthase metal binding=2; PFAM Terpene synthase metal-binding domain protein=1; terpene synthase activity=1; synthase=1	S=77; E=2; -=2; T=1
+HOG0032191	alpha/beta hydrolase fold=14; Alpha/beta hydrolase family=10; Serine aminopeptidase, S33=7; Alpha beta hydrolase=4; -=2	S=31; I=4; -=2
+HOG0002392	zinc-binding dehydrogenase=16; Alcohol dehydrogenase GroES-like domain=10; Synaptic vesicle membrane protein VAT-1 homolog=8; Zinc-binding dehydrogenase=7; oxidoreductase activity=1	C=42
+HOG0029657	Terpene synthase family, metal binding domain=24; Terpene synthase=24; Amidase=3; synthase=1	S=49; I=3; J=3; T=3
+HOG0042065	cellular response to estrogen stimulus=2; -=1	S=2; -=1
+HOG0007362	POT family=29; )transporter=21; oligopeptide transporter=6; Transporter=2; Peptide transporter=1; transmembrane transporter activity=1	P=31; E=29
+HOG0032346	Tryptophan halogenase=38; monooxygenase activity=6; domain-containing protein=3; FAD-dependent small molecule halogenase=1	C=44; S=2; E=1; H=1
+HOG0038060	ADP-ribosylglycohydrolase=17	S=17
+HOG0035747	-=8	-=8
+HOG0027261	-=77; Oxoglutarate iron-dependent oxygenase=8; F-box domain-containing protein=1	-=77; S=9
+HOG0026116	Phosphotransferase enzyme family=56; Ecdysteroid kinase=12; serine-type carboxypeptidase activity=6; Protein of unknown function (DUF1679)=3; Choline/ethanolamine kinase=3; Phosphotransferase=2; Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). May act by forming a heterodimer with NCS6 that ligates sulfur from thiocarboxylated URM1 onto the uridine of tRNAs at wobble position. Prior mcm(5) tRNA modification by the elongator complex is required for 2-thiolation. May also be involved in protein urmylation=1	S=73; E=6; H=3; J=1
+HOG0036861	-=7	-=7
+HOG0043177	Pathogen effector; putative necrosis-inducing factor=6; -=3	S=6; -=3
+HOG0024212	Heterokaryon incompatibility protein (HET)=32; HET domain protein=23; -=21; Het domain protein=5; Mycolic acid cyclopropane synthetase=1	S=60; -=21; I=1
+HOG0035985	CorA-like Mg2+ transporter protein=6; -=2	S=6; -=2
+HOG0038053	-=16	-=16
+HOG0029768	-=59; Permease for cytosine/purines, uracil, thiamine, allantoin=1	-=59; F=1; H=1
+HOG0036253	-=17	-=17
+HOG0047727		
+HOG0026779	FAD binding=94; fad binding domain-containing protein=6; FAD binding domain-containing protein=5; Cytochrome p-450=5; FAD binding domain=4; COG0654 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases=1	C=99; S=11; Q=5; H=3
+HOG0029432	Protein of unknown function (DUF1593)=71; Cellulose-binding protein=22; Bacterial alpha-L-rhamnosidase 6 hairpin glycosidase domain=1	S=94
+HOG0030674	SnoaL-like domain=52; Ring hydroxylating beta subunit=1; -=1	S=51; Q=2; -=1
+HOG0009688	FAD dependent oxidoreductase=29; D-amino acid oxidase=5	E=34
+HOG0003065	Alcohol dehydrogenase GroES-like domain=44; alcohol dehydrogenase=30; Zinc-binding dehydrogenase=16; Alcohol dehydrogenase GroES-like domain-containing protein=3; Dehydrogenase=1	Q=94
+HOG0035767	Belongs to the peptidase A1 family=22; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family=1	O=22; P=1
+HOG0025846	-=140; Golgin subfamily A member 7/ERF4 family=2	-=140; S=2
+HOG0037613	-=2	-=2
+HOG0031796	Belongs to the peptidase M28 family=54; Belongs to the peptidase M28 family. M28B subfamily=1	O=34; E=21
+HOG0035483	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=6; Transcription factor=2; btb poz domain protein=1	S=8; K=1
+HOG0043459	-=2	-=2
+HOG0029715	-=84	-=84
+HOG0036859	-=17	-=17
+HOG0007702	Zn_pept=35; Carboxypeptidase=23; Zinc carboxypeptidase=7; Carboxypeptidase A=3; Zinc carboxypeptidase A 1 precursor=3; Peptidase M14=1	O=72
+HOG0030020	-=28	-=28
+HOG0027542	proline-specific peptidase protein=58; Serine aminopeptidase, S33=22; Proline-specific peptidase=16; alpha/beta hydrolase fold=14; Belongs to the peptidase S33 family=4; Major Facilitator Superfamily=2; Alpha/beta hydrolase family=1	S=114; I=3
+HOG0000412	Enoyl-(Acyl carrier protein) reductase=19; short-chain dehydrogenase=14; 3-oxoacyl- acyl-carrier protein reductase=11; KR domain=10; short-chain dehydrogenase reductase=8; Short-chain dehydrogenase=2; to unnamed=2; Oxidoreductase, short-chain dehydrogenase reductase family=1	Q=67
+HOG0029264	-=71; Amino acid permease=1	-=71; E=1
+HOG0032574	-=15; Repeat of unknown function (DUF346)=3; metalloendopeptidase activity=1	-=15; S=3; M=1
+HOG0036737	-=18	-=18
+HOG0031180	F-box domain containing protein=16; -=7; Small nucleolar ribonucleoprotein complex subunit=1	S=17; -=7
+HOG0036300	-=11	-=11
+HOG0009395	FAD dependent oxidoreductase=57; Sarcosine oxidase=38; sarcosine oxidase=11; Fructosyl amino acid=2; to sarcosine oxidase=2; Fructosyl amino acid oxidase=1; Glucose inhibited division protein A=1; sarcosine oxidase activity=1	E=113
+HOG0028913	-=57	-=57
+HOG0025711	Cytochrome p-450=63; Cytochrome P450=53; Belongs to the cytochrome P450 family=31; cytochrome P450=14; cytochrome P-450=7; iron ion binding=2; isomerase activity=1	Q=170; I=20; S=1
+HOG0026988	-=89; NAD-P-binding protein=6; NmrA-like family=1; Encoded by=1; mitochondrial translation=1	-=89; S=8; J=1
+HOG0029945	-=65	-=65
+HOG0031374	NmrA-like family=31; Isoflavone reductase=11; to isoflavone reductase=8; Isoflavone reductase family protein=7; Phospholipid metabolism-related protein=1	S=55; G=3; M=3
+HOG0027200	Isochorismatase family=46; Isochorismatase=29; Isochorismatase family hydrolase=3; Ycac protein=3	Q=71; G=10
+HOG0031874	-=27; Fungal specific transcription factor domain=2	-=27; S=2
+HOG0035755	-=12	-=12
+HOG0038602	-=15	-=15
+HOG0031220	Fungal specific transcription factor domain=22; Transcription factor=19; C6 transcription factor=9; -=8; fungal specific transcription factor=4	S=54; -=8
+HOG0030788	Protein tyrosine kinase=11; Protein kinase domain=7; non-membrane spanning protein tyrosine kinase activity=4; NB-ARC domain=2; protein kinase activity=1; -=1	T=22; K=5; L=5; I=2; G=1; -=1
+HOG0000615	-=11; GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=11; Fungal specific transcription factor domain=6	-=11; S=10; L=4; K=1; P=1; B=1
+HOG0035492	-=26	-=26
+HOG0003159	polyketide synthase=8; PKS_KR=1; Beta-ketoacyl synthase=1; Catalyzes the first step in the D-alanylation of lipoteichoic acid (LTA), the activation of D-alanine and its transfer onto the D-alanyl carrier protein (Dcp) DltC. In an ATP- dependent two-step reaction, forms a high energy D-alanyl-AMP intermediate, followed by transfer of the D-alanyl residue as a thiol ester to the phosphopantheinyl prosthetic group of the Dcp. D-alanylation of LTA plays an important role in modulating the properties of the cell wall in Gram-positive bacteria, influencing the net charge of the cell wall=1	I=9; Q=2
+HOG0008607	basic region leucin zipper=14; BZIP transcription factor=7; Basic region leucine zipper=3; Transcription factor=3; bZIP transcription factor=3; to Saccharomyces cerevisiae ACA1 (YER045C) and CST6 (YIL036W)=1; DNA-binding transcription factor activity=1	K=31; A=1
+HOG0012222	Alpha galactosidase A=13	G=13
+HOG0004590	O-methyltransferase=17; Dimerisation domain=4; Glycoside hydrolase family 29 protein=1	S=13; Q=5; O=2; G=1; H=1
+HOG0042109	Domain of unknown function (DUF3425)=1	S=1
+HOG0032889	Glycoside hydrolase family 2 protein=13; Glycosyl hydrolases family 2, sugar binding domain=12; glycoside hydrolase family 2=8; Glycoside hydrolase=4; Glycosyl hydrolase=3; Glycosyl hydrolases family 2=2; Glycoside hydrolase family 2=1	G=43
+HOG0028452	-=67; ATPase family associated with various cellular activities (AAA)=3	-=67; O=3
+HOG0029632	F-box-like=25; F-box domain-containing protein=21; -=16	S=46; -=16
+HOG0026338	-=119; terpene cyclase ausL lead to the formation of protoaustinoid A. Protoaustinoid A is then oxidized to spiro-lactone preaustinoid A3 by the combined action of the FAD-binding monooxygenases ausB and ausC, and the dioxygenase ausE. Acid-catalyzed keto-rearrangement and ring contraction of the tetraketide portion of preaustinoid A3 by ausJ lead to the formation of preaustinoid A4. The aldo-keto reductase ausK, with the help of ausH, is involved in the next step by transforming preaustinoid A4 into isoaustinone which is in turn hydroxylated by the P450 monooxygenase ausI to form austinolide. Finally, the cytochrome P450 monooxygenase ausG modifies austinolide to austinol. Austinol can be further modified to dehydroaustinol which forms a diffusible complex with diorcinol that initiates conidiation=15; cytochrome P450=1	-=119; S=15; Q=1
+HOG0004075	SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain=58; SET domain=11; -domain-containing protein=7; domain-containing protein=6; Set domain-containing protein 5=5; Vps16, C-terminal region=4; methyltransferase activity=4; Oxysterol-binding protein=3; ABC transporter=1; SET domain-containing protein=1; protein lysine methyltransferase SET5=1; Set domain-containing protein=1; SET and MYND domain-containing protein=1; RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding=1	B=92; E=5; U=4; T=3; J=1
+HOG0030122	-=82	-=82
+HOG0032801	Belongs to the peptidase S1B family=15; Trypsin=10; -=4	O=20; E=5; -=4
+HOG0025036	fungal specific transcription factor=47; -=42; Fungal specific transcription factor domain=34; Fungal specific transcription factor=15; c6 transcription factor=14; GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=7; Transcription factor=3; GPI transamidase component PIG-U=1	L=89; -=42; K=15; B=15; S=1; Q=1
+HOG0029393	Glycoside hydrolase family 2 protein=33; Beta-galactosidase=16; Domain of unknown function (DUF4982)=14; cytochrome P450=5; Glycosyl hydrolases family 2, sugar binding domain=1	G=64; Q=5
+HOG0001893	Major Facilitator Superfamily=46; Major facilitator superfamily transporter=1	S=40; G=7
+HOG0036238	Calpain family cysteine protease=12; Belongs to the peptidase C2 family=8; bacterial-type flagellum-dependent cell motility=3	S=20; N=3; U=3
+HOG0040946		
+HOG0019140	C6 zinc finger=77; GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain=54; -=30; Fungal specific transcription factor domain=28; C6 finger domain protein=12; Regulator of G protein signaling domain=1; zinc finger domain protein=1; Cytochrome p-450=1	L=86; K=40; B=34; -=30; S=12; P=1; Q=1
+HOG0006886	Major Facilitator Superfamily=88; integral membrane protein=33; Conserved hypothetical protein=8; Integral membrane protein=5; Major facilitator superfamily transporter=3; Transporter=2; Protein of unknown function (DUF3431)=1	U=139; S=1
+HOG0001502	Methyltransferase domain=118; methyltransferase=77; Methyltransferase=39; -=17; UMTA methyltransferase family protein=15; LaeA-like methyltransferase=10; Methyltransferase domain-containing protein=8; Membrane bound O-acyl transferase family=1; AraC-like ligand binding domain=1	S=190; H=79; -=17
+HOG0025756	lysr family regulatory protein=119; -=19; Transferase family=9; Lysr family regulatory protein=3; hydrolase family 92=1; Pfam:DUF2424=1; Carbohydrate esterase family 9=1	S=130; -=19; E=1; G=1; I=1; Q=1
+HOG0029383	NAD(P)H-binding=44; NmrA-like family=17; -=15; Belongs to the GST superfamily=2	S=61; -=15; O=2
+HOG0031139	-=16	-=16
+HOG0010862	Mo-co oxidoreductase dimerisation domain=24; sulfite oxidase=15; Oxidoreductase molybdopterin binding domain=13; Sulfite oxidase=9; Oxidoreductase molybdopterin binding domain-containing protein=8; Nitrate reductase 1=2; Molybdopterin binding oxidoreductase=1	C=72
+HOG0004348	NmrA-like family=106; NAD(P)H-binding=103; nmrA-like family=41; NAD dependent epimerase/dehydratase family=12; isoflavone reductase family protein=3; NAD-P-binding protein=2; NmrA family transcriptional regulator=2; Isoflavone reductase family protein=1; Isoflavone reductase=1	S=270; T=1
+HOG0033894	-=28; Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family=1; Alcohol acetyltransferase=1; FAD binding domain=1	-=28; S=2; E=1
+HOG0025535	Glutathione S-transferase, C-terminal domain=15; Glutathione S-transferase, N-terminal domain=10; glutathione s-transferase=10; Glutathione S-transferase=7; Belongs to the GST superfamily=7; Major Facilitator Superfamily=1; glutathione transferase activity=1; Glutathione S-Transferase=1	O=41; H=10; U=1
+HOG0037504	-=8	-=8
+HOG0031129	Adenylosuccinate lyase C-terminus=35; 3-carboxy-cis,cis-muconate cycloisomerase=21; Major royal jelly protein=1; Haloacid dehalogenase-like hydrolase=1	F=57; G=1
+HOG0033896	Domain of unknown function (DUF4267)=24; -=6	S=24; -=6
+HOG0033825	-=22	-=22
+HOG0042105	-=5	-=5
+HOG0029940	Glycoside hydrolase family 20 protein=13; Glycosyl hydrolase family 20, domain 2=5; Hydrolase=5; beta-N-hexosaminidase=4; Glycosyl hydrolase family 20=3; Glycosyl hydrolase family 20, catalytic domain=2; Glycoside hydrolase=2	G=34
+HOG0033403	saponin hydrolase=28; to saponin hydrolase precursor=8; Saponin hydrolase=2	S=29; G=9
+HOG0011221	Belongs to the class I-like SAM-binding methyltransferase superfamily. gTMT family=40; Mycolic acid cyclopropane synthetase=2	H=42
+HOG0040500	Fungal specific transcription factor domain=4; -=2	S=4; -=2

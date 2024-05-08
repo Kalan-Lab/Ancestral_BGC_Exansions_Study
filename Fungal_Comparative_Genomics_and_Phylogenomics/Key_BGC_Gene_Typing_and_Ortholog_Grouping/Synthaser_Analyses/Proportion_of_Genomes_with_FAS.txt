@@ -1,6 +1,0 @@
-clade	prop_clade_with_fas
-1. Pezizomycotina	0.2268041237113402
-2. Other Ascomycota	0.0
-3. Basidiomycota	0.0
-4. Zygomycota	0.0
-5. Zoosporic Fungi	0.05660377358490566

@@ -1,0 +1,11 @@
+Squalene/phytoene synthase family - OG-3	1
+NRPS	2
+Polyprenyl synthetase	3
+Squalene-hopene cyclase	4
+Squalene/phytoene synthase family - OG-1	5
+PKS|Type I|Non-reducing	6
+PKS|Type I|Highly-reducing	7
+Hybrid NRPS-PKS	8
+Squalene/phytoene synthase family - OG-2	9
+PKS|Type I|Partially-reducing	10
+Only Suspected PKS	11

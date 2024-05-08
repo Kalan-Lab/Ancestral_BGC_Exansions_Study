@@ -1,0 +1,1 @@
+pyseer --lmm --phenotypes BGC_Sum.Phenotype.txt --continuous --pres Orthogroup_Matrix.txt --similarity phylogeny_lmm.tsv --output-patterns ortho_patterns.txt --min-af 0.05 --max-af 0.95 --cpu 20 --print-samples > BGCsum_ortho_associations.txt

@@ -1,0 +1,4 @@
+Capsaspora_owczarzaki_ATCC_30864_GCA_000151315
+Monosiga_brevicollis_MX1_GCA_000002865
+Drosophila_melanogaster_GCA_000001215
+Fonticula_alba_GCA_000388065

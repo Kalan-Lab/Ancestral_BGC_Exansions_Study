@@ -1,0 +1,5 @@
+OG0001069	Polyprenyl synthetase
+OG0001221	Squalene-hopene cyclase
+OG0003138	Squalene/phytoene synthase family - OG-1
+OG0004377	Squalene/phytoene synthase family - OG-2
+OG0001636	Squalene/phytoene synthase family - OG-3
