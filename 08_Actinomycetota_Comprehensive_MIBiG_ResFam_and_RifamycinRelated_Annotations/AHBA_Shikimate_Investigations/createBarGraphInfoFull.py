@@ -5,7 +5,7 @@ from Bio import SeqIO
 
 gca_to_class = {}
 gca_to_fam = {}
-with open('../GCA_to_GTDB-R214_Taxonomy.txt') as ogtf:
+with open('GCA_to_Taxonomy.txt') as ogtf:
     for line in ogtf:
         line = line.strip()
         gca, tax = line.split('\t')
@@ -19,7 +19,7 @@ with open('../GCA_to_GTDB-R214_Taxonomy.txt') as ogtf:
 
 
 top_hits = defaultdict(lambda: [set([]), 100000.0])
-with open("TIGRFAM_Typing_Full.txt") as ott:
+with open("DAHP_Typing_Full.txt") as ott:
     for line in ott:
         line = line.strip()
         ls = line.split()
@@ -35,7 +35,7 @@ with open("TIGRFAM_Typing_Full.txt") as ott:
 print('Enzyme\tClass\tCount')
 
 dhap_faa_file = 'KO_ShikStep1_Results.faa'
-rifh_faa_file = 'RifH_Homologs.faa'
+rifh_fai_file = 'Filtered_Fai_Hits_with_RifH.txt'
 
 clade_class_counts = defaultdict(lambda: defaultdict(set))
 
@@ -53,9 +53,10 @@ with open(dhap_faa_file) as odff:
             dtype = list(hits)[0]
         clade_class_counts[dtype][gca_class_group].add(gca)
 
-with open(rifh_faa_file) as orff:
-    for rec in SeqIO.parse(orff, 'fasta'):
-        gca = rec.id.split('|')[0].split('.')[0]
+with open(rifh_fai_file) as orff:
+    for line in orff:
+        line = line.strip()
+        gca = line.split('\t')[0].split('.')[0]
         gca_class = gca_to_class[gca]
         gca_class_group = 'Actinomycetia'
         if not gca_class == 'Actinomycetia':

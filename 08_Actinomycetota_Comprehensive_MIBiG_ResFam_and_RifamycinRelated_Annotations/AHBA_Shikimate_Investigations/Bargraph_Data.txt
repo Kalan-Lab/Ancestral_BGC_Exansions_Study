@@ -1,7 +1,9 @@
 Enzyme	Class	Count
-2. Type II DAHP synthase (TIGR01358)	Actinomycetia	0.9050952936600545
-2. Type II DAHP synthase (TIGR01358)	Other Actinomycetota class	0.3525258011950027
-1. Type I DAHP synthase (TIGR00034)	Actinomycetia	0.2441568544252325
-1. Type I DAHP synthase (TIGR00034)	Other Actinomycetota class	0.30907115697990223
-3. RifH homolog from AHBA neighborhood	Actinomycetia	0.003359145716205226
-3. RifH homolog from AHBA neighborhood	Other Actinomycetota class	0.0
+3. Type II DAHP synthases (TIGR00034)	Actinomycetia	0.9050952936600545
+3. Type II DAHP synthases (TIGR00034)	Other Actinomycetota class	0.3525258011950027
+1. Feature DAHP synthase ferredoxin-like domain (PF18152)	Actinomycetia	0.03270747144726141
+1. Feature DAHP synthase ferredoxin-like domain (PF18152)	Other Actinomycetota class	0.40068803186673907
+2. Type I DAHP synthases (TIGR01358)	Actinomycetia	0.24390933842509105
+2. Type I DAHP synthases (TIGR01358)	Other Actinomycetota class	0.30635524171645845
+4. RifH homolog from AHBA neighborhood	Actinomycetia	0.006470775432269015
+4. RifH homolog from AHBA neighborhood	Other Actinomycetota class	0.0
