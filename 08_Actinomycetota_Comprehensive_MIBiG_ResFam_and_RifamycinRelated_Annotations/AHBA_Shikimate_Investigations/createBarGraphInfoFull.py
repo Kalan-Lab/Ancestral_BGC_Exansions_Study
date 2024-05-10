@@ -34,7 +34,7 @@ with open("DAHP_Typing_Full.txt") as ott:
 
 print('Enzyme\tClass\tCount')
 
-dhap_faa_file = 'KO_ShikStep1_Results.faa'
+dhap_faa_file = 'DAHP_Synthase.faa'
 rifh_fai_file = 'Filtered_Fai_Hits_with_RifH.txt'
 
 clade_class_counts = defaultdict(lambda: defaultdict(set))
