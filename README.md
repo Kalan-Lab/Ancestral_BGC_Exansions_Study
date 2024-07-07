@@ -1,4 +1,4 @@
-# Salamzade_et_al_Systematic-BGC-Investigations
+# Ancestral_BGC_Expansions_Study
 
 Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
 
