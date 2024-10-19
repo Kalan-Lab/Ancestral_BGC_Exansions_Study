@@ -1,0 +1,84 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+GCF_016861625.1	AkawachiiIFO4308_assembly01	Aspergillus luchuensis		IFO 4308					Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University	Complete Genome	2021-01-30		8
+GCF_016861735.1	AchevalieriM1_assembly01	Aspergillus chevalieri		M1					Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University	Complete Genome	2021-01-30		8
+GCF_016861865.1	ApuulaauensisMK2_assembly01	Aspergillus puulaauensis		MK2					Annotation submitted by Fermentation Microbiology, Education and Research Center for Fermentation Studies, Faculty of Agriculture, Kagoshima University	Complete Genome	2021-01-30		8
+GCF_000011425.1	ASM1142v1	Aspergillus nidulans FGSC A4		FGSC A4					Annotation submitted by Eurofungbase (Eurofung)	Chromosome	2009-09-24		8
+GCF_014117465.1	ASM1411746v1	Aspergillus flavus NRRL3357		NRRL3357					Annotation submitted by University of Georgia	Chromosome	2020-08-09		8
+GCF_000002655.1	ASM265v1	Aspergillus fumigatus Af293		Af293					Annotation submitted by J. Craig Venter Institute	Chromosome	2005-06-10	AAHF01	8
+GCF_000184455.2	ASM18445v3	Aspergillus oryzae RIB40		RIB40					Annotation submitted by National Institute of Technology and Evaluation (NITE), Japan	Chromosome	2011-06-24		11
+GCF_000002855.4	ASM285v2	Aspergillus niger							Annotation submitted by DSM, The Netherlands	Scaffold	2007-04-11		19
+GCF_001890705.1	Aspsy1	Aspergillus sydowii CBS 593.65		CBS 593.65					Annotation submitted by DOE Joint Genome Institute	Scaffold	2016-12-08	MRCH01	97
+GCF_001890905.1	Aspac1	Aspergillus aculeatus ATCC 16872		ATCC 16872					Annotation submitted by JGI	Scaffold	2016-12-08	MRCK01	660
+GCF_001890125.1	Aspve1	Aspergillus versicolor CBS 583.65		CBS 583.65					Annotation submitted by DOE Joint Genome Institute	Scaffold	2016-12-06	MRBN01	51
+GCF_001890805.1	Aspgl1	Aspergillus glaucus CBS 516.65		CBS 516.65					Annotation submitted by DOE Joint Genome Institute	Scaffold	2016-12-08	LSTL01	82
+GCF_009176365.1	Aspalli1	Aspergillus alliaceus		CBS 536.65					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	SWAS01	331
+GCF_000149645.3	ASM14964v4	Aspergillus fischeri NRRL 181		NRRL 181					Annotation submitted by TIGR	Scaffold	2006-12-14	AAKE03	163
+GCF_003184765.1	Aspacu1	Aspergillus aculeatinus CBS 121060		CBS 121060					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTE01	121
+GCF_003426965.1	ASM342696v1	Aspergillus tanneri		NIH1004					Annotation submitted by JCVI	Contig	2018-08-24	QUQM01	
+GCF_001078395.1	Aud_assembly02	Aspergillus udagawae		IFM 46973					Annotation submitted by Medical Mycology Research Center	Scaffold	2021-03-12	BBXM02	17
+GCF_000002715.2	ASM271v1	Aspergillus clavatus NRRL 1		NRRL 1					Annotation submitted by J. Craig Venter Institute	Scaffold	2006-12-14	AAKD03	143
+GCF_001889945.1	Aspbr1	Aspergillus brasiliensis CBS 101740		CBS 101740					Annotation submitted by DOE Joint Genome Institute	Scaffold	2016-12-08	LJXV01	103
+GCF_003184835.1	Aspcos1	Aspergillus costaricaensis CBS 115574		CBS 115574					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTH01	86
+GCF_003184625.1	Aspneo1	Aspergillus neoniger CBS 115656		CBS 115656					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	MSFP01	169
+GCF_003184865.1	Asphom1	Aspergillus homomorphus CBS 101889		CBS 101889					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTJ01	152
+GCF_003184785.1	Aspjap1	Aspergillus japonicus CBS 114.51		CBS 114.51					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTF01	163
+GCF_001204775.2	ASM120477v2	Aspergillus nomiae NRRL 13137		NRRL 13137					Annotation submitted by USDA-ARS-SRRC	Contig	2015-08-04	JNOM01	
+GCF_002849105.1	Aspste1	Aspergillus steynii IBT 23096		IBT 23096					Annotation submitted by DOE Joint Genome Institute	Contig	2017-12-30	MSFO01	
+GCF_002847465.1	Aspnov1	Aspergillus novofumigatus IBT 16806		IBT 16806					Annotation submitted by DOE Joint Genome Institute	Contig	2017-12-27	MSZS01	
+GCF_003184525.1	Aspscl1	Aspergillus sclerotioniger CBS 115572		CBS 115572					Annotation submitted by DOE Joint Genome Institute	Contig	2018-06-04	MSFK01	
+GCF_003184535.1	Aspeuc1	Aspergillus eucalypticola CBS 122712		CBS 122712					Annotation submitted by DOE Joint Genome Institute	Contig	2018-06-04	MSFU01	
+GCF_003184925.1	Aspvad1	Aspergillus vadensis CBS 113365		CBS 113365					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	MSFS01	60
+GCF_003184545.1	Asphet1	Aspergillus heteromorphus CBS 117.55		CBS 117.55					Annotation submitted by DOE Joint Genome Institute	Contig	2018-06-04	MSFL01	
+GCF_003184755.1	Asppip1	Aspergillus piperis CBS 112811		CBS 112811					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTD01	47
+GCA_009193525.1	Aspser1	Aspergillus sergii		CBS 130017					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFL01	262
+GCF_003184825.1	Aspfij1	Aspergillus fijiensis CBS 313.89		CBS 313.89					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTG01	149
+GCF_003184845.1	Aspibe1	Aspergillus ibericus CBS 121593		CBS 121593					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTI01	116
+GCF_003184745.1	Aspuva1	Aspergillus uvarum CBS 121591		CBS 121591					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	MSFT01	172
+GCA_009193505.1	Asptra1	Aspergillus transmontanensis		CBS 130015					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFK01	293
+GCF_003184695.1	Aspbru1	Aspergillus brunneoviolaceus CBS 621.78		CBS 621.78					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTC01	153
+GCA_009176405.1	Aspnovo1	Aspergillus novoparasiticus		CBS 126849					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	SWDA01	870
+GCF_001792695.1	ASM179269v1	Aspergillus bombycis		NRRL26010					Annotation submitted by USDA-ARS-SRRC	Contig	2016-10-19	LYCR01	
+GCF_003369625.1	ASM336962v1	Aspergillus mulundensis		DSM 5745					Annotation submitted by The University of Texas Health Science Center at Houston	Scaffold	2018-08-10	PVWQ01	160
+GCF_009193645.1	Asppsen1	Aspergillus pseudonomiae		CBS 119388					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFR01	374
+GCA_002850765.1	Asptaic1	Aspergillus taichungensis		IBT 19404					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-01-03	PKFW01	310
+GCA_009193665.1	Asppsec1	Aspergillus pseudocaelatus		CBS 117616					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFS01	466
+GCA_009176345.1	Asplep1	Aspergillus leporis		CBS 151.66					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	SWBU01	615
+GCA_009193595.1	Aspber1	Aspergillus bertholletiae		IBT 29228					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFP01	443
+GCF_009193585.1	Aspcae1	Aspergillus caelatus		CBS 763.97					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFO01	729
+GCA_025688805.1	Aspegy1	Aspergillus egyptiacus		CBS 656.73					Annotation submitted by DOE Joint Genome Institute	Scaffold	2022-10-13	SWKD01	682
+GCA_009193565.1	Aspcor1	Aspergillus coremiiformis		CBS 553.77					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFN01	2728
+GCA_003184635.1	Aspscle1	Aspergillus sclerotiicarbonarius CBS 121057		CBS 121057					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSSZ01	166
+GCA_003184685.1	Aspind1	Aspergillus indologenus CBS 114.80		CBS 114.80					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTB01	334
+GCA_003184645.1	Aspell1	Aspergillus ellipticus CBS 707.79		CBS 707.79					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSSY01	518
+GCF_016097325.1	ASM1609732v1	Aspergillus melleus		CBS 546.65					Annotation submitted by University Complutense of Madrid	Contig	2020-12-16	JADPPX01	
+GCA_015844325.1	ASM1584432v1	Aspergillus nanangensis		MST-FP2251					Annotation submitted by The University of Western Australia	Scaffold	2020-12-08	VCAU01	438
+GCA_001696595.2	ASM169659v2	Aspergillus hancockii		FRR 3425					Annotation submitted by CSIRO	Scaffold	2020-09-18	MBFL02	1226
+GCA_003589665.1	phiScl 1.0	Aspergillus sclerotialis		CBS 366.77					Annotation submitted by University of Natural Resources and Life Sciences, Vienna	Contig	2018-09-21	MVGC01	
+GCF_000149615.1	ASM14961v1	Aspergillus terreus NIH2624		NIH2624					Annotation submitted by Broad Institute	Scaffold	2006-09-08	AAJN01	26
+GCF_013340325.1	ASM1334032v1	Aspergillus tubingensis		WU-2223L					Annotation submitted by Waseda University	Scaffold	2020-06-09	BLWE01	15
+GCA_001990825.1	Aspca3	Aspergillus carbonarius ITEM 5010		ITEM 5010					Annotation submitted by DOE Joint Genome Institute	Scaffold	2017-02-15	AHIG01	829
+GCF_003344945.1	Aspwel1	Aspergillus welwitschiae		CBS 139.54b					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-07-30	QQZQ01	396
+GCA_001511075.1	Acal_Allpaths_LG	Aspergillus calidoustus							Annotation submitted by HKI JENA	Scaffold	2016-01-07	CDMC01	78
+GCF_023601865.1	ASM2360186v2	Aspergillus affinis		CMG 70					Annotation submitted by Universidade de Aveiro	Scaffold	2022-10-03	JAGXNN02	421
+GCF_001890725.1	Aspwe1	Aspergillus wentii DTO 134E9		DTO 134E9					Annotation submitted by DOE Joint Genome Institute	Scaffold	2016-12-08	LJSE01	27
+GCF_018340605.1	Asppvi_assembly01	Aspergillus pseudoviridinutans		IFM 55266					Annotation submitted by Medical Mycology Research Center	Scaffold	2021-03-12	BHVY01	24
+GCF_018404265.1	Aspvir_assembly01	Aspergillus viridinutans		IFM 47045					Annotation submitted by Medical Mycology Research Center	Scaffold	2021-03-12	BOPL01	47
+GCA_009193545.1	Aspara19utr	Aspergillus arachidicola		CBS 117612					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFM01	451
+GCF_009193445.1	Asppset1	Aspergillus pseudotamarii		CBS 117625					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFH01	249
+GCF_010724455.1	ASM1072445v1	Aspergillus lentulus		IFM 58399					Annotation submitted by Medical Mycology Research Center	Scaffold	2020-02-04	BLKH01	760
+GCA_014281905.1	ASM1428190v1	Aspergillus hiratsukae					CNM-CM5793		Annotation submitted by UNICAMP	Scaffold	2020-08-24	JACBAD01	2130
+GCA_000986645.1	ASM98664v1	Aspergillus rambellii		SRRC1468					Annotation submitted by USDA-ARS-SRRC	Contig	2015-04-30	JZBS01	
+GCA_003850985.1	Aawm_assembly01	Aspergillus awamori		IFM 58123					Annotation submitted by Medical Mycology Research Center	Contig	2018-10-15	BDHI01	
+GCF_002846915.1	Aspergillus ochraceoroseus IBT 24754 v1.1	Aspergillus ochraceoroseus IBT 24754		IBT 24754					Annotation submitted by DOE Joint Genome Institute	Contig	2018-04-16	MSFN02	
+GCF_000600275.1	Eurhe1	Aspergillus ruber CBS 135680		CBS 135680					Annotation submitted by DOE Joint Genome Institute	Scaffold	2014-03-27	AWRT01	110
+GCF_002847485.1	Aspcam1	Aspergillus campestris IBT 28561		IBT 28561					Annotation submitted by DOE Joint Genome Institute	Contig	2017-12-27	MSFM01	
+GCF_002847045.1	Aspcand1	Aspergillus candidus		CBS 102.13					Annotation submitted by DOE Joint Genome Institute	Scaffold	2017-12-21	PKFS01	268
+GCF_003184585.1	Aspsac1	Aspergillus saccharolyticus JOP 1030-1		JOP 1030-1					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	MSFQ01	120
+GCA_025688815.1	Aspcar1	Aspergillus carlsbadensis		CBS 123894					Annotation submitted by DOE Joint Genome Institute	Scaffold	2022-10-13	SWKC01	254
+GCA_002234965.2	ASM223496v2	Aspergillus turcosus		HMR AF 23					Annotation submitted by University of Montreal	Contig	2018-09-12	NKHV02	
+GCF_002237265.1	ASM223726v2	Aspergillus thermomutatus		HMR AF 39					Annotation submitted by University of Montreal	Contig	2018-09-12	NKHU02	
+GCA_009193465.1	Aspave1	Aspergillus avenaceus		IBT 18842					Annotation submitted by DOE Joint Genome Institute	Scaffold	2019-10-18	STFI01	1528
+GCA_003344505.1	Aspph1	Aspergillus phoenicis ATCC 13157		ATCC 13157					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-07-27	QQUR01	55
+GCA_003184705.1	Aspvio1	Aspergillus violaceofuscus CBS 115571		CBS 115571					Annotation submitted by DOE Joint Genome Institute	Scaffold	2018-06-04	PSTA01	209
+GCA_012656285.1	ASM1265628v1	Aspergillus fumigatiaffinis		CNM-CM6805					Annotation submitted by UNICAMP	Scaffold	2020-04-22	JAAAPX01	1055
+GCA_003698115.1	ASM369811v1	Aspergillus sp. HF37		HF37					Annotation submitted by University of Natural Resources and Life Sciences, Vienna	Contig	2018-10-30	RAQS01	

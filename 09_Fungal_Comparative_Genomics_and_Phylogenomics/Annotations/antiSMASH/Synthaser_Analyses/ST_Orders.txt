@@ -1,0 +1,6 @@
+NRPS	1
+PKS|Type I|Non-reducing	2
+PKS|Type I|Highly-reducing	3
+Hybrid NRPS-PKS	4
+PKS|Type I|Partially-reducing	5
+Only Suspected PKS	6

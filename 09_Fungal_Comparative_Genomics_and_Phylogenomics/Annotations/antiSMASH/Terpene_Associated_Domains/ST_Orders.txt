@@ -1,0 +1,5 @@
+Terpene_synth_C	11
+polyprenyl_synt	7
+SQS_PSY	8
+SQHop_cyclase_C	10
+SQHop_cyclase_N	9

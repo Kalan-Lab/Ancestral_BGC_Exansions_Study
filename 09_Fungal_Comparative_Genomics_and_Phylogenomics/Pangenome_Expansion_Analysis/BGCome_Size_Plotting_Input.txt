@@ -1,0 +1,257 @@
+genome	clade	large_clade	ploidy_status	morphology	bgcome_size
+Phaeoacremonium_GCF_000392275.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1469578
+Corynespora_GCA_003016335.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4436637
+Erythrobasidium_GCA_001600175.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	217595
+Smittium_GCA_003086735.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	88475
+Taphrina_GCA_000836135.1	Taphrinomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	450313
+Obelidium_GCA_025765595.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	512070
+Monilinia_GCA_002162545.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3179834
+Ustilago_GCF_000328475.2	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	715389
+Chaetoscypha_GCA_003988945.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1929239
+Ramichloridium_GCA_002368545.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2207740
+Corinectria_GCA_003385255.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2142944
+Xylona_GCF_001619985.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1622670
+Bipolaris_GCF_000354255.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3835495
+Emmonsia_GCA_002572855.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1097976
+Syncephalastrum_GCA_002105135.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	539213
+Glonium_GCA_001692915.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1768264
+Alloascoidea_GCA_001600815.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	275433
+Verruconis_GCA_000836295.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1292979
+Mixia_GCF_000708205.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	414063
+Podospora_GCA_900290415.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2496526
+Homolaphlyctis_GCA_000235945.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	120061
+Eutypa_GCA_000349385.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3267375
+Aureobasidium_GCF_000721755.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1936074
+Phialocephala_GCA_900073065.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	5505573
+Ascochyta_GCA_004335205.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2115583
+Irineochytrium_GCA_027600665.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	360067
+Fragosphaeria_GCA_002778095.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1597277
+Ascoidea_GCF_001661345.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	71698
+Tolypocladium_GCA_002916505.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1758394
+Epichloe_GCA_002591845.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1647281
+Tuber_GCF_000151645.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	451448
+Spizellomyces_GCA_000182565.2	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	765324
+Valsa_GCA_003795315.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3848048
+Oehlia_GCA_003833135.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	305816
+Hyaloscypha_GCA_002865625.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3280553
+Rhizopus_GCA_000149305.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	669928
+Backusella_GCA_025399235.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	488719
+Cephaloascus_GCA_003706495.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	87212
+Bifiguratus_GCA_002261195.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	322691
+Chytridiales_GCA_027604305.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	167986
+Scedosporium_GCA_000812075.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1721282
+Physocladia_GCA_027596945.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	217739
+Cryphonectria_GCA_003264845.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3706221
+Rhizoclosmatium_GCA_002104985.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	542899
+Ascobolus_GCA_003788565.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	864709
+Batrachochytrium_GCA_000149865.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	268079
+Ustulina_GCA_002081935.3	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	5408965
+Polyrhizophydium_GCA_027604665.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	113093
+Gaertneriomyces_GCA_025558075.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	342256
+Colletotrichum_GCA_001563115.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3904645
+Neofusicoccum_GCA_000385595.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2820706
+Reticulascus_GCA_001557505.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3957835
+Talaromyces_GCA_001270325.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2749749
+Orbilia_GCF_000225545.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1103214
+Verticillium_GCA_000732205.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2088665
+Metschnikowia_GCA_002374405.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	126603
+Baudoinia_GCF_000338955.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1293462
+Evernia_GCA_003184365.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	5089503
+Schizosaccharomyces_GCA_000002945.2	Taphrinomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	233594
+Martensiomyces_GCA_025201845.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	147067
+Yarrowia_GCA_000002525.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	186198
+Thermothielavioides_GCF_000226115.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2091629
+Linderina_GCF_002104995.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	190944
+Paecilomyces_GCA_003990805.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2187407
+Neocallimastix_GCA_002104975.1	Neocallimastigomycota	1. Chytridiomycota	Haploid dominant	Zoosporic	2038726
+Microbotryum_GCA_900120095.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	227782
+Ophiognomonia_GCA_003671545.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	5311010
+Terramyces_GCA_027603945.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	293934
+Coemansia_GCA_002705745.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	145583
+Hanseniaspora_GCA_900119595.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	118542
+Kappamyces_GCA_027604465.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	115705
+Aspergillus_GCA_003574815.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3623676
+Pestalotiopsis_GCF_000516985.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	6120631
+Geranomyces_GCA_027603065.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	870820
+Basidiobolus_GCA_002104905.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	1584518
+Cystobasidiopsis_GCA_001599975.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	426531
+Chytridium_GCA_025449115.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	312706
+Thoreauomyces_GCA_027596035.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	414522
+Elaphomyces_GCA_002240705.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	584744
+Cladosporium_GCA_000261425.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1273538
+Endocalyx_GCA_001600455.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	6754477
+Gorgonomyces_GCA_025526955.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	157542
+Clohesyomyces_GCA_002105025.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4202908
+Pseudomassariella_GCF_002105095.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4469028
+Uncinocarpus_GCA_000003515.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1514770
+Neoconidiobolus_GCA_025603075.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	203739
+Gyalolechia_GCA_000442125.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3087933
+Microdochium_GCA_001566295.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2814412
+Lepidopterella_GCA_001692735.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1663867
+Candida_GCA_001661425.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	127836
+Coniella_GCA_003019895.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2712082
+Cladonia_GCA_002927785.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2654059
+Trichoderma_GCF_001481775.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3137760
+Anaeromyces_GCA_002104895.1	Neocallimastigomycota	1. Chytridiomycota	Haploid dominant	Zoosporic	2189531
+Zygoascus_GCA_003707925.2	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	154971
+Ophioceras_GCA_003049485.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1716453
+Protomyces_GCF_002105105.1	Taphrinomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	266007
+Neurospora_GCA_000182925.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1255064
+Kockiozyma_GCA_003705835.2	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	278149
+Pseudozyma_GCF_000417875.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	595011
+Diaporthe_GCA_001447215.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4507020
+Paraphaeosphaeria_GCF_001642045.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	5545732
+Conidiobolus_GCA_001566745.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	417335
+Hesseltinella_GCA_002104935.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	403269
+Helminthosporium_GCA_000498615.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1699501
+Arthrobotrys_GCA_004000055.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	642452
+Leptoxyphium_GCA_001660795.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1430559
+Arthonia_GCA_002989075.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2021288
+Mucor_GCA_000401635.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	500038
+Knufia_GCA_002319055.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	792444
+Cyphellophora_GCA_000365145.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1491602
+Cordyceps_GCF_001636725.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3133737
+Aeminium_GCA_004216415.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	673408
+Entophlyctis_GCA_027604725.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	246603
+Thielaviopsis_GCA_000968615.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	527486
+Hortaea_GCA_002127715.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1828911
+Boothiomyces_GCA_027604185.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	274584
+Neolecta_GCA_001929475.1	Taphrinomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	193498
+Saccharomycopsis_GCA_004014935.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	127608
+Proliferodiscus_GCA_003988795.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4722183
+Morchella_GCA_003790465.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	676359
+Coprinopsis_GCF_000182895.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	901156
+Endocarpon_GCF_000464535.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1989075
+Dimargaris_GCA_003614675.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	609786
+Cyanodermella_GCA_900618795.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4326105
+Linnemannia_GCA_001651415.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	217495
+Knoxdaviesia_GCA_001510565.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	626701
+Ogataea_GCA_003706095.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	145149
+Coniochaeta_GCA_002798055.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1484337
+Clonostachys_GCA_000963775.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4203312
+Powellomyces_GCA_025526995.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	586050
+Trigonopsis_GCA_003706805.2	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	296322
+Hymenoscyphus_GCA_900536445.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4001601
+Elsinoe_GCA_003013795.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1562526
+Ramicandelaber_GCA_025201865.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	111132
+Ramalina_GCA_001956345.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1929509
+Zopfochytrium_GCA_025765615.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	938506
+Phycomyces_GCA_001638985.2	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	385114
+Wickerhamomyces_GCF_000313485.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	113671
+Rhizophlyctis_GCA_027596075.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	487318
+Ramularia_GCA_004155245.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2926567
+Chytriomyces_GCA_025435555.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	597665
+Hysterium_GCA_000467715.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2834001
+Periconia_GCA_003073855.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	6700813
+Pseudopyrenochaeta_GCA_003313425.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3351049
+Syncephalis_GCA_025786725.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	237973
+Venturia_GCA_000738655.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2340445
+Terfezia_GCA_003788615.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	438430
+Globomyces_GCA_025399215.1	Rhizophydiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	384909
+Malassezia_GCA_002818225.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	300681
+Piptocephalis_GCA_003614145.1	Zoopagomycota	2. Zygomycota	Diploid+ dominant	Other	20024
+Fonsecaea_GCF_000836435.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1937094
+Trichophyton_GCA_003118255.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2131043
+Piromyces_GCA_002157105.1	Neocallimastigomycota	1. Chytridiomycota	Haploid dominant	Zoosporic	1565310
+Chlorencoelia_GCA_003988815.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2467271
+Parastagonospora_GCA_000146915.2	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3566149
+Siphonaria_GCA_027596065.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	214745
+Puccinia_GCA_000149925.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	221016
+Ascosphaera_GCA_001636715.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	750100
+Phaeotremella_GCA_001599695.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	285896
+Beverwykella_GCA_001599595.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4416498
+Podochytrium_GCA_027596195.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	139734
+Fimicolochytrium_GCF_025526975.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	595746
+Pseudophaeomoniella_GCA_003868215.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1845198
+Umbelopsis_GCA_000697415.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	634469
+Umbilicaria_GCA_000611775.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1813591
+Calocera_GCA_001630345.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	851086
+Graphilbum_GCA_001513895.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1351256
+Amorphotheca_GCF_003019875.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1390539
+Borealophlyctis_GCA_027604605.1	Spizellomycetales and Rhizophlyctidales	1. Chytridiomycota	Haploid dominant	Zoosporic	120199
+Dinochytrium_GCA_027604005.1	Chytridiales	1. Chytridiomycota	Diploid+ dominant	Zoosporic	216813
+Saccharomyces_GCF_000146045.2	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	135159
+Lobosporangium_GCF_002105155.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	166881
+Paramyrothecium_GCA_003012165.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3767193
+Saksenaea_GCA_000697055.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	249608
+Pseudogymnoascus_GCF_001662655.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2232339
+Phyllosticta_GCA_001604925.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1198186
+Sporopachydermia_GCA_003705295.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	128135
+Priceomyces_GCA_003705335.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	120171
+Zygosaccharomyces_GCA_000442885.1	Saccharomycotina	3. Dikarya	Dikaryotic	Yeast	170328
+Gigaspora_GCA_003550325.1	Mucoromycota	2. Zygomycota	Haploid dominant	Some complex multicellularity	1080977
+Plenodomus_GCA_900465125.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1912441
+Laccaria_GCF_000143565.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1035640
+Serpula_GCA_000218685.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2291438
+Stereum_GCF_000264905.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3539980
+Punctularia_GCF_000264995.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1949030
+Auricularia_GCA_000265015.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2181837
+Coniophora_GCF_000271625.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2593152
+Fibroporia_GCF_000313525.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1614987
+Serendipita_GCA_000313545.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	218241
+Volvariella_GCA_000349905.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1097461
+Papiliotrema_GCA_000442785.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	337802
+Rhizoctonia_GCA_000524645.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	507180
+Jaapia_GCA_000697665.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1002713
+Botryobasidium_GCA_000697705.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1437691
+Tilletiaria_GCF_000711695.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	301043
+Phlebopus_GCA_000766925.2	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2134208
+Plicaturopsis_GCA_000827205.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1504303
+Sphaerobolus_GCA_000827215.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	4385115
+Collybiopsis_GCA_000827265.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3223702
+Piloderma_GCA_000827315.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2406975
+Pisolithus_GCA_000827335.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	991749
+Hebeloma_GCA_000827355.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1310653
+Scleroderma_GCA_000827425.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	833964
+Tulasnella_GCA_000827465.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	566508
+Paxillus_GCA_000827475.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1531398
+Fistulina_GCA_000934395.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1109451
+Tremella_GCA_000987905.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	81774
+Tilletia_GCA_001006505.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	497270
+Schizopora_GCA_001020605.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1617884
+Golubevia_GCA_001599655.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	445057
+Naganishia_GCA_001599735.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	306456
+Symbiotaphrina_GCA_001599915.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	987466
+Cystobasidium_GCA_001599955.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	191297
+Solicoccozyma_GCA_001600015.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	256776
+Bullera_GCA_001600095.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	313946
+Mrakia_GCA_001600395.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	162675
+Dioszegia_GCA_001600615.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	339584
+Leucosporidium_GCA_001600635.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	247204
+Exidia_GCA_001632375.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2611945
+Neolentinus_GCA_001632425.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2055670
+Grifola_GCA_001683735.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1439626
+Cryptococcus_GCA_001720245.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	131020
+Trametes_GCA_001895945.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1266400
+Phanerodontia_GCA_001910725.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2156431
+Kockovaella_GCF_002102565.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	337869
+Naematelia_GCA_002105065.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	311737
+Stromatinia_GCA_002162485.1	Pezizomycotina	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3782269
+Armillaria_GCA_002307695.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	3289747
+Cutaneotrichosporon_GCA_002335625.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	131612
+Amanita_GCA_002554575.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	519550
+Ganoderma_GCA_002760635.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	2189877
+Porodaedalea_GCA_002794775.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1258326
+Rhodotorula_GCA_002806785.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	233537
+Glaciozyma_GCA_002917775.1	Pucciniomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	175825
+Panaeolus_GCA_002938355.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	887448
+Gymnopilus_GCA_002938385.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1552339
+Heterobasidion_GCA_002994785.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1622088
+Takashimella_GCA_003116875.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	226010
+Testicularia_GCA_003144125.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	537183
+Meira_GCF_003144205.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	514512
+Violaceomyces_GCA_003144235.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	406239
+Acaromyces_GCF_003144295.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	1018648
+Pleurotus_GCA_003313735.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1516745
+Sarcodon_GCA_003313825.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	867279
+Hygrophorus_GCA_003314125.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	445025
+Albatrellus_GCA_003314395.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	314300
+Coprinus_GCA_003316025.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	765022
+Thelephora_GCA_003316405.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	306527
+Hericium_GCA_003675405.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1556226
+Saitozyma_GCA_003942215.1	Tremellomycetes	3. Dikarya	Dikaryotic	Some complex multicellularity	291366
+Quambalaria_GCA_004016185.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	586321
+Candolleomyces_GCA_004126415.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	720353
+Steccherinum_GCA_004332605.1	Agaricomycetes	3. Dikarya	Dikaryotic - HET enriched	Complex multicellularity	1925954
+Ceraceosorus_GCA_900000165.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	903100
+Thecaphora_GCA_900291925.1	Ustilaginomycotina	3. Dikarya	Dikaryotic	Some complex multicellularity	470550

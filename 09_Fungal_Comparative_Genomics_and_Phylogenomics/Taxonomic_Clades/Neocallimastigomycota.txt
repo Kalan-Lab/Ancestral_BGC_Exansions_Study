@@ -1,0 +1,4 @@
+Neocallimastix_GCA_002104975.1
+Anaeromyces_GCA_002104895.1
+Piromyces_GCA_002157105.1
+Piromyces_GCA_002104945.1

@@ -4,9 +4,9 @@ from Bio import SeqIO
 
 as_dir = os.path.abspath(sys.argv[1]) + '/'
 res_dir = os.path.abspath(sys.argv[2]) + '/'
+
 for s in os.listdir(as_dir):
     samp_dir = as_dir + s + '/'
-    #if not s in select_gca: continue
     samp_prot_file = res_dir + s + '.faa'
     outf = open(samp_prot_file, 'w')
     for f in os.listdir(samp_dir):

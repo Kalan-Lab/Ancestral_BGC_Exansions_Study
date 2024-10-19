@@ -1,18 +1,18 @@
 library(phylolm)
 library(ape)
 
-tree <- read.tree("Fungi_Wide_Tree_with_Outgroups_pared.tre")
-dat.full <- read.table("Pez_CAZy_to_BGComeSize_Data.txt", header=T, sep='\t')
-# GCA     GCA_Name	Clade   Rep     BGCome_Size     Genome_Size     Unique_Proteins CAZy_Total_Count
-
+tree <- read.tree("Fungi_Wide_Tree_with_Outgroups.tre")
+dat.full <- read.table("Phylogenetic_Regression_Input.txt", header=T, sep='\t')
+# name    gca     bgcome_size     genome_size     cazy_count      protein_count
+  
 tree <- chronos(tree)
 rownames(dat.full) <- dat.full$GCA_Name
 
-trait_info = dat.full$BGCome_Size/1000000
-names(trait_info) <- dat.full$GCA_Name
+trait_info = dat.full$bgcome_size/1000000
+names(trait_info) <- dat.full$name
 
-pred_info = dat.full$Genome_Size/1000000
-names(pred_info) <- dat.full$GCA_Name
+pred_info = dat.full$protein_count #genome_size/1000000
+names(pred_info) <- dat.full$name
 
 #print(pred_info)
 #print(trait_info)

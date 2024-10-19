@@ -1,0 +1,114 @@
+#nexus
+begin sets;
+  charset ACT1.faa = Core_Protein_MSAs_Trimmed/ACT1.faa: , ;
+  charset BMS1.faa = Core_Protein_MSAs_Trimmed/BMS1.faa: , ;
+  charset BRE2.faa = Core_Protein_MSAs_Trimmed/BRE2.faa: , ;
+  charset CCT8.faa = Core_Protein_MSAs_Trimmed/CCT8.faa: , ;
+  charset CMD1.faa = Core_Protein_MSAs_Trimmed/CMD1.faa: , ;
+  charset DIP2.faa = Core_Protein_MSAs_Trimmed/DIP2.faa: , ;
+  charset DPH5.faa = Core_Protein_MSAs_Trimmed/DPH5.faa: , ;
+  charset DYS1.faa = Core_Protein_MSAs_Trimmed/DYS1.faa: , ;
+  charset ELP3.faa = Core_Protein_MSAs_Trimmed/ELP3.faa: , ;
+  charset ESF1.faa = Core_Protein_MSAs_Trimmed/ESF1.faa: , ;
+  charset FAP7.faa = Core_Protein_MSAs_Trimmed/FAP7.faa: , ;
+  charset FRS1.faa = Core_Protein_MSAs_Trimmed/FRS1.faa: , ;
+  charset HEM12.faa = Core_Protein_MSAs_Trimmed/HEM12.faa: , ;
+  charset HIS4.faa = Core_Protein_MSAs_Trimmed/HIS4.faa: , ;
+  charset HIS7.faa = Core_Protein_MSAs_Trimmed/HIS7.faa: , ;
+  charset ILV1.faa = Core_Protein_MSAs_Trimmed/ILV1.faa: , ;
+  charset KRE33.faa = Core_Protein_MSAs_Trimmed/KRE33.faa: , ;
+  charset MCM7.faa = Core_Protein_MSAs_Trimmed/MCM7.faa: , ;
+  charset MET6.faa = Core_Protein_MSAs_Trimmed/MET6.faa: , ;
+  charset MIP1.faa = Core_Protein_MSAs_Trimmed/MIP1.faa: , ;
+  charset MRPL19.faa = Core_Protein_MSAs_Trimmed/MRPL19.faa: , ;
+  charset MSF1.faa = Core_Protein_MSAs_Trimmed/MSF1.faa: , ;
+  charset MSS51.faa = Core_Protein_MSAs_Trimmed/MSS51.faa: , ;
+  charset MVD1.faa = Core_Protein_MSAs_Trimmed/MVD1.faa: , ;
+  charset NCS6.faa = Core_Protein_MSAs_Trimmed/NCS6.faa: , ;
+  charset NDI1.faa = Core_Protein_MSAs_Trimmed/NDI1.faa: , ;
+  charset NOG1.faa = Core_Protein_MSAs_Trimmed/NOG1.faa: , ;
+  charset NOP14.faa = Core_Protein_MSAs_Trimmed/NOP14.faa: , ;
+  charset OLI1.faa = Core_Protein_MSAs_Trimmed/OLI1.faa: , ;
+  charset PAH1.faa = Core_Protein_MSAs_Trimmed/PAH1.faa: , ;
+  charset PGK1.faa = Core_Protein_MSAs_Trimmed/PGK1.faa: , ;
+  charset POL2.faa = Core_Protein_MSAs_Trimmed/POL2.faa: , ;
+  charset PRT1.faa = Core_Protein_MSAs_Trimmed/PRT1.faa: , ;
+  charset RAD2.faa = Core_Protein_MSAs_Trimmed/RAD2.faa: , ;
+  charset RLI1.faa = Core_Protein_MSAs_Trimmed/RLI1.faa: , ;
+  charset RPB2.faa = Core_Protein_MSAs_Trimmed/RPB2.faa: , ;
+  charset RPF2.faa = Core_Protein_MSAs_Trimmed/RPF2.faa: , ;
+  charset RPN1.faa = Core_Protein_MSAs_Trimmed/RPN1.faa: , ;
+  charset RPO21.faa = Core_Protein_MSAs_Trimmed/RPO21.faa: , ;
+  charset RPP0.faa = Core_Protein_MSAs_Trimmed/RPP0.faa: , ;
+  charset SDA1.faa = Core_Protein_MSAs_Trimmed/SDA1.faa: , ;
+  charset SEC21.faa = Core_Protein_MSAs_Trimmed/SEC21.faa: , ;
+  charset SEC26.faa = Core_Protein_MSAs_Trimmed/SEC26.faa: , ;
+  charset SPB1.faa = Core_Protein_MSAs_Trimmed/SPB1.faa: , ;
+  charset TIF5.faa = Core_Protein_MSAs_Trimmed/TIF5.faa: , ;
+  charset TIM44.faa = Core_Protein_MSAs_Trimmed/TIM44.faa: , ;
+  charset TOP1.faa = Core_Protein_MSAs_Trimmed/TOP1.faa: , ;
+  charset TRM1.faa = Core_Protein_MSAs_Trimmed/TRM1.faa: , ;
+  charset TRP3.faa = Core_Protein_MSAs_Trimmed/TRP3.faa: , ;
+  charset TSR1.faa = Core_Protein_MSAs_Trimmed/TSR1.faa: , ;
+  charset TUB1.faa = Core_Protein_MSAs_Trimmed/TUB1.faa: , ;
+  charset TUB2.faa = Core_Protein_MSAs_Trimmed/TUB2.faa: , ;
+  charset UTP21.faa = Core_Protein_MSAs_Trimmed/UTP21.faa: , ;
+  charset VMA1.faa = Core_Protein_MSAs_Trimmed/VMA1.faa: , ;
+  charset ZPR1.faa = Core_Protein_MSAs_Trimmed/ZPR1.faa: , ;
+  charpartition mymodels =
+    LG+I{0.223447}+G4{0.180965}: ACT1.faa{23.3173},
+    LG+I{0.461717}+R3{0.332152,0.589746,0.18288,3.33631,0.02325,8.34279}: BMS1.faa{1.91155},
+    LG+I{0.289455}+G4{0.766774}: BRE2.faa{3.33505},
+    LG+I{0.612131}+R3{0.253068,0.98364,0.126713,4.90278,0.00808886,16.0502}: CCT8.faa{1.21998},
+    LG+I{0.973511}: CMD1.faa{0.0452},
+    LG+I{0.372049}+R3{0.389194,0.601285,0.217361,2.83045,0.021396,7.04581}: DIP2.faa{1.80543},
+    LG+I{0.483105}+G4{0.548061}: DPH5.faa{1.45988},
+    LG+I{0.351193}+R2{0.525398,0.784861,0.123409,4.76168}: DYS1.faa{2.35505},
+    LG+I{0.805697}+G4{0.628643}: ELP3.faa{0.405831},
+    LG+I{0.222305}+R4{0.252807,0.234063,0.316172,0.997035,0.192504,2.59245,0.0162127,7.80481}: ESF1.faa{4.67999},
+    LG+F+G4{0.347284}: FAP7.faa{32.2736},
+    LG+R3{0.640233,0.156902,0.271967,1.58,0.0878004,5.35121}: FRS1.faa{1.60988},
+    LG+I{0.428967}+G4{0.817821}: HEM12.faa{2.63044},
+    LG+I{0.447562}+G4{0.713895}: HIS4.faa{1.98806},
+    LG+I{0.482707}+R3{0.288177,0.392992,0.158471,2.57865,0.0706454,6.76771}: HIS7.faa{2.33947},
+    LG+R3{0.751775,0.10962,0.186771,2.19835,0.0614546,8.25006}: ILV1.faa{1.70749},
+    LG+I{0.520256}+R3{0.318997,0.611084,0.122874,3.605,0.0378729,9.56105}: KRE33.faa{1.26632},
+    LG+I{0.461873}+G4{0.764957}: MCM7.faa{1.68876},
+    LG+R3{0.739663,0.109732,0.182502,1.94196,0.0778344,7.2516}: MET6.faa{1.63027},
+    LG+I{0.479871}+R3{0.281537,0.491802,0.195614,2.62196,0.0429775,8.1123}: MIP1.faa{2.30845},
+    LG+G4{0.263731}: MRPL19.faa{15.5514},
+    LG+I{0.420521}+R3{0.346391,0.4593,0.176023,2.36092,0.0570645,7.45343}: MSF1.faa{2.62695},
+    LG+I{0.350634}+R3{0.488922,0.435958,0.118368,3.15176,0.0420768,9.83403}: MSS51.faa{9.00033},
+    LG+I{0.38086}+G4{0.528703}: MVD1.faa{1.6991},
+    LG+I{0.552655}+R3{0.287906,0.666939,0.134434,3.66252,0.025005,12.6221}: NCS6.faa{1.60342},
+    LG+I{0.189038}+R4{0.184662,0.0650704,0.352405,0.658906,0.221395,2.03178,0.0524995,5.82778}: NDI1.faa{19.2401},
+    LG+I{0.480015}+R3{0.299759,0.625048,0.181678,2.8685,0.0385475,7.56188}: NOG1.faa{2.38244},
+    LG+I{0.26179}+G4{1.01173}: NOP14.faa{4.38039},
+    LG+F+I{0.272503}+G4{0.715383}: OLI1.faa{20.9527},
+    LG+I{0.361898}+G4{0.6118}: PAH1.faa{2.13961},
+    WAG+I{0.397997}+G4{0.487628}: PGK1.faa{1.82589},
+    LG+I{0.489404}+R3{0.319675,0.679308,0.156964,3.11918,0.0339568,8.6358}: POL2.faa{1.49875},
+    LG+I{0.471512}+R3{0.370383,0.585472,0.132261,3.82247,0.0258444,10.7407}: PRT1.faa{1.37096},
+    LG+R4{0.493176,0.0436422,0.232514,0.61102,0.182895,2.08404,0.091415,4.97999}: RAD2.faa{4.49585},
+    LG+I{0.702831}+G4{0.619471}: RLI1.faa{1.16345},
+    LG+I{0.770853}+R2{0.202386,2.79509,0.0267603,16.2298}: RPB2.faa{0.436223},
+    LG+G4{0.329925}: RPF2.faa{2.61364},
+    LG+I{0.607079}+R2{0.312074,1.38036,0.0808471,7.04078}: RPN1.faa{0.785296},
+    LG+I{0.659074}+R3{0.26631,1.11562,0.0678503,7.57877,0.00676576,27.8872}: RPO21.faa{0.767916},
+    LG+R3{0.753069,0.219883,0.107121,1.57571,0.13981,4.76091}: RPP0.faa{12.3796},
+    LG+I{0.2331}+R3{0.488835,0.480444,0.218303,2.11972,0.0597618,5.06009}: SDA1.faa{2.15193},
+    LG+I{0.495963}+R3{0.417497,0.762183,0.0647802,5.54194,0.0217602,14.8336}: SEC21.faa{0.85112},
+    LG+I{0.707992}+R2{0.229151,1.33878,0.0628574,11.0284}: SEC26.faa{0.630946},
+    LG+I{0.276397}+R3{0.426453,0.262655,0.215251,2.07541,0.0818992,5.38778}: SPB1.faa{2.02284},
+    LG+I{0.458555}+R3{0.293555,0.600978,0.221393,2.67267,0.0264974,8.75062}: TIF5.faa{2.3952},
+    LG+I{0.109349}+R3{0.598121,0.273126,0.199454,1.95049,0.0930762,4.80901}: TIM44.faa{21.5908},
+    LG+I{0.415619}+R3{0.307928,0.433375,0.207345,2.13971,0.0691088,6.11926}: TOP1.faa{2.3033},
+    LG+I{0.18927}+G4{0.816084}: TRM1.faa{4.80003},
+    LG+I{0.350127}+G4{0.662757}: TRP3.faa{2.24588},
+    LG+R3{0.612015,0.117926,0.276847,1.54132,0.111138,4.50898}: TSR1.faa{2.41957},
+    LG+I{0.0465694}+R2{0.661295,0.164455,0.292136,3.0508}: TUB1.faa{14.4015},
+    LG+I{0.544505}+R2{0.365419,1.00904,0.0900767,7.00825}: TUB2.faa{0.947996},
+    LG+F+I{0.158462}+R4{0.260683,0.190164,0.235717,0.711173,0.275084,1.75619,0.0700536,4.27804}: UTP21.faa{5.59315},
+    LG+I{0.483583}+R3{0.299229,0.466126,0.161018,2.61904,0.0561703,7.81212}: VMA1.faa{1.38197},
+    LG+I{0.263599}+R3{0.45007,0.375738,0.223918,2.27457,0.0624129,5.15236}: ZPR1.faa{3.58134};
+end;

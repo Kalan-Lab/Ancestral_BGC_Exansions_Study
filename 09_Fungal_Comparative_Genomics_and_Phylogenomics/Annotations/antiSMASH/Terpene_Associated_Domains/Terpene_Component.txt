@@ -1,0 +1,51 @@
+ST	ST_Type	Clade	Prop_Clade_With	ST_Order
+Terpene_synth_C	Terpene	01. Pezizomycotina	0.2268041237113402	11
+Terpene_synth_C	Terpene	02. Yeast and Other Ascomycota	0.047619047619047616	11
+Terpene_synth_C	Terpene	03. Agaricomycetes	0.851063829787234	11
+Terpene_synth_C	Terpene	04. Yeast and Other Basidiomycota	0.0	11
+Terpene_synth_C	Terpene	05. Mucoromycota	0.07692307692307693	11
+Terpene_synth_C	Terpene	06. Zoopagomycota	0.09090909090909091	11
+Terpene_synth_C	Terpene	07. Neocallimastigomycota	0.0	11
+Terpene_synth_C	Terpene	08. Chytrid and Other Chytrid-Like	0.0	11
+Terpene_synth_C	Terpene	09. Blastocladiomycota	0.0	11
+Terpene_synth_C	Terpene	10. Basal Fungi	0.0	11
+polyprenyl_synt	Terpene	01. Pezizomycotina	1.0	7
+polyprenyl_synt	Terpene	02. Yeast and Other Ascomycota	1.0	7
+polyprenyl_synt	Terpene	03. Agaricomycetes	1.0	7
+polyprenyl_synt	Terpene	04. Yeast and Other Basidiomycota	1.0	7
+polyprenyl_synt	Terpene	05. Mucoromycota	1.0	7
+polyprenyl_synt	Terpene	06. Zoopagomycota	1.0	7
+polyprenyl_synt	Terpene	07. Neocallimastigomycota	1.0	7
+polyprenyl_synt	Terpene	08. Chytrid and Other Chytrid-Like	1.0	7
+polyprenyl_synt	Terpene	09. Blastocladiomycota	1.0	7
+polyprenyl_synt	Terpene	10. Basal Fungi	1.0	7
+SQS_PSY	Terpene	01. Pezizomycotina	1.0	8
+SQS_PSY	Terpene	02. Yeast and Other Ascomycota	1.0	8
+SQS_PSY	Terpene	03. Agaricomycetes	1.0	8
+SQS_PSY	Terpene	04. Yeast and Other Basidiomycota	1.0	8
+SQS_PSY	Terpene	05. Mucoromycota	1.0	8
+SQS_PSY	Terpene	06. Zoopagomycota	1.0	8
+SQS_PSY	Terpene	07. Neocallimastigomycota	1.0	8
+SQS_PSY	Terpene	08. Chytrid and Other Chytrid-Like	1.0	8
+SQS_PSY	Terpene	09. Blastocladiomycota	1.0	8
+SQS_PSY	Terpene	10. Basal Fungi	0.3333333333333333	8
+SQHop_cyclase_C	Terpene	01. Pezizomycotina	0.9896907216494846	10
+SQHop_cyclase_C	Terpene	02. Yeast and Other Ascomycota	1.0	10
+SQHop_cyclase_C	Terpene	03. Agaricomycetes	1.0	10
+SQHop_cyclase_C	Terpene	04. Yeast and Other Basidiomycota	1.0	10
+SQHop_cyclase_C	Terpene	05. Mucoromycota	1.0	10
+SQHop_cyclase_C	Terpene	06. Zoopagomycota	1.0	10
+SQHop_cyclase_C	Terpene	07. Neocallimastigomycota	1.0	10
+SQHop_cyclase_C	Terpene	08. Chytrid and Other Chytrid-Like	0.975	10
+SQHop_cyclase_C	Terpene	09. Blastocladiomycota	1.0	10
+SQHop_cyclase_C	Terpene	10. Basal Fungi	0.0	10
+SQHop_cyclase_N	Terpene	01. Pezizomycotina	0.9896907216494846	9
+SQHop_cyclase_N	Terpene	02. Yeast and Other Ascomycota	1.0	9
+SQHop_cyclase_N	Terpene	03. Agaricomycetes	1.0	9
+SQHop_cyclase_N	Terpene	04. Yeast and Other Basidiomycota	1.0	9
+SQHop_cyclase_N	Terpene	05. Mucoromycota	1.0	9
+SQHop_cyclase_N	Terpene	06. Zoopagomycota	1.0	9
+SQHop_cyclase_N	Terpene	07. Neocallimastigomycota	1.0	9
+SQHop_cyclase_N	Terpene	08. Chytrid and Other Chytrid-Like	0.975	9
+SQHop_cyclase_N	Terpene	09. Blastocladiomycota	1.0	9
+SQHop_cyclase_N	Terpene	10. Basal Fungi	0.3333333333333333	9

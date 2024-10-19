@@ -9,7 +9,7 @@ coverage_threshold = 0.45
 
 genome_caz = defaultdict(set)
 genome_caz_total = defaultdict(set)
-with open('PyHMMER_Results.txt') as oprf:
+with open('Results.txt') as oprf:
     for line in oprf:
         line = line.strip()
         ls = line.split('\t')

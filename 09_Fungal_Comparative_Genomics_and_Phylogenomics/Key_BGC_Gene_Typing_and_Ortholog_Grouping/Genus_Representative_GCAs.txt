@@ -1,1 +1,0 @@
-../Representative_Genomes_Selection_for_Comparative_Analyses/Genus_Representative_GCAs.txt

@@ -1,0 +1,1 @@
+diamond blastp --ignore-warnings --threads 50 --fast --db /workspace/lab/kalanlab/salamzar/multicellularity_and_bgcs/databases/bacNR/All_BacNR.dmnd --evalue 1e-10 --outfmt 6 qseqid sseqid pident evalue bitscore qcovhsp --out DIAMOND_Blastp_Results.txt --query All_Key_Proteins.faa

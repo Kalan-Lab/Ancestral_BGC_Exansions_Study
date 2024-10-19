@@ -1,9 +1,9 @@
 "node_id"	"node_desc"	"minimumTimes"	"maximumTimes"	"minProbs"	"maxProbs"
-"1"	"Node_154"	"LCoF"	8.90	13.26	0.1	0.1
-"2"	"Node_121"	"Dikarya"	5.0	6.5	1e-300	1e-300
-"3"	"Node_111"	"Ascomycota"	4.07	6.5	0.025	1e-300
-"4"	"Node_120"	"Basidiomycota"	4.07	6.5	0.025	1e-300
-"5"	"Node_153"	"Chytridiomycota"	4.07	13.26	0.025	1e-300
-"6"	"Node_131"	"Ancestor of Mucorales"	3.15	13.26	1e-300	1e-300
-"7"	"Aspergillus_GCA_003574815"	"Aspergillaceae"	0.5	1.46	0.1	0.1
-"8"	"Root"	"Ancestor of Eukaryotes"	16.79	25.0	0.1	0.1  
+"1"	"Node_211"	"LCoF"	8.90	13.26	0.1	0.1
+"2"	"Node_178"	"Dikarya"	5.0	6.5	1e-300	1e-300
+"3"	"Node_177"	"Ascomycota"	4.07	6.5	0.025	1e-300
+"4"	"Node_66"	"Basidiomycota"	4.07	6.5	0.025	1e-300
+"5"	"Node_210"	"Chytridiomycota"	4.07	13.26	0.025	1e-300
+"6"	"Node_187"	"Ancestor of Mucorales"	3.15	13.26	1e-300	1e-300
+"7"	"Aspergillus_GCA_003574815.1"	"Aspergillaceae"	0.5	1.46	0.1	0.1
+"8"	"Root"	"Ancestor of Eukaryotes"	16.79	25.0	0.1	0.1  # https://www.pnas.org/doi/full/10.1073/pnas.1110633108	

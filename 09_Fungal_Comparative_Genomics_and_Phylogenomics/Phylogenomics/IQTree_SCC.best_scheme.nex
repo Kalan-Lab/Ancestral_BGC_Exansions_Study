@@ -1,0 +1,106 @@
+#nexus
+begin sets;
+  charset ACT1.faa = Core_Protein_MSAs_Trimmed/ACT1.faa: ;
+  charset BMS1.faa = Core_Protein_MSAs_Trimmed/BMS1.faa: ;
+  charset CCT8.faa = Core_Protein_MSAs_Trimmed/CCT8.faa: ;
+  charset CMD1.faa = Core_Protein_MSAs_Trimmed/CMD1.faa: ;
+  charset DIP2.faa = Core_Protein_MSAs_Trimmed/DIP2.faa: ;
+  charset DPH5.faa = Core_Protein_MSAs_Trimmed/DPH5.faa: ;
+  charset DYS1.faa = Core_Protein_MSAs_Trimmed/DYS1.faa: ;
+  charset ELP3.faa = Core_Protein_MSAs_Trimmed/ELP3.faa: ;
+  charset ESF1.faa = Core_Protein_MSAs_Trimmed/ESF1.faa: ;
+  charset FAP7.faa = Core_Protein_MSAs_Trimmed/FAP7.faa: ;
+  charset FRS1.faa = Core_Protein_MSAs_Trimmed/FRS1.faa: ;
+  charset HEM12.faa = Core_Protein_MSAs_Trimmed/HEM12.faa: ;
+  charset HIS4.faa = Core_Protein_MSAs_Trimmed/HIS4.faa: ;
+  charset HIS7.faa = Core_Protein_MSAs_Trimmed/HIS7.faa: ;
+  charset ILV1.faa = Core_Protein_MSAs_Trimmed/ILV1.faa: ;
+  charset KRE33.faa = Core_Protein_MSAs_Trimmed/KRE33.faa: ;
+  charset MCM7.faa = Core_Protein_MSAs_Trimmed/MCM7.faa: ;
+  charset MET6.faa = Core_Protein_MSAs_Trimmed/MET6.faa: ;
+  charset MIP1.faa = Core_Protein_MSAs_Trimmed/MIP1.faa: ;
+  charset MRPL19.faa = Core_Protein_MSAs_Trimmed/MRPL19.faa: ;
+  charset MSF1.faa = Core_Protein_MSAs_Trimmed/MSF1.faa: ;
+  charset MVD1.faa = Core_Protein_MSAs_Trimmed/MVD1.faa: ;
+  charset NCS6.faa = Core_Protein_MSAs_Trimmed/NCS6.faa: ;
+  charset NDI1.faa = Core_Protein_MSAs_Trimmed/NDI1.faa: ;
+  charset NOG1.faa = Core_Protein_MSAs_Trimmed/NOG1.faa: ;
+  charset NOP14.faa = Core_Protein_MSAs_Trimmed/NOP14.faa: ;
+  charset PAH1.faa = Core_Protein_MSAs_Trimmed/PAH1.faa: ;
+  charset PGK1.faa = Core_Protein_MSAs_Trimmed/PGK1.faa: ;
+  charset POL2.faa = Core_Protein_MSAs_Trimmed/POL2.faa: ;
+  charset PRT1.faa = Core_Protein_MSAs_Trimmed/PRT1.faa: ;
+  charset RAD2.faa = Core_Protein_MSAs_Trimmed/RAD2.faa: ;
+  charset RLI1.faa = Core_Protein_MSAs_Trimmed/RLI1.faa: ;
+  charset RPB2.faa = Core_Protein_MSAs_Trimmed/RPB2.faa: ;
+  charset RPF2.faa = Core_Protein_MSAs_Trimmed/RPF2.faa: ;
+  charset RPN1.faa = Core_Protein_MSAs_Trimmed/RPN1.faa: ;
+  charset RPO21.faa = Core_Protein_MSAs_Trimmed/RPO21.faa: ;
+  charset RPP0.faa = Core_Protein_MSAs_Trimmed/RPP0.faa: ;
+  charset SDA1.faa = Core_Protein_MSAs_Trimmed/SDA1.faa: ;
+  charset SEC21.faa = Core_Protein_MSAs_Trimmed/SEC21.faa: ;
+  charset SEC26.faa = Core_Protein_MSAs_Trimmed/SEC26.faa: ;
+  charset SPB1.faa = Core_Protein_MSAs_Trimmed/SPB1.faa: ;
+  charset TEF1.faa = Core_Protein_MSAs_Trimmed/TEF1.faa: ;
+  charset TIF5.faa = Core_Protein_MSAs_Trimmed/TIF5.faa: ;
+  charset TOP1.faa = Core_Protein_MSAs_Trimmed/TOP1.faa: ;
+  charset TRM1.faa = Core_Protein_MSAs_Trimmed/TRM1.faa: ;
+  charset TRP3.faa = Core_Protein_MSAs_Trimmed/TRP3.faa: ;
+  charset TSR1.faa = Core_Protein_MSAs_Trimmed/TSR1.faa: ;
+  charset TUB1.faa = Core_Protein_MSAs_Trimmed/TUB1.faa: ;
+  charset TUB2.faa = Core_Protein_MSAs_Trimmed/TUB2.faa: ;
+  charset UTP21.faa = Core_Protein_MSAs_Trimmed/UTP21.faa: ;
+  charset VMA1.faa = Core_Protein_MSAs_Trimmed/VMA1.faa: ;
+  charpartition mymodels =
+    LG+R6: ACT1.faa,
+    LG+R8: BMS1.faa,
+    LG+R7: CCT8.faa,
+    LG+R4: CMD1.faa,
+    LG+R8: DIP2.faa,
+    LG+G4: DPH5.faa,
+    LG+R5: DYS1.faa,
+    LG+R6: ELP3.faa,
+    LG+R8: ESF1.faa,
+    LG+G4: FAP7.faa,
+    LG+R7: FRS1.faa,
+    LG+R6: HEM12.faa,
+    LG+I+I+R8: HIS4.faa,
+    LG+I+I+R10: HIS7.faa,
+    LG+I+I+R9: ILV1.faa,
+    LG+R8: KRE33.faa,
+    LG+F+I+I+R8: MCM7.faa,
+    LG+F+I+I+R8: MET6.faa,
+    LG+R9: MIP1.faa,
+    LG+I+I+R6: MRPL19.faa,
+    LG+R10: MSF1.faa,
+    LG+I+I+R10: MVD1.faa,
+    LG+I+I+R10: NCS6.faa,
+    LG+R8: NDI1.faa,
+    LG+R6: NOG1.faa,
+    LG+I+I+R7: NOP14.faa,
+    LG+R6: PAH1.faa,
+    WAG+R8: PGK1.faa,
+    LG+R10: POL2.faa,
+    LG+R8: PRT1.faa,
+    LG+R8: RAD2.faa,
+    LG+I+I+R8: RLI1.faa,
+    LG+R8: RPB2.faa,
+    LG+I+I+R7: RPF2.faa,
+    LG+F+R8: RPN1.faa,
+    LG+I+I+R8: RPO21.faa,
+    LG+R8: RPP0.faa,
+    LG+R7: SDA1.faa,
+    LG+F+I+I+R7: SEC21.faa,
+    LG+R7: SEC26.faa,
+    LG+R8: SPB1.faa,
+    LG+R6: TEF1.faa,
+    LG+R7: TIF5.faa,
+    LG+R8: TOP1.faa,
+    LG+G4: TRM1.faa,
+    LG+I+I+R10: TRP3.faa,
+    LG+R8: TSR1.faa,
+    LG+I+I+R5: TUB1.faa,
+    LG+R5: TUB2.faa,
+    LG+F+R8: UTP21.faa,
+    LG+I+I+R7: VMA1.faa;
+end;

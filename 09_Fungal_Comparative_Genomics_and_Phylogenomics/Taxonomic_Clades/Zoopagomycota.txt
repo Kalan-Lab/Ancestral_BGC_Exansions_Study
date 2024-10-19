@@ -1,0 +1,11 @@
+Basidiobolus_GCA_002104905.1
+Piptocephalis_GCA_003614145.1
+Syncephalis_GCA_025786725.1
+Neoconidiobolus_GCA_025603075.1
+Conidiobolus_GCA_001566745.1
+Dimargaris_GCA_003614675.1
+Ramicandelaber_GCA_025201865.1
+Smittium_GCA_003086735.1
+Coemansia_GCA_002705745.1
+Linderina_GCF_002104995.1
+Martensiomyces_GCA_025201845.1

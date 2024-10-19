@@ -1,0 +1,3 @@
+Not in order based on phylogeny and James PNAS paper but in NCBI taxonomy - Entophlyctis_GCA_025526915.1
+Not in order based on phylogeny and James PNAS paper but in NCBI taxonomy - Phlyctochytrium_GCA_025602905.1
+Phylogeny suggests in order but James PNAS and NCBI taxonomy suggest differently - Blyttiomyces_GCA_027604625.1

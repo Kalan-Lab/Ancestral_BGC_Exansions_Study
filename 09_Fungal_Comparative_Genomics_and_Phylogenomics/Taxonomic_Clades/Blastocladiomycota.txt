@@ -1,0 +1,6 @@
+Paraphysoderma_GCA_025602915.1
+Blastocladiella_GCA_025349905.2
+Catenaria_GCA_002102555.1
+Allomyces_GCA_027604705.1
+Allomyces_GCA_000151295.1
+Allomyces_GCA_027604645.1

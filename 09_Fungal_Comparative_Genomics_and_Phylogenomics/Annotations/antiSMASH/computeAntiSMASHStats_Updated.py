@@ -3,7 +3,7 @@ import sys
 from Bio import SeqIO
 from collections import defaultdict
 
-contaminated = set(['JADGJL010000003.1.region001.gbk', 'KZ989109.1.region001.gbk'])
+contaminated = set(['JADGJL010000003.1.region001.gbk'])
 
 def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
     product = 'NA'
@@ -49,8 +49,8 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
 
     return([con_or_like, metallophore_related, nrps_related, pks_related, terpene_related, bgc_length, complete_status])
 
-asresdir = 'AntiSMASH_Results/'
-overview_file = 'Overview_File.txt'
+asresdir = 'All_antiSMASH_Results/'
+overview_file = '../Overview_File.txt'
 
 name_mapping = {}
 with open(overview_file) as ovf:
@@ -60,7 +60,7 @@ with open(overview_file) as ovf:
         if i == 0: continue
         gca = ls[0]
         #name = ls[1].split(';')[-1].split()[0] + '_' + gca
-        name = '_'.join(ls[1].split(';')[-1].split()) + '_' + gca
+        name = ls[1]
         name_mapping[gca] = name
 
 gca_complete_bgc_count = defaultdict(int)

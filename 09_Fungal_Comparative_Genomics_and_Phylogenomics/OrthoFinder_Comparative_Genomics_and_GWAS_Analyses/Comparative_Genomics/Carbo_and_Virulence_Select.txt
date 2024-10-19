@@ -1,0 +1,17 @@
+1	OG0000594		Pectate lyase
+2	OG0002639		Cerato-platanin
+3	OG0003564		GH18
+4	OG0004658		Ketohexokinase
+5	OG0001608		GH12
+6	OG0001010		GMC oxidoreductase
+7	OG0005335		mannitol-1-phosphate dehydrogenase
+8	OG0000530		Exoglucanase
+9	OG0000563		GH35
+10	OG0005440	5.80E-07	GH76 *
+11	OG0004766		CBM1
+12	OG0004671		GH53
+13	OG0003710		Alpha-L-arabinofuranosidase
+14	OG0003931		GH43
+15	OG0003316		GH43
+16	OG0001365	1.79E-06	Alpha-L-rhamnosidase *
+17	OG0003038		Neutral ceramide

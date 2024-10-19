@@ -6,7 +6,7 @@ import pyhmmer
 
 db_file = 'dbCAN-HMMdb-V12.txt'
 z = 783
-cpus = 50
+cpus = 20
 
 hmm_lengths = {}
 try:

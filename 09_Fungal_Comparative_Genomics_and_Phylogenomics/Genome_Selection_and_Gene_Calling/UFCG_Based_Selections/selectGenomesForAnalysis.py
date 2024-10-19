@@ -8,7 +8,7 @@ for f in os.listdir(genomes_dir):
     gca = '_'.join(f.split('_')[:2])
     gca_with_genomes.add(gca)
 
-abyss_file = 'Abyss_Fac_Stats.txt'
+abyss_file = 'AbyssFac_Stats.txt'
 gca_n50s = {}
 with open(abyss_file) as oaf:
     for i, line in enumerate(oaf):
@@ -19,7 +19,7 @@ with open(abyss_file) as oaf:
         n50 = ls[5]
         gca_n50s[gca] = n50
 
-family_listing_file = 'NonAscomycota_Classes.txt' #'Families_of_Interest.txt'
+family_listing_file = sys.argv[1] 
 select_families = set([])
 with open(family_listing_file) as oflf:
     for line in oflf:

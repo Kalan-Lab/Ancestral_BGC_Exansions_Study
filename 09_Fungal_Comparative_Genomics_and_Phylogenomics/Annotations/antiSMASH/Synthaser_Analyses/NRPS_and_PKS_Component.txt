@@ -1,0 +1,72 @@
+{'NRPS': '1', 'PKS|Type I|Non-reducing': '2', 'PKS|Type I|Highly-reducing': '3', 'Hybrid NRPS-PKS': '4', 'PKS|Type I|Partially-reducing': '5', 'Only Suspected PKS': '6'}
+ST	ST_Type	Clade	Prop_Clade_With	ST_Order
+Only Suspected PKS	0. Suspected	01. Pezizomycotina	0.0	6
+NRPS	NRPS	01. Pezizomycotina	0.9896907216494846	1
+PKS|Type I|Partially-reducing	PKS	01. Pezizomycotina	0.6907216494845361	5
+Hybrid NRPS-PKS	Hybrid	01. Pezizomycotina	0.7422680412371134	4
+PKS|Type I|Non-reducing	PKS	01. Pezizomycotina	0.9690721649484536	2
+PKS|Type I|Highly-reducing	PKS	01. Pezizomycotina	0.9278350515463918	3
+NRPS	0. Suspected	01. Pezizomycotina	0.0	1
+Only Suspected PKS	0. Suspected	02. Yeast and Other Ascomycota	0.0	6
+NRPS	NRPS	02. Yeast and Other Ascomycota	0.2857142857142857	1
+PKS|Type I|Partially-reducing	PKS	02. Yeast and Other Ascomycota	0.0	5
+Hybrid NRPS-PKS	Hybrid	02. Yeast and Other Ascomycota	0.0	4
+PKS|Type I|Non-reducing	PKS	02. Yeast and Other Ascomycota	0.0	2
+PKS|Type I|Highly-reducing	PKS	02. Yeast and Other Ascomycota	0.0	3
+NRPS	0. Suspected	02. Yeast and Other Ascomycota	0.0	1
+Only Suspected PKS	0. Suspected	03. Agaricomycetes	0.0	6
+NRPS	NRPS	03. Agaricomycetes	0.6595744680851063	1
+PKS|Type I|Partially-reducing	PKS	03. Agaricomycetes	0.44680851063829785	5
+Hybrid NRPS-PKS	Hybrid	03. Agaricomycetes	0.3404255319148936	4
+PKS|Type I|Non-reducing	PKS	03. Agaricomycetes	0.7446808510638298	2
+PKS|Type I|Highly-reducing	PKS	03. Agaricomycetes	0.2978723404255319	3
+NRPS	0. Suspected	03. Agaricomycetes	0.02127659574468085	1
+Only Suspected PKS	0. Suspected	04. Yeast and Other Basidiomycota	0.0	6
+NRPS	NRPS	04. Yeast and Other Basidiomycota	0.5405405405405406	1
+PKS|Type I|Partially-reducing	PKS	04. Yeast and Other Basidiomycota	0.08108108108108109	5
+Hybrid NRPS-PKS	Hybrid	04. Yeast and Other Basidiomycota	0.13513513513513514	4
+PKS|Type I|Non-reducing	PKS	04. Yeast and Other Basidiomycota	0.21621621621621623	2
+PKS|Type I|Highly-reducing	PKS	04. Yeast and Other Basidiomycota	0.05405405405405406	3
+NRPS	0. Suspected	04. Yeast and Other Basidiomycota	0.0	1
+Only Suspected PKS	0. Suspected	05. Mucoromycota	0.0	6
+NRPS	NRPS	05. Mucoromycota	0.0	1
+PKS|Type I|Partially-reducing	PKS	05. Mucoromycota	0.0	5
+Hybrid NRPS-PKS	Hybrid	05. Mucoromycota	0.15384615384615385	4
+PKS|Type I|Non-reducing	PKS	05. Mucoromycota	0.07692307692307693	2
+PKS|Type I|Highly-reducing	PKS	05. Mucoromycota	0.0	3
+NRPS	0. Suspected	05. Mucoromycota	0.07692307692307693	1
+Only Suspected PKS	0. Suspected	06. Zoopagomycota	0.0	6
+NRPS	NRPS	06. Zoopagomycota	0.2727272727272727	1
+PKS|Type I|Partially-reducing	PKS	06. Zoopagomycota	0.09090909090909091	5
+Hybrid NRPS-PKS	Hybrid	06. Zoopagomycota	0.0	4
+PKS|Type I|Non-reducing	PKS	06. Zoopagomycota	0.0	2
+PKS|Type I|Highly-reducing	PKS	06. Zoopagomycota	0.0	3
+NRPS	0. Suspected	06. Zoopagomycota	0.0	1
+Only Suspected PKS	0. Suspected	07. Neocallimastigomycota	0.3333333333333333	6
+NRPS	NRPS	07. Neocallimastigomycota	1.0	1
+PKS|Type I|Partially-reducing	PKS	07. Neocallimastigomycota	0.6666666666666666	5
+Hybrid NRPS-PKS	Hybrid	07. Neocallimastigomycota	0.0	4
+PKS|Type I|Non-reducing	PKS	07. Neocallimastigomycota	0.0	2
+PKS|Type I|Highly-reducing	PKS	07. Neocallimastigomycota	0.6666666666666666	3
+NRPS	0. Suspected	07. Neocallimastigomycota	0.0	1
+Only Suspected PKS	0. Suspected	08. Chytrid and Other Chytrid-Like	0.0	6
+NRPS	NRPS	08. Chytrid and Other Chytrid-Like	0.75	1
+PKS|Type I|Partially-reducing	PKS	08. Chytrid and Other Chytrid-Like	0.0	5
+Hybrid NRPS-PKS	Hybrid	08. Chytrid and Other Chytrid-Like	0.325	4
+PKS|Type I|Non-reducing	PKS	08. Chytrid and Other Chytrid-Like	0.025	2
+PKS|Type I|Highly-reducing	PKS	08. Chytrid and Other Chytrid-Like	0.1	3
+NRPS	0. Suspected	08. Chytrid and Other Chytrid-Like	0.0	1
+Only Suspected PKS	0. Suspected	09. Blastocladiomycota	0.0	6
+NRPS	NRPS	09. Blastocladiomycota	0.0	1
+PKS|Type I|Partially-reducing	PKS	09. Blastocladiomycota	0.0	5
+Hybrid NRPS-PKS	Hybrid	09. Blastocladiomycota	0.0	4
+PKS|Type I|Non-reducing	PKS	09. Blastocladiomycota	0.0	2
+PKS|Type I|Highly-reducing	PKS	09. Blastocladiomycota	0.0	3
+NRPS	0. Suspected	09. Blastocladiomycota	0.0	1
+Only Suspected PKS	0. Suspected	10. Basal Fungi	0.0	6
+NRPS	NRPS	10. Basal Fungi	0.0	1
+PKS|Type I|Partially-reducing	PKS	10. Basal Fungi	0.0	5
+Hybrid NRPS-PKS	Hybrid	10. Basal Fungi	0.0	4
+PKS|Type I|Non-reducing	PKS	10. Basal Fungi	0.0	2
+PKS|Type I|Highly-reducing	PKS	10. Basal Fungi	0.0	3
+NRPS	0. Suspected	10. Basal Fungi	0.0	1

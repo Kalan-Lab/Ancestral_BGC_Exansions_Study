@@ -1,0 +1,3 @@
+19	OG0006296		Reduced meiotic recombination protein
+20	OG0004079		LisH
+21	OG0004693		Altered inheritance rate of mitochondria protein

@@ -2,7 +2,7 @@ import os
 import sys
 from ete3 import Tree
 
-print('156          1')
+print('213          1')
 
 calib_data = 'Calibration_Data.txt'
 
@@ -17,7 +17,7 @@ with open(calib_data) as ocd:
         nodebounds[name] = bound
 
 print(nodebounds)
-tre_file = 'Fungi_Wide_Tree.Rooted_by_Capsaspora.With_InnerNode_Names.tre'
+tre_file = 'TimeTree_Selection_PBL.with_innernode_IDs.tre'
 t = Tree(tre_file, format=1)
 for n in t.traverse('postorder'):
     if not n.is_leaf():

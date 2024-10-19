@@ -1,0 +1,6 @@
+OG0000512	Terpene synthase family
+OG0001036	Polyprenyl synthetase
+OG0004734	Squalene/phytoene synthase
+OG0003043	Squalene/phytoene synthase
+OG0001196	Terpene cyclase mutase
+OG0001586	Squalene/phytoene synthase
