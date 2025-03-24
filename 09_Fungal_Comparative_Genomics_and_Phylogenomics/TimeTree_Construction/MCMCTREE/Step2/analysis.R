@@ -14,7 +14,8 @@ mcmc3 <- read.table("mcmc3.txt", head=TRUE)
 # each data frame contains 15 columns:
 # MCMC generation number, 9 node ages (divergence times), 2 mean mutation rates,
 # 2 rate drift coefficients, and sample log-likelihood values
-names(mcmc1)
+
+ti <- grep("t_", names(mcmc1))
 # [1] "Gen"      "t_n11"    "t_n12"    "t_n13"    "t_n14"    "t_n15"    "t_n16"    "t_n17"
 # [9] "t_n18"    "t_n19"    "mu1"      "mu2"      "sigma2_1" "sigma2_2" "lnL"
 
