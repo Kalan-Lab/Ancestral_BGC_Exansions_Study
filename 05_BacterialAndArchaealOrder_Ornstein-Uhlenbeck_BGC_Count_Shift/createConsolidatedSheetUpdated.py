@@ -27,20 +27,21 @@ with open(cazy_file) as ocf:
         gca_distinct_caz[gca] = distinct_cazy
 
 relaxed_bgcome_sizes = {}
+relaxed_bgc_counts = {}
 with open(antismash_relaxed_file) as oarf:
     for i, line in enumerate(oarf):
         line = line.strip()
         ls = line.split('\t')
         if i == 0: continue
         relaxed_bgcome_sizes[ls[0].split('.')[0]] = ls[4]
-
+        relaxed_bgc_counts[ls[0].split('.')[0]] = ls[3]
 with open(antismash_file) as oaf:
     for i, line in enumerate(oaf):
         line = line.strip()
         ls = line.split('\t')
         if i == 0:
-            print('\t'.join(ls + ['Relaxed_BGCome_Size', 'Distinct_KOfams', 'Distinct_CAZy', 'Total_CAZy']))
+            print('\t'.join(ls + ['Relaxed_BGCome_Size', 'Relaxed_BGC_Count', 'Distinct_KOfams', 'Distinct_CAZy', 'Total_CAZy']))
         else:
             gca = ls[0].split('.')[0]
-            print('\t'.join(ls + [str(relaxed_bgcome_sizes[gca]), str(len(gca_kofams[gca])), gca_distinct_caz[gca], gca_total_caz[gca]]))
+            print('\t'.join(ls + [str(relaxed_bgcome_sizes[gca]), str(relaxed_bgc_counts[gca]), str(len(gca_kofams[gca])), gca_distinct_caz[gca], gca_total_caz[gca]]))
 

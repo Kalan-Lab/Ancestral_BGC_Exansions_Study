@@ -28,7 +28,7 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
         metallophore_related = False
         nrps_related = False
         pks_related = False
-        if 'NRP-metallophore' in products or 'aminopolycarboxylic-acid' in products or 'opine-like-metallophore' in products or 'NI-siderophore' in products:
+        if 'NRP-metallophore' in products or 'aminopolycarboxylic-acid' in products or 'opine-like-metallophore' in products or 'NI-siderophore' in products or 'methanobactin' in products:
             metallophore_related = True
         if 'thioamide-NRP' in products or 'NRPS' in products or 'NRPS-like' in products or 'NRP-metallophore' in products:
             nrps_related = True
@@ -41,7 +41,7 @@ def parseAntiSMASHGBKForFunctionAndCompleteness(bgc_gbk):
     return([metallophore_related, nrps_related, pks_related, bgc_length])
 
 genus_file = 'Selected_Genomes.txt'
-asresdir = '/researchdrive_files/Personal/Rauf/Multicellularity_and_BGCs/antiSMASH_Order_Full_Results/'
+asresdir = '/workspace/lab/kalanlab/salamzar/multicellularity_and_bgcs/researchdrive/Multicellularity_and_BGCs/antiSMASH_Order_Full_Results/'
 
 gca_to_taxa = {}
 with open(genus_file) as ogf:
