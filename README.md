@@ -4,6 +4,8 @@ Code and datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
 
 *Note, names of files/paths in the repo or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
 
+The file **Supplementary_Figures.pdf** contains some additional figures related to the study. They might not be properly displayed on GitHub so downloading might be needed. 
+
 ## Directory stucture:
 
 * **01_BacterialPhylum_Genome_Selection**: Code for selection of species-level representative genomes from five bacterial phyla (Actinomycetota, Bacillota, Cyanobacteriota, Myxococcota, and Pseudomonadota) for investigation of BGC content and associations with other genomic/ecological factors (Table S1).
