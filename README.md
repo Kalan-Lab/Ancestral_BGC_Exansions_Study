@@ -1,6 +1,6 @@
 # Ancestral_BGC_Expansions_Study
 
-Code and select datasets for analyses featured in Salamzade, Kalan, and Currie, 2024.
+Code and select datasets for analyses featured in Salamzade, Kalan and Currie, 2025.
 
 *Note, names of files/paths in the repo or in scripts/files were occassionally changed to be more interpretable for viewers of this git repository.*
 
@@ -24,9 +24,18 @@ Additional datasets related to this project can be found on Zenodo at: https://z
   * **Genome_Selection_and_Gene_Calling**: Code for genome selection of representative fungal genomes. Code for selecting gene calling information from NCBI databases or performing gene calling using funannotate (Supplementary Table S7).
   * **Phylogenomics**: Code for comprehensive phylogeny construction of all 312 fungal genome representatives + 4 outgroup genomes.
   * **TimeTree_Construction**: Code for construction of timetree using MCMCTree and subset of representative genomes from the fungal kingdom.
-  * **Annotations**: Code for performing annotation of BGCs using antiSMASH, CAZy/dBCAN homologs, and conidium regulators.
+  * **Annotations**: Code for performing annotation of BGCs using antiSMASH & synthaser, CAZy/dBCAN profile HMMs, and HI domains.
   * **Key_BGC_Gene_Typing_and_Ortholog_Grouping**: Code for typing and assessing conservation of key BGC genes (NRP, PK, and terpene biosynthesis) across fungal taxonomic clades based on synthaser and OrthoFinder analyses.
-  * **BGCome_Size_Comparisons_Between_Taxonomic_Partitions**: Code for comparing counts of BGCs by antiSMASH between fungal taxonomic groups.
+  * **PKS_and_NRPS_from_Basal_in_Context_of_Characterized_MIBIG**: Code/data used to perform NaPDoS2-based analysis of whether basal/early-diverging fungal genomes harbor novel PKS/NRPS sequences to what has been characterized and is on MIBiG.
+  * **Pangenome_Expansion_Analysis**: Code/data pertaining to use of psaps for assessing genomic fluidity of fungal clades. The psaps code can be found at: https://github.com/raufs/psaps 
+  * 
+  * **BGCome_Size_Comparisons_Between_Taxonomic_Partitions**: Code for comparing counts of BGCs by antiSMASH between select fungal taxonomic groups.
   * **Taxonomic_Clades**: A directory containing files for different taxonomic or morphological genome listings.
   * **Correlation_Analyses**: Code for correlation analyses of BGC-ome size with other factors, including genome size and number of distinct CAZy homologs.
-  * **OrthoFinder_Comparative_Genomics_and_GWAS_Analyses**: Code pertaining to OrthoFinder analysis, comparative genomics between basal and BGC-enriched Pezizomycotina, and Dikarya GWAS for HOGs associated with increased NRPS+PKS-ome size.
+  * **OrthoFinder_Comparative_Genomics_and_GWAS_Analyses**: Code/select-data pertaining to OrthoFinder analysis, comparative genomics between BGC-enriched and BGC-poor dikaryotic clades, and fungal kingdom-wide GWAS for HOGs associated with increased NRPS+PKS-ome size.
+  * **HI_Domain_Architectures_and_Phylogenies**: Code and select data pertaining to deeper dives into HI domain containing proteins.
+  * **HI_Enrichment_Analysis**: Code for performing assessment of whether BGCs have elevated rates of HI domain containing proteins in BGC-rich Pezizomycotina genomes.
+  * **Aspergillus_Investigations**: Select data for phylogenomics, annotations, and psaps analysis of *Aspergillus* genomes with regards to HI protein associations with BGCs and genome fluidity.
+  * **Ideograms**: Code for creating ideograms showcasing the location of BGC regions and HI domain containing proteins along select scaffolds from two dikaryotic genomes.
+
+
