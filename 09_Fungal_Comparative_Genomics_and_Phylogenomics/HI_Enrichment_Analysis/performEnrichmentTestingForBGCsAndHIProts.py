@@ -4,10 +4,10 @@ from Bio import SeqIO
 from scipy import stats
 
 mc_gcas = set([])
-with open('Agaricomycetes.txt') as oaf:
-    for line in oaf:
-        gca = '_'.join(line.strip().split('.')[0].split('_')[-2:])
-        mc_gcas.add(gca)
+#with open('Agaricomycetes.txt') as oaf:
+#    for line in oaf:
+#        gca = '_'.join(line.strip().split('.')[0].split('_')[-2:])
+#        mc_gcas.add(gca)
 
 with open('BGC_Enriched_Pezizomycotina.txt') as oaf:
     for line in oaf:
@@ -32,15 +32,19 @@ with open('../All_Proteins.faa') as of:
 
 bgc_hi = 0
 other_hi = 0
+accounted = set([])
 with open('HIT_Hits.Domain.Cut_TC.txt') as of:
     for line in of:
         if line.startswith('#'): continue
         line = line.strip()
         prot = line.split()[0]
+        dom = line.split()[3]
+        if prot in accounted: continue
         if prot in bgc_proteins:
             bgc_hi += 1
         elif prot in other_proteins:
             other_hi += 1
+        accounted.add(prot)
 
 bgc_other = len(bgc_proteins) - bgc_hi
 other_other = len(other_proteins) - other_hi

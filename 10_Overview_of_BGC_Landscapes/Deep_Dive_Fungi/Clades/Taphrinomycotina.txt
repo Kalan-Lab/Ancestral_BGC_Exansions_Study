@@ -1,4 +1,0 @@
-Neolecta_GCA_001929475.1
-Schizosaccharomyces_GCA_000002945.2
-Taphrina_GCA_000836135.1
-Protomyces_GCF_002105105.1

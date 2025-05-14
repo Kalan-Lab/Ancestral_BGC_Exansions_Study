@@ -1,6 +1,0 @@
-clade	tot_bgc_count	multi_type_proportion
-BGC_Enriched_Pezizomycotina	2412	14.55223880597015
-Agaricomycetes	1010	6.138613861386139
-Cyanobacteriota	1145	26.724890829694324
-Myxococcota	371	24.258760107816713
-Actinomycetota	3134	23.962986598596043

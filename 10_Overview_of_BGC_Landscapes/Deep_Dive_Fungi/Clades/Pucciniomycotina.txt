@@ -1,9 +1,0 @@
-Puccinia_GCA_000149925.1
-Rhodotorula_GCA_002806785.1
-Microbotryum_GCA_900120095.1
-Leucosporidium_GCA_001600635.1
-Glaciozyma_GCA_002917775.1
-Cystobasidium_GCA_001599955.1
-Erythrobasidium_GCA_001600175.1
-Mixia_GCF_000708205.1
-Cystobasidiopsis_GCA_001599975.1
