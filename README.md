@@ -15,7 +15,7 @@ Additional datasets related to this project can be found on Zenodo at: https://z
 * **03_BacterialPhylum_Phylogeny_Construction**: Code and example IQ-TREE commands for construction of phylum level phylogenies based on 74 conserved proteins across bacteria from GToTree.
 * **04_BacterialAndArchaealOrder_TimeTree_Construction**: Code and scripts for constructing the timetree of bacteria and archae order representatives using MCMCTree.
 * **05_BacterialAndArchaealOrder_Ornstein-Uhlenbeck_BGC_Count_Shift**: Code to run Ornstein-Uhlenbeck analysis to detect expansions in median BGC-ome size across bacterial order representatives.
-* **06_Systematic_Bacterial_SpeciesLevel_Annotations**: Code and example commands/scripts for various trait annotations of species-level representative genomes (e.g. antiSMASH, CAZy/dbCAN, etc.).
+* **06_Systematic_Bacterial_SpeciesLevel_Annotations_and_Associations**: Code and example commands/scripts for various trait annotations of species-level representative genomes (e.g. antiSMASH, CAZy/dbCAN, etc.).
 ---
 * **07_Actinomycetota_Comparative_Genomics**: Code pertaining to primary Actinomycetota analysis on core set of 133 high-quality genomes for which OrthoFinder was run.
 * **08_Actinomycetota_Comprehensive_MIBiG_ResFam_and_RifamycinRelated_Annotations**: Code pertaining to more large-scale Actnomycetota analyses on all ~33k genomes in the phylum in GTDB R214 - primarily around identifying MIBiG BGCs, Resfam resistance markers, rifamycin resistance, and fai-based detection of rifamycin BGC homologs. 

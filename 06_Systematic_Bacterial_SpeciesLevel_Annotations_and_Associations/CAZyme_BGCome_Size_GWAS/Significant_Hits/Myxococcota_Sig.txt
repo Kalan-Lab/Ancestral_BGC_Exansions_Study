@@ -1,0 +1,2 @@
+variant	af	filter-pvalue	lrt-pvalue	beta	beta-std-err	variant_h2	notes
+CBM38	2.26E-01	9.13E-06	1.32E-06	-4.38E+05	8.38E+04	5.00E-01	

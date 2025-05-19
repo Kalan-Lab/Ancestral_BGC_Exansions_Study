@@ -1,0 +1,1 @@
+diamond blastp --ignore-warnings --threads 50 --very-sensitive --db IS_Redundancy_Removed.dmnd -k 10 --evalue 0.001 --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp scovhsp --out IS_Blastp_Results.txt --query Target_Genomes_DB.faa

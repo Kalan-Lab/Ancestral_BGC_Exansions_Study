@@ -1,0 +1,5 @@
+#pyseer --lmm --phenotypes BGCome_Sizes.txt --continuous --pres ../CAZy_Fam_Samples.txt --similarity Actinomycetota_Phylogeny_Distance.tsv --output-patterns actino_patterns.txt --cpu 30 > Actinomycetota_BGCsum_CAZy_associations.txt
+#pyseer --lmm --phenotypes BGCome_Sizes.txt --continuous --pres ../CAZy_Fam_Samples.txt --similarity Pseudomonadota_Phylogeny_Distance.tsv --output-patterns pseudo_patterns.txt --cpu 30 > Pseudomonadota_BGCsum_CAZy_associations.txt
+#pyseer --lmm --phenotypes BGCome_Sizes.txt --continuous --pres ../CAZy_Fam_Samples.txt --similarity Myxococcota_Phylogeny_Distance.tsv --output-patterns myxo_patterns.txt --cpu 30 > Myxococcota_BGCsum_CAZy_associations.txt
+pyseer --lmm --phenotypes BGCome_Sizes.txt --continuous --pres ../CAZy_Fam_Samples.txt --similarity Bacillota_Phylogeny_Distance.tsv --output-patterns bacillo_patterns.txt --cpu 30 > Bacillota_BGCsum_CAZy_associations.txt
+#pyseer --lmm --phenotypes BGCome_Sizes.txt --continuous --pres ../CAZy_Fam_Samples.txt --similarity Cyanobacteriota_Phylogeny_Distance.tsv --output-patterns cyano_patterns.txt --cpu 30 > Cyanobacteriota_BGCsum_CAZy_associations.txt
