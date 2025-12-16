@@ -1,0 +1,80 @@
+>vic1a-2|Cryphonectria CDL70792.1 vegetative incompatibility protein 1a [Cryphonectria parasitica]|200|357
+YVALSHCWGTHIA--EKPMLKTTWKTIEEKMVEIPWNSL-PANFQDAINV-------------------T------RALG
+-YD-YIWIDSLCIIQDCTRDWEQEAGKMAEVYKYATVTIVPTAAK-SCHDGF-----------------IRRRNLRG--C
+R----------IPYRRPS-----------SG--DGDID--------------------GNL----------------ILQ
+-LSD--------------GAARHWHRE--------------VNESWWRYRGWTLQE
+>het-6|Neurospora Neurospora crassa sp|Q9UV10|HET6_NEUCR|60|241
+YIALSYVWGDSTR--THEISVA--NEVNDGRAFIPL-RL-TSSLDTCLRH-------------------LRELHYRRQLE
+-PL-PLWIDQICINQDDNEEKSFQVRLMRDIYSSAHQVVVWLGPAVDDSNRV------------------MDALAEVGQ-
+E----------FLDKIGD-----------HTEEEHWLSVDRLIKEKIEQPDAVTFLREAYK----------------VIY
+-MLN--------------REHSF-TRW--------------V-ERTWFKRLWTIQE
+>het-d|Podospora CAL30216.1 HET-D [Podospora anserina]|26|113
+YAILSHTWGDEEI--IFKDIKD--GI--------CKKKRGYSKIQFCGDQ-------------------A------GRDG
+-LK-FFWVDTCCIDKSDSTEVQRALNSMFQWYRNAAKCYVYLTD------------------------------------
+--------------------------------------------------------------------------------
+-----------------------------------------------------VST
+>vic6-2|Cryphonectria AEU03863.1 VIC6 [Cryphonectria parasitica]|202|350
+YLALSHCWGRTPF--LVLDE----GHEELFANGVLVTSL-AQNFQDALFA-------------------T------GKLG
+-FR-YIWIDSLCIIQGSRDDWMQQAPLMNKVYRNASLTLCATASP-DAHGGF-----------------FCNREPAF-VR
+P----------HPFTLRT-----------EA--EGLVE--------------------G-------------------LL
+------------------IKSDFWETD--------------IRRAPLNQRAWVVQE
+>vic7-2|Cryphonectria AKM49055.1 vegetative incompatibility protein 7, partial [Cryphonectria parasitica]|5|155
+YTALSYCWGNDSE--VLLAKALKTENLESYETEIPWETL-PQTLQDAAVT-------------------T------HRLG
+-MH-FVWIDSLCIIQDDDNDKVKEIAQMAQVYSHATLTIMVNRAA-RASDGF-----------------LHQRSPPLGTS
+N----------LLFRSPD-----------GT--EGWVS----------------------------------------LY
+------------------FKHEFWYEE----------------KSKLDKRGWAMQE
+>vic6-1|Cryphonectria AET07139.1 vegetative incompatibility protein 6 [Cryphonectria parasitica]|202|350
+YLALSHCWGKKRF--LVFNE----ETKAKFESGVAISSL-AQNFQDAIFT-------------------T------HRLG
+-YR-YIWIDSLCIMQGSRKDWAEQAPLMNKVYKNAVLTLGAMASA-EAEGGF-----------------FRSRDPDK-IR
+P----------CPFRVNT-----------ES--EGILD--------------------C-------------------LV
+------------------VKSDFWETE--------------VLHAPLSKRAWVVQE
+>vic7-1|Cryphonectria AKM49056.1 vegetative incompatibility protein 7, partial [Cryphonectria parasitica]|24|174
+YTALSYCWGNDSE--VLLAKALKTENLESYETEIPWETL-PQTLQDAAVT-------------------T------HRLG
+-MH-FVWIDSLCIIQDDDNDKVKEIAQMAQVYSHATLTIMVNRAA-RASDGF-----------------LHQRSPPLGTS
+N----------LLFRSPD-----------GT--EGWVS----------------------------------------LY
+------------------FKHEFWYEE----------------KSKLDKRGWAMQE
+>het-R|Podospora ACM48730.1 HET-R [Podospora anserina]|25|111
+YAILSHTWGDEEV--LFKDLVD--GT--------GRKNAGYAKVQFCGDQ-------------------A------WRDG
+-LK-HFWIDTCCIDKSDAVELQHALNSMFQWYRNATKCYVYLTD------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------------------------VS
+>het-e|Neurospora EAA29748.1 hypothetical protein NCU09037 [Neurospora crassa OR74A]|60|257
+FQALSYVWGIPDP--DK--------------------PL-PTILLDGISMTVTPNLHSALCFLLSQQQQP------EDNG
+-FKTSFWIDALCINQADNDEKAFQVPLMSKIYTSAMRVFVWLGLLPRPGEGPHRDCGCTLKTVTWLGSMFRQ-QVKK-KR
+E----------GPLLSALKGLSEEDQRKKVA--QGFVW--------------------T------------------VLQ
+-FSITRDYGHENAKSGGFDFERIWQLF--------------C-ERPYWRRLWIVQE
+>het-BH2|Podospora WPW53408.1 HET-domain protein BH2 [Podospora anserina]|22|112
+YAILSHTWDATEA--TLQQWSK--RTTRLR----KFKVPGYAKVYGACKL-------------------A------RQDG
+-LR-YLWIDTVCIDKSSSAELSEAINSMFAWYENAKVCYVYLSD------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------------------------VK
+>pin-c3|Neurospora tr|Q1WFN4|Q1WFN4_NEUCS HET domain protein pin-c3 OS=Neurospora crassa OX=5141 GN=pin-c PE=4 SV=1|335|533
+YFTLSHCWGPPEK--RPTTT--TKANLSQRMERIPFIEL-PRTFQDAIEM-------------------T------RKLG
+-HR-YLWIDSLCIVQDDEQDWAREASLMAKVYSHASCTLSALSSH-DSSGGL-----------------H-LEPLDE--D
+RSYMDLSITSTPPEPYP-------------A--DGSTG------TRQNESDTE-----TNMNRAFASSSSSSFPRFRLLY
+------------------YSNEDWHTLYNGTNRTMHMGGLSNDISPLRSRAWTLQE
+>tol|Neurospora Neurospora crassa tr|O93882|O93882_NEUCS|343|500
+FMSLSHCWGKDGV--PTQLLKGNYDR--FTKEGIRLTEL-PKTFRDAIEV-------------------T------QRLN
+IVP-YIWIDSLCIIQDSKEDWDDESVKMQYVYRNSVLNLAAGASP-NSHGGL-----------------FNPRHPLS-TV
+P----------WSIEVPL-----------SD--DNDDK--------------------DYN-----------------IK
+NKTF--------------LTSEYRSEK--------------ESDLILFTRGWVLQE
+>vic1d-1|Cryphonectria CDL70799.1 vegetative incompatibility protein 1d [Cryphonectria parasitica]|117|272
+YVALSHCWGPKND--QRLMLTTKRATLHDRLAGISMESL-PLNFQDAVKT-------------------T------RALG
+-YD-YLWIDSLCIIQDSEVDWLYEAAKMAEVYKYATVTIVPTSAM-TCHDGF-----------------LQKRQLRS--A
+R----------IPYIHPV---------------DGSSD--------------------GHL----------------LLQ
+-LTD--------------QLSNHYEED--------------IEYSWWNQRGWTMQE
+>het-BH1|Podospora CDP26757.1 Putative protein of unknown function with het domain [Podospora anserina S mat+]|22|110
+YAILSHTWEATEA--SFQQWTK--RVTRIR----KFKHLGFEKIYAACKR-------------------A------RGNG
+-LG-YVWADTVCIDKTSSAELSEAINSMYAWYENAQVCYVYL--------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------------------------SD
+>het-E|Podospora sp|Q00808|HETE1_PODAS Vegetative incompatibility protein HET-E-1 OS=Podospora anserina OX=2587412 GN=HET-E1 PE=4 SV=1|26|117
+YAILSHTWGPDEEEVSYKDLKD--GR--------AVSKLGYNKIRFCADQ-------------------A------WRDG
+-RK-FFWVDTCCIDKSNSTELQEAINSMFRWYRDAAKCYVYLTD------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------------------VSTDK
+>vic1a-1|Cryphonectria CDL70791.1 vegetative incompatibility protein 1a [Cryphonectria parasitica]|200|357
+YVALSHCWGTHIA--EKPMLKTTWKTIEEKMVEIPWNSL-PANFQDAINV-------------------T------RALG
+-YD-YIWIDSLCIIQDCTRDWEHEAGKMAEVYKYATVTIVPTAAK-SCHDGF-----------------IRRRNLRS--C
+R----------MPYRRPS-----------SG--DGDTD--------------------GNL----------------ILQ
+-LSD--------------GAARHWHRE--------------VNESWWRYRGWTLQE

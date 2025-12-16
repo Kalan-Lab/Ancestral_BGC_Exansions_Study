@@ -11,11 +11,9 @@ rownames(dat.full) <- dat.full$GCA_Name
 trait_info = dat.full$bgcome_size/1000000
 names(trait_info) <- dat.full$name
 
-pred_info = dat.full$protein_count #genome_size/1000000
+pred_info = dat.full$protein_count
 names(pred_info) <- dat.full$name
 
-#print(pred_info)
-#print(trait_info)
 dat = data.frame(trait=trait_info,pred=pred_info)
-fit = phylolm(trait~pred,data=dat,phy=tree,model="lambda")
+fit = phylolm(trait~pred,data=dat,phy=tree, model="lambda")
 summary(fit)

@@ -1,0 +1,23 @@
+DATASET_PIECHART
+SEPARATOR TAB
+COLOR	#000000
+DATASET_LABEL	Ref
+FIELD_LABELS	Ref
+FIELD_COLORS	#eb4034
+DATA
+het-e|Neurospora	1	1	1
+het-6|Neurospora	1	1	1
+vic7-2|Cryphonectria	1	1	1
+vic7-1|Cryphonectria	1	1	1
+pin-c3|Neurospora	1	1	1
+vic1a-2|Cryphonectria	1	1	1
+vic1a-1|Cryphonectria	1	1	1
+vic1d-1|Cryphonectria	1	1	1
+tol|Neurospora	1	1	1
+vic6-2|Cryphonectria	1	1	1
+vic6-1|Cryphonectria	1	1	1
+het-BH2|Podospora	1	1	1
+het-BH1|Podospora	1	1	1
+het-E|Podospora	1	1	1
+het-R|Podospora	1	1	1
+het-d|Podospora	1	1	1

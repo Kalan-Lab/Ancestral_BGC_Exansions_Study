@@ -18,7 +18,7 @@ names = ['General', 'Pseudomonadota', 'Bacillota', 'Cyanobacteriota', 'Myxococco
  
 aminos = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y']
 
-main_metric = 'strict_nrps_or_pks_ome_size' # 'relaxed_bgcome_size'
+main_metric = 'relaxed_bgcome_size'
 
 for i, df in enumerate(dfs):
     df_name = names[i]
@@ -57,9 +57,9 @@ for i, df in enumerate(dfs):
     r2, pval = stats.spearmanr(y, ideal_temps)
     print(df_name + '\tPredicted Optimal Growth Temperature\t' + str(r2) + '\t' + str(pval))
 
-    phage_sums = df['phage_sum']
-    r2, pval = stats.spearmanr(y, phage_sums)
-    print(df_name + '\tPhage-ome Size\t' + str(r2) + '\t' + str(pval))
+    phage_plasmid_sums = df['phage_plasmid_sum']
+    r2, pval = stats.spearmanr(y, phage_plasmid_sums)
+    print(df_name + '\tPhage-ome + Plasmid-ome Size\t' + str(r2) + '\t' + str(pval))
 
     y = df.loc[df['host_associated_category'] != 'not-detected'][main_metric]
     

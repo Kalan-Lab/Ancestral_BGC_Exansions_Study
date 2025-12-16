@@ -35,5 +35,5 @@ Additional datasets related to this project can be found on Zenodo at: https://z
   * **Pangenome_Expansion_Analysis**: Code/data pertaining to use of psaps for assessing genomic fluidity of fungal clades. The psaps code can be found at: https://github.com/raufs/psaps 
   * **Aspergillus_Investigations**: Select data for phylogenomics, annotations, and psaps analysis of *Aspergillus* genomes with regards to HI protein associations with BGCs and genome fluidity.
   * **Ideograms**: Code for creating ideograms showcasing the location of BGC regions and HI domain containing proteins along select scaffolds from two dikaryotic genomes.
-
+* **10_Recent_Horizontal_Gene_Transfer_Assessment**: Code and select data for assessing signatures of recent horizontal transfer in bacteria, archaeae, and fungi.
 

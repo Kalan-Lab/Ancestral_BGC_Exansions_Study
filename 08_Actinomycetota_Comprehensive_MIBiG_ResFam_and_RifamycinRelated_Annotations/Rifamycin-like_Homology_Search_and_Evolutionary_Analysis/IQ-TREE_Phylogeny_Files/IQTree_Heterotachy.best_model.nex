@@ -1,0 +1,70 @@
+#nexus
+begin sets;
+  charset OG_173.msa.faa = sc_cons_msas/OG_173.msa.faa: , ;
+  charset OG_177.msa.faa = sc_cons_msas/OG_177.msa.faa: , ;
+  charset OG_185.msa.faa = sc_cons_msas/OG_185.msa.faa: , ;
+  charset OG_193.msa.faa = sc_cons_msas/OG_193.msa.faa: , ;
+  charset OG_194.msa.faa = sc_cons_msas/OG_194.msa.faa: , ;
+  charset OG_197.msa.faa = sc_cons_msas/OG_197.msa.faa: , ;
+  charset OG_198.msa.faa = sc_cons_msas/OG_198.msa.faa: , ;
+  charset OG_199.msa.faa = sc_cons_msas/OG_199.msa.faa: , ;
+  charset OG_201.msa.faa = sc_cons_msas/OG_201.msa.faa: , ;
+  charset OG_202.msa.faa = sc_cons_msas/OG_202.msa.faa: , ;
+  charset OG_203.msa.faa = sc_cons_msas/OG_203.msa.faa: , ;
+  charset OG_204.msa.faa = sc_cons_msas/OG_204.msa.faa: , ;
+  charset OG_205.msa.faa = sc_cons_msas/OG_205.msa.faa: , ;
+  charset OG_206.msa.faa = sc_cons_msas/OG_206.msa.faa: , ;
+  charset OG_207.msa.faa = sc_cons_msas/OG_207.msa.faa: , ;
+  charset OG_208.msa.faa = sc_cons_msas/OG_208.msa.faa: , ;
+  charset OG_209.msa.faa = sc_cons_msas/OG_209.msa.faa: , ;
+  charset OG_210.msa.faa = sc_cons_msas/OG_210.msa.faa: , ;
+  charset OG_211.msa.faa = sc_cons_msas/OG_211.msa.faa: , ;
+  charset OG_214.msa.faa = sc_cons_msas/OG_214.msa.faa: , ;
+  charset OG_217.msa.faa = sc_cons_msas/OG_217.msa.faa: , ;
+  charset OG_219.msa.faa = sc_cons_msas/OG_219.msa.faa: , ;
+  charset OG_220.msa.faa = sc_cons_msas/OG_220.msa.faa: , ;
+  charset OG_225.msa.faa = sc_cons_msas/OG_225.msa.faa: , ;
+  charset OG_226.msa.faa = sc_cons_msas/OG_226.msa.faa: , ;
+  charset OG_227.msa.faa = sc_cons_msas/OG_227.msa.faa: , ;
+  charset OG_228.msa.faa = sc_cons_msas/OG_228.msa.faa: , ;
+  charset OG_233.msa.faa = sc_cons_msas/OG_233.msa.faa: , ;
+  charset OG_236.msa.faa = sc_cons_msas/OG_236.msa.faa: , ;
+  charset OG_243.msa.faa = sc_cons_msas/OG_243.msa.faa: , ;
+  charset OG_245.msa.faa = sc_cons_msas/OG_245.msa.faa: , ;
+  charset OG_284.msa.faa = sc_cons_msas/OG_284.msa.faa: , ;
+  charset OG_351.msa.faa = sc_cons_msas/OG_351.msa.faa: , ;
+  charpartition mymodels =
+    WAG+F+R3{0.57482,0.14526,0.336349,1.54748,0.0888307,4.458}: OG_173.msa.faa{3.74338},
+    WAG+F+I{0.28459}+G4{1.54546}: OG_177.msa.faa{4.55383},
+    WAG+G4{0.639636}: OG_185.msa.faa{5.71104},
+    LG+G4{0.760261}: OG_193.msa.faa{4.66584},
+    LG+F+G4{0.942816}: OG_194.msa.faa{7.71948},
+    WAG+G4{0.699664}: OG_197.msa.faa{4.83565},
+    WAG+I{0.488551}+G4{0.575182}: OG_198.msa.faa{2.74331},
+    WAG+F+I{0.430194}+G4{1.4593}: OG_199.msa.faa{3.58515},
+    LG+F+G4{0.739337}: OG_201.msa.faa{6.39082},
+    LG+F+G4{0.707192}: OG_202.msa.faa{6.42008},
+    WAG+F+I{0.263582}+G4{1.53993}: OG_203.msa.faa{5.59902},
+    LG+F+I{0.317293}+G4{0.736811}: OG_204.msa.faa{2.89848},
+    WAG+F+G4{0.748225}: OG_205.msa.faa{4.77489},
+    LG+F+G4{0.597635}: OG_206.msa.faa{6.1176},
+    LG+F+G4{0.728836}: OG_207.msa.faa{7.95547},
+    WAG+I{0.320959}+G4{0.848347}: OG_208.msa.faa{3.13654},
+    WAG+F+R3{0.375447,0.0690533,0.439113,1.02068,0.18544,2.83585}: OG_209.msa.faa{6.82477},
+    LG+F+G4{0.463417}: OG_210.msa.faa{4.73031},
+    WAG+F+G4{0.781571}: OG_211.msa.faa{7.20131},
+    LG+G4{0.272531}: OG_214.msa.faa{3.98883},
+    WAG+F+G4{1.05935}: OG_217.msa.faa{8.74108},
+    WAG+R3{0.57856,0.135293,0.360608,1.54773,0.0608316,5.97717}: OG_219.msa.faa{3.63422},
+    LG+F+R3{0.505653,0.0752027,0.40836,1.21316,0.0859869,5.42602}: OG_220.msa.faa{2.52987},
+    LG+F+G4{0.69182}: OG_225.msa.faa{5.5674},
+    WAG+F+G4{0.671688}: OG_226.msa.faa{4.39257},
+    LG+F+G4{0.685533}: OG_227.msa.faa{4.10655},
+    LG+G4{0.453861}: OG_228.msa.faa{2.35861},
+    LG+F+G4{0.478782}: OG_233.msa.faa{3.5215},
+    LG+G4{0.496806}: OG_236.msa.faa{4.03847},
+    WAG+I{0.171523}+R2{0.716661,0.861011,0.111816,3.42479}: OG_243.msa.faa{6.27826},
+    WAG+G4{0.972494}: OG_245.msa.faa{5.00603},
+    WAG+F+I{0.196988}+R2{0.321462,0.425342,0.48155,1.79269}: OG_284.msa.faa{5.96942},
+    LG+F+I{0.0741295}+G4{1.60186}: OG_351.msa.faa{7.09113};
+end;

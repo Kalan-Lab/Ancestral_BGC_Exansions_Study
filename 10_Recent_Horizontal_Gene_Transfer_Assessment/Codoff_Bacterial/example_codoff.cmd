@@ -1,0 +1,1 @@
+codoff -g antiSMASH_Order_Full_Results/GCA_000196255.1_ASM19625v1/GCA_000196255.1_ASM19625v1.gbk -f antiSMASH_Order_Full_Results/GCA_000196255.1_ASM19625v1/CR354532.1.region003.gbk -o codoff_results_v1.2.3/CR354532.1.region003.txt

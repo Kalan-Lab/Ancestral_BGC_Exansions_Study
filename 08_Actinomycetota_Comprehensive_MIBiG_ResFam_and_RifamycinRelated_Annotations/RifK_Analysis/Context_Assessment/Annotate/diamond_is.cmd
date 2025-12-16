@@ -1,0 +1,1 @@
+diamond blastp --query IS.faa --very-sensitive --db All_Context_Proteins.dmnd --out IS_Annotation.txt --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp --evalue 1e-20

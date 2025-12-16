@@ -1,0 +1,43 @@
+BGC0000106	Streptomyces	naphthomycin A
+BGC0000136	Amycolatopsis	rifamycin
+BGC0000137	Micromonospora	rifamycin
+BGC0000141	Streptomyces	rubradirin	
+BGC0000957	Streptomyces	mycotrienin I
+BGC0001287	Streptomyces	chaxamycin A
+BGC0001666	Micromonospora	microansamycin A
+BGC0001759	Amycolatopsis	rifamorpholine A
+BGC0001785	Streptomyces	streptovaricin
+BGC0002009	Amycolatopsis	kanglemycin A
+BGC0002453	Streptomyces	ansaseomycin A
+GCA_000196835	Amycolatopsis	HQ - Complete
+GCA_000220945	Amycolatopsis	HQ - Complete
+GCA_000282715	Amycolatopsis	HQ - Complete
+GCA_000384275	Micromonospora	HQ
+GCA_000454025	Amycolatopsis	HQ - Complete
+GCA_000695625	Amycolatopsis	LQ
+GCA_000696405	Amycolatopsis	LQ
+GCA_000700945	Amycolatopsis	LQ
+GCA_000716785	Amycolatopsis	LQ
+GCA_001013905	Streptomyces	HQ - Complete
+GCA_001514035	Streptomyces	LQ
+GCA_001660045	Streptomyces	HQ - Complete
+GCA_001742805	Amycolatopsis	LQ
+GCA_001746425	Streptomyces	HQ
+GCA_004364395	Streptomyces	HQ
+GCA_004794975	Streptomyces	LQ
+GCA_011765705	Micromonospora	LQ
+GCA_011765725	Micromonospora	LQ
+GCA_011765735	Micromonospora	LQ
+GCA_013364075	Amycolatopsis	HQ - Complete
+GCA_014203355	Kutzneria	HQ
+GCA_014648855	Streptomyces	LQ
+GCA_017308975	Amycolatopsis	LQ
+GCA_017948485	Streptomyces	LQ
+GCA_020884795	Micromonospora	LQ
+GCA_020907265	Streptomyces	LQ
+GCA_021056305	Actinokineospora	LQ
+GCA_022696125	Streptomyces	HQ
+GCA_024611995	Streptomyces	HQ - Complete
+GCA_900090265	Micromonospora	HQ - Complete (Chromosome)
+GCA_900105265	Streptomyces	HQ
+GCA_900105945	Amycolatopsis	HQ

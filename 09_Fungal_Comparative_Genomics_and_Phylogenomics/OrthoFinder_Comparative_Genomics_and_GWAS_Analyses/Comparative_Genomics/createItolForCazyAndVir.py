@@ -4,7 +4,7 @@ from collections import defaultdict
 
 select_file = 'Carbo_and_Virulence_Select.txt'
 og_file = 'Orthogroups.tsv'
-ov_file = '../../Overview_File.txt'
+ov_file = '../../Overview_File_with_Corrected_N50s.txt'
 
 naming = {}
 with open(ov_file) as ovf:

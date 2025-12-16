@@ -1,0 +1,1 @@
+Notes, hygrocin is regarded as naph by review by Kang, Shen, Bai 2011 but does not appear to be naph by structural analysis and phylogeny and RifK for it is located outside of the subclade for naph ansamycins.

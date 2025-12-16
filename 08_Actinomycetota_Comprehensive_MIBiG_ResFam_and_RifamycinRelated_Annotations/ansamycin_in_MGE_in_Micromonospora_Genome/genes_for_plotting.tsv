@@ -1,0 +1,69 @@
+locus_tag	start	end	strand	manual_annotation	conserved	molecule
+AAAC_000067	76733	78971	-	Other	No	Cluster
+AAAC_000068	79471	79783	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000069	80291	80477	+	Other	No	Cluster
+AAAC_000070	80469	80673	+	Other	No	Cluster
+AAAC_000071	80752	81229	+	Other	No	Cluster
+AAAC_000072	81698	82148	-	Other	No	Cluster
+AAAC_000073	82289	82901	-	Other	No	Cluster
+AAAC_000074	83031	83541	+	Other	No	Cluster
+AAAC_000075	84143	84620	+	Other	No	Cluster
+AAAC_000076	84900	85650	+	Putative phage integrase	No	Cluster
+AAAC_000077	85840	86098	-	Other	No	Cluster
+AAAC_000078	86117	86495	+	Other	No	Cluster
+AAAC_000079	86636	88001	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000080	88266	89034	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000081	89421	90279	+	Reverse transcriptase 	No	Cluster
+AAAC_000082	90256	91213	+	Other	No	Cluster
+AAAC_000083	91216	92104	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000084	92378	93662	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000085	93890	95024	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000086	95215	95746	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000087	95736	96714	+	Transposase / Putative Transposase	No	Cluster
+AAAC_000088	96550	97303	-	Other	Yes	Cluster
+AAAC_000089	97318	98218	-	Other	Yes	Cluster
+AAAC_000090	98193	98883	-	AHBA synthesis	Yes	Cluster
+AAAC_000091	98945	100004	-	AHBA synthesis	Yes	Cluster
+AAAC_000092	100000	101254	-	AHBA synthesis	Yes	Cluster
+AAAC_000093	101250	102429	-	AHBA synthesis	Yes	Cluster
+AAAC_000094	102425	103487	-	AHBA synthesis	Yes	Cluster
+AAAC_000095	103512	119010	-	PKS	Yes	Cluster
+AAAC_000096	119864	121154	+	Other	Yes	Cluster
+AAAC_000097	121216	122374	+	Other	No	Cluster
+AAAC_000098	122407	124003	-	Other	No	Cluster
+AAAC_000099	123996	124746	-	Other	No	Cluster
+AAAC_000100	124742	126005	-	Other	No	Cluster
+AAAC_000101	126192	126867	-	Other	No	Cluster
+AAAC_000102	126965	128042	-	Other	No	Cluster
+AAAC_000103	128072	129359	-	Other	No	Cluster
+AAAC_000104	129348	130179	-	Other	Yes	Cluster
+AAAC_000105	130209	145161	-	PKS	Yes	Cluster
+AAAC_000106	145251	146535	-	Cytochrome P450	No	Cluster
+AAAC_000107	146513	147227	-	Other	No	Cluster
+AAAC_000108	147223	147427	-	Other	No	Cluster
+AAAC_000109	147440	148685	-	Cytochrome P450	No	Cluster
+AAAC_000110	148681	152614	-	NRPS(-like)	No	Cluster
+AAAC_000111	152679	153480	-	Other	No	Cluster
+AAAC_000112	153476	154529	-	Other	No	Cluster
+AAAC_000113	154578	156105	-	Other	Yes	Cluster
+AAAC_000114	156101	157304	-	Cytochrome 450	Yes	Cluster
+AAAC_000115	157446	158430	+	Other	No	Cluster
+AAAC_000116	158786	160160	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000117	160671	162198	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000118	162483	163977	+	Other	No	Cluster
+AAAC_000119	164275	164986	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000120	165058	165301	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000121	165570	165798	-	Transposase / Putative Transposase	No	Cluster
+AAAC_000122	165892	166030	-	Other	No	Cluster
+AAAC_000123	166026	166473	-	Other	No	Cluster
+AAAC_000124	166632	166845	+	Other	No	Cluster
+AAAC_000125	166812	167919	-	Other	No	Cluster
+AAAC_000126	167915	168749	-	Other	No	Cluster
+AAAC_000127	168745	169597	-	Other	No	Cluster
+AAAC_000128	169593	171039	-	Other	No	Cluster
+AAAC_000129	171044	172127	-	Other	No	Cluster
+AAAC_000130	172137	172653	-	Other	No	Cluster
+AAAC_000131	172682	173498	-	Other	No	Cluster
+AAAC_000132	173511	174819	-	Other	No	Cluster
+AAAC_000133	174815	175121	-	Other	No	Cluster
+AAAC_000134	175406	175892	-	Transposase / Putative Transposase	No	Cluster

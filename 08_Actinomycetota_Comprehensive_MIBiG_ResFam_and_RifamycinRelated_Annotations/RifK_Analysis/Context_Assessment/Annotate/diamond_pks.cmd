@@ -1,0 +1,1 @@
+diamond blastp --query PKS_Proteins.faa --very-sensitive --db All_Context_Proteins.dmnd --out PKS_Annotation.txt --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp slen --evalue 1e-20

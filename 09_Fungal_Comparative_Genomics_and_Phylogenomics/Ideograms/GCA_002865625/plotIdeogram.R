@@ -20,9 +20,9 @@ mutate(bgc.dat, Chr = factor(Chrom)) %>%
                   show.legend = FALSE) + scale_fill_manual(values=c('grey', 'gold')) + 
     geom_point(data = hi.dat,
                aes(x = Chrom, y = Position, 
-                   shape = Type, colour = Type), show.legend=F,
+                   colour = Type), show.legend=F,
                position = position_nudge(x = 0.0)) +
-    scale_colour_manual(values = c("#7A3E56", "#AA5ED6")) +
+    scale_colour_manual(values = c("#7A3E56", "#F2C2D9")) +
     scale_y_continuous(expand = expansion(mult = c(0, 0.01))) +
     theme(
         axis.title = element_blank(),

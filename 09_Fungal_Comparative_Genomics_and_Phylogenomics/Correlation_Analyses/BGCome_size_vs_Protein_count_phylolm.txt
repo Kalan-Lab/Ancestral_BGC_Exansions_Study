@@ -1,0 +1,53 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+Loading required package: ape
+
+Setting initial dates...
+Fitting in progress... get a first set of estimates
+         (Penalised) log-lik = -147.6131 
+Optimising rates... dates... -147.6131 
+Optimising rates... dates... -147.6122 
+Optimising rates... dates... -147.6111 
+Optimising rates... dates... -147.6106 
+Optimising rates... dates... -147.6104 
+Optimising rates... dates... -147.6103 
+Optimising rates... dates... -147.6103 
+Optimising rates... dates... -147.6102 
+
+log-Lik = -146.7607 
+PHIIC = 2177.66 
+Warning message:
+In phylolm(trait ~ pred, data = dat, phy = tree, model = "lambda") :
+  will drop from the tree 4 taxa with missing data
+
+Call:
+phylolm(formula = trait ~ pred, data = dat, phy = tree, model = "lambda")
+
+   AIC logLik 
+ 788.6 -390.3 
+
+Raw residuals:
+    Min      1Q  Median      3Q     Max 
+-2.7818 -0.0173  0.3937  1.3080  6.0422 
+
+Mean tip height: 1
+Parameter estimate(s) using ML:
+lambda : 0.7514755
+sigma2: 1.200669 
+
+Coefficients:
+               Estimate      StdErr t.value p.value    
+(Intercept) -0.84456036  0.33918602 -2.4900  0.0133 *  
+pred         0.00012082  0.00001351  8.9433  <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+R-squared: 0.2051	Adjusted R-squared: 0.2025 
+
+Note: p-values and R-squared are conditional on lambda=0.7514755.

@@ -1,0 +1,17 @@
+HET	7912
+Het-C	386
+ATP-cone|Ribonuc_red_lgN|Ribonuc_red_lgC	324
+HMG_box	3138
+MAT1-1-2	7
+Patatin|NB-ARC	30
+HeLo|HET-s_218-289	12
+HET|NACHT|WD40	105
+SET|Rubis-subs-bind|zf-MYND	19
+Peptidase_S8	1701
+GLTP	351
+RVT_2	440
+SERF-like_N	232
+CYSTM	114
+Ccdc124	322
+Fructosamin_kin	447
+Patatin|TPR_10	2

@@ -1,0 +1,193 @@
+group	genome	hi_prop
+Agaricomycetes or BGC-rich Pezizomycotina	Laccaria_GCF_000143565.1	0.0007118996769070697
+Agaricomycetes or BGC-rich Pezizomycotina	Phyllosticta_GCA_001604925.1	0.0036425969573601886
+Agaricomycetes or BGC-rich Pezizomycotina	Neolentinus_GCA_001632425.1	0.0008360568518659269
+Agaricomycetes or BGC-rich Pezizomycotina	Valsa_GCA_003795315.1	0.007291666666666667
+Agaricomycetes or BGC-rich Pezizomycotina	Schizopora_GCA_001020605.1	0.0021651354672596406
+Other fungi	Rhizophlyctis_GCA_027596075.1	0.002863733990931509
+Agaricomycetes or BGC-rich Pezizomycotina	Cordyceps_GCF_001636725.1	0.002584236159427492
+Agaricomycetes or BGC-rich Pezizomycotina	Neofusicoccum_GCA_000385595.1	0.003569705740472745
+Agaricomycetes or BGC-rich Pezizomycotina	Exidia_GCA_001632375.1	0.0005994754589733983
+Agaricomycetes or BGC-rich Pezizomycotina	Collybiopsis_GCA_000827265.1	0.005080286673319423
+Agaricomycetes or BGC-rich Pezizomycotina	Porodaedalea_GCA_002794775.1	0.001755926251097454
+Agaricomycetes or BGC-rich Pezizomycotina	Baudoinia_GCF_000338955.1	0.004190476190476191
+Other fungi	Syncephalis_GCA_025786725.1	0.00011305822498586772
+Agaricomycetes or BGC-rich Pezizomycotina	Ramalina_GCA_001956345.1	0.006541077969649398
+Agaricomycetes or BGC-rich Pezizomycotina	Trichophyton_GCA_003118255.1	0.0007663814024779665
+Agaricomycetes or BGC-rich Pezizomycotina	Podospora_GCA_900290415.1	0.011116293532338308
+Agaricomycetes or BGC-rich Pezizomycotina	Hericium_GCA_003675405.1	0.0005510400881664141
+Agaricomycetes or BGC-rich Pezizomycotina	Neurospora_GCA_000182925.2	0.00432744320230797
+Other fungi	Stromatinia_GCA_002162485.1	0.00472918711519586
+Other fungi	Erythrobasidium_GCA_001600175.1	0.00012729124236252545
+Other fungi	Ascobolus_GCA_003788565.2	0.0015663459386887446
+Agaricomycetes or BGC-rich Pezizomycotina	Aeminium_GCA_004216415.1	0.0004927322000492732
+Agaricomycetes or BGC-rich Pezizomycotina	Uncinocarpus_GCA_000003515.2	0.0002577319587628866
+Agaricomycetes or BGC-rich Pezizomycotina	Volvariella_GCA_000349905.1	0.007593334739506433
+Agaricomycetes or BGC-rich Pezizomycotina	Sarcodon_GCA_003313825.1	0.01709638665557712
+Other fungi	Cystobasidiopsis_GCA_001599975.1	0.0002486325211337643
+Agaricomycetes or BGC-rich Pezizomycotina	Piloderma_GCA_000827315.1	0.0041349191600074334
+Agaricomycetes or BGC-rich Pezizomycotina	Calocera_GCA_001630345.1	0.001455957291919437
+Agaricomycetes or BGC-rich Pezizomycotina	Reticulascus_GCA_001557505.1	0.02295270104106894
+Agaricomycetes or BGC-rich Pezizomycotina	Amorphotheca_GCF_003019875.1	0.0021779713752333543
+Other fungi	Physocladia_GCA_027596945.1	0.0025015634771732333
+Agaricomycetes or BGC-rich Pezizomycotina	Periconia_GCA_003073855.1	0.010461702695489725
+Other fungi	Cryptococcus_GCA_001720245.1	0.00017158544955387783
+Agaricomycetes or BGC-rich Pezizomycotina	Coprinopsis_GCF_000182895.1	0.001722072476789458
+Other fungi	Phlyctochytrium_GCA_025602905.1	9.122422915526363e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Knoxdaviesia_GCA_001510565.1	0.0026677899466442012
+Agaricomycetes or BGC-rich Pezizomycotina	Ramularia_GCA_004155245.1	0.0034640855832908813
+Agaricomycetes or BGC-rich Pezizomycotina	Clohesyomyces_GCA_002105025.1	0.016191259249889317
+Agaricomycetes or BGC-rich Pezizomycotina	Fragosphaeria_GCA_002778095.1	0.00277069710739222
+Agaricomycetes or BGC-rich Pezizomycotina	Verruconis_GCA_000836295.1	0.010231556273559504
+Agaricomycetes or BGC-rich Pezizomycotina	Cyanodermella_GCA_900618795.1	0.007601791106945746
+Agaricomycetes or BGC-rich Pezizomycotina	Ganoderma_GCA_002760635.1	0.008592841452384028
+Other fungi	Synchytrium_GCF_006535985.1	0.0011104060913705585
+Agaricomycetes or BGC-rich Pezizomycotina	Tolypocladium_GCA_002916505.1	0.001900688999762414
+Agaricomycetes or BGC-rich Pezizomycotina	Amanita_GCA_002554575.1	0.00038662284941040013
+Agaricomycetes or BGC-rich Pezizomycotina	Stereum_GCF_000264905.1	0.001422070534698521
+Agaricomycetes or BGC-rich Pezizomycotina	Tulasnella_GCA_000827465.1	0.002608162012887389
+Agaricomycetes or BGC-rich Pezizomycotina	Lepidopterella_GCA_001692735.1	0.024529254743525
+Agaricomycetes or BGC-rich Pezizomycotina	Steccherinum_GCA_004332605.1	0.0001631321370309951
+Agaricomycetes or BGC-rich Pezizomycotina	Hebeloma_GCA_000827355.1	0.004292403746097815
+Other fungi	Morchella_GCA_003790465.1	0.0019839558354179244
+Agaricomycetes or BGC-rich Pezizomycotina	Thermothielavioides_GCF_000226115.1	0.0035706998571720058
+Other fungi	Tuber_GCF_000151645.1	0.00013477088948787063
+Other fungi	Terfezia_GCA_003788615.2	0.0013212221304706854
+Agaricomycetes or BGC-rich Pezizomycotina	Elaphomyces_GCA_002240705.1	0.006837961044343141
+Agaricomycetes or BGC-rich Pezizomycotina	Helminthosporium_GCA_000498615.1	0.0033945686900958465
+Agaricomycetes or BGC-rich Pezizomycotina	Hyaloscypha_GCA_002865625.1	0.0372400643508312
+Agaricomycetes or BGC-rich Pezizomycotina	Cyphellophora_GCA_000365145.2	0.006129439336578331
+Other fungi	Polychytrium_GCF_025602895.1	0.00046860356138706655
+Agaricomycetes or BGC-rich Pezizomycotina	Corinectria_GCA_003385255.1	0.004335677810964447
+Agaricomycetes or BGC-rich Pezizomycotina	Ophiognomonia_GCA_003671545.1	0.004254048809612658
+Agaricomycetes or BGC-rich Pezizomycotina	Glonium_GCA_001692915.1	0.02088167053364269
+Other fungi	Dinochytrium_GCA_027604005.1	0.0001936108422071636
+Other fungi	Mucor_GCA_000401635.1	8.178621084485155e-05
+Other fungi	Coemansia_GCA_002705745.1	0.00013622122326658494
+Agaricomycetes or BGC-rich Pezizomycotina	Leptoxyphium_GCA_001660795.1	0.0029955067398901645
+Agaricomycetes or BGC-rich Pezizomycotina	Fibroporia_GCF_000313525.1	0.002613240418118467
+Agaricomycetes or BGC-rich Pezizomycotina	Hygrophorus_GCA_003314125.1	0.0035745100456058177
+Agaricomycetes or BGC-rich Pezizomycotina	Phialocephala_GCA_900073065.1	0.029445298170822386
+Agaricomycetes or BGC-rich Pezizomycotina	Thielaviopsis_GCA_000968615.1	0.0007557150954090308
+Other fungi	Nowakowskiella_GCA_027600645.1	0.004803073967339097
+Agaricomycetes or BGC-rich Pezizomycotina	Xylona_GCF_001619985.1	0.0006096817461285209
+Agaricomycetes or BGC-rich Pezizomycotina	Gymnopilus_GCA_002938385.1	0.005178153125385279
+Other fungi	Phycomyces_GCA_001638985.2	6.044852807834129e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Grifola_GCA_001683735.1	0.0021278010506017688
+Other fungi	Basidiobolus_GCA_002104905.1	0.00018621973929236498
+Other fungi	Cladochytrium_GCA_025526935.1	0.001349279362158847
+Agaricomycetes or BGC-rich Pezizomycotina	Pseudopyrenochaeta_GCA_003313425.1	0.02255425115617218
+Agaricomycetes or BGC-rich Pezizomycotina	Colletotrichum_GCA_001563115.1	0.009687086208098125
+Agaricomycetes or BGC-rich Pezizomycotina	Talaromyces_GCA_001270325.1	0.0009657170449058426
+Agaricomycetes or BGC-rich Pezizomycotina	Pseudogymnoascus_GCF_001662655.1	0.004305100608329434
+Agaricomycetes or BGC-rich Pezizomycotina	Panaeolus_GCA_002938355.1	0.0020864381520119225
+Other fungi	Sporopachydermia_GCA_003705295.1	0.0001880759826970096
+Other fungi	Orbilia_GCF_000225545.1	0.003745970903388797
+Other fungi	Rhizoclosmatium_GCA_002104985.1	0.0007064641469445425
+Other fungi	Borealophlyctis_GCA_027604605.1	0.0015073594608973223
+Other fungi	Entophlyctis_GCA_027604725.1	0.002680965147453083
+Agaricomycetes or BGC-rich Pezizomycotina	Proliferodiscus_GCA_003988795.1	0.01417607223476298
+Agaricomycetes or BGC-rich Pezizomycotina	Ustulina_GCA_002081935.3	0.013430608522633062
+Agaricomycetes or BGC-rich Pezizomycotina	Aureobasidium_GCF_000721755.1	0.00018532246108228317
+Agaricomycetes or BGC-rich Pezizomycotina	Clonostachys_GCA_000963775.2	0.011869436201780416
+Agaricomycetes or BGC-rich Pezizomycotina	Hymenoscyphus_GCA_900536445.1	0.008697027197975965
+Agaricomycetes or BGC-rich Pezizomycotina	Candolleomyces_GCA_004126415.1	0.030129905461470447
+Other fungi	Chytriomyces_GCA_025435555.1	0.00045117628101836935
+Other fungi	Gonapodya_GCA_001574975.1	7.230135203528306e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Eutypa_GCA_000349385.1	0.00659981143395903
+Other fungi	Quaeritorhiza_GCA_027596845.1	0.0005101668974564536
+Agaricomycetes or BGC-rich Pezizomycotina	Graphilbum_GCA_001513895.1	0.0029066246820879252
+Agaricomycetes or BGC-rich Pezizomycotina	Armillaria_GCA_002307695.1	0.002374002724265421
+Other fungi	Geranomyces_GCA_027603065.1	0.0003383713061132416
+Agaricomycetes or BGC-rich Pezizomycotina	Ascochyta_GCA_004335205.1	0.0035325568073324423
+Agaricomycetes or BGC-rich Pezizomycotina	Epichloe_GCA_002591845.1	0.0006928086462519052
+Agaricomycetes or BGC-rich Pezizomycotina	Ophioceras_GCA_003049485.1	0.010670591481924386
+Agaricomycetes or BGC-rich Pezizomycotina	Pseudomassariella_GCF_002105095.1	0.004218401782871697
+Agaricomycetes or BGC-rich Pezizomycotina	Botryobasidium_GCA_000697705.1	0.0036357025995273585
+Agaricomycetes or BGC-rich Pezizomycotina	Albatrellus_GCA_003314395.1	0.0045927209705372615
+Agaricomycetes or BGC-rich Pezizomycotina	Chaetoscypha_GCA_003988945.1	0.00846968238691049
+Agaricomycetes or BGC-rich Pezizomycotina	Fonsecaea_GCF_000836435.1	0.008084727948904519
+Agaricomycetes or BGC-rich Pezizomycotina	Parastagonospora_GCA_000146915.2	0.007235637695057101
+Agaricomycetes or BGC-rich Pezizomycotina	Punctularia_GCF_000264995.1	0.001126711735136072
+Agaricomycetes or BGC-rich Pezizomycotina	Cryphonectria_GCA_003264845.1	0.008689152574044661
+Other fungi	Chytridium_GCA_025449115.1	0.00014012471099278357
+Other fungi	Linnemannia_GCA_001651415.1	0.003141501236548359
+Other fungi	Siphonaria_GCA_027596065.1	0.0014231499051233396
+Other fungi	Kockovaella_GCF_002102565.1	0.00027056277056277056
+Other fungi	Anaeromyces_GCA_002104895.1	7.79423226812159e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Hortaea_GCA_002127715.1	0.0031370038412291933
+Agaricomycetes or BGC-rich Pezizomycotina	Phanerodontia_GCA_001910725.1	0.000980392156862745
+Agaricomycetes or BGC-rich Pezizomycotina	Paecilomyces_GCA_003990805.1	0.0010707911957168353
+Agaricomycetes or BGC-rich Pezizomycotina	Paramyrothecium_GCA_003012165.1	0.012632563942607611
+Other fungi	Umbelopsis_GCA_000697415.1	0.00012253400318588408
+Other fungi	Obelidium_GCA_025765595.1	0.0008408796895213454
+Agaricomycetes or BGC-rich Pezizomycotina	Phaeoacremonium_GCF_000392275.1	0.0020375820692777906
+Agaricomycetes or BGC-rich Pezizomycotina	Umbilicaria_GCA_000611775.1	0.0016696481812760882
+Agaricomycetes or BGC-rich Pezizomycotina	Pestalotiopsis_GCF_000516985.1	0.020242652306494517
+Agaricomycetes or BGC-rich Pezizomycotina	Heterobasidion_GCA_002994785.1	0.0028429282160625444
+Agaricomycetes or BGC-rich Pezizomycotina	Gyalolechia_GCA_000442125.1	0.007818052594171997
+Agaricomycetes or BGC-rich Pezizomycotina	Aspergillus_GCA_003574815.1	0.0020191822311963654
+Agaricomycetes or BGC-rich Pezizomycotina	Bipolaris_GCF_000354255.1	0.008107044470680834
+Other fungi	Piromyces_GCA_002157105.1	6.84369011771147e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Fistulina_GCA_000934395.1	0.0005336179295624333
+Agaricomycetes or BGC-rich Pezizomycotina	Thelephora_GCA_003316405.1	0.00320786997433704
+Agaricomycetes or BGC-rich Pezizomycotina	Corynespora_GCA_003016335.1	0.01084042429187551
+Agaricomycetes or BGC-rich Pezizomycotina	Pleurotus_GCA_003313735.1	0.004089808864034722
+Agaricomycetes or BGC-rich Pezizomycotina	Elsinoe_GCA_003013795.1	0.0011898323418063819
+Agaricomycetes or BGC-rich Pezizomycotina	Pisolithus_GCA_000827335.1	0.010329757647993643
+Agaricomycetes or BGC-rich Pezizomycotina	Endocalyx_GCA_001600455.1	0.010476486108955456
+Other fungi	Arthrobotrys_GCA_004000055.1	0.0013531799729364006
+Agaricomycetes or BGC-rich Pezizomycotina	Jaapia_GCA_000697665.1	0.0012213740458015267
+Agaricomycetes or BGC-rich Pezizomycotina	Rhizoctonia_GCA_000524645.1	0.003814006329627526
+Agaricomycetes or BGC-rich Pezizomycotina	Coprinus_GCA_003316025.1	0.0021345916189192226
+Other fungi	Acaromyces_GCF_003144295.1	0.000124595066035385
+Agaricomycetes or BGC-rich Pezizomycotina	Phlebopus_GCA_000766925.2	0.008449363322622873
+Agaricomycetes or BGC-rich Pezizomycotina	Endocarpon_GCF_000464535.1	0.016129032258064516
+Other fungi	Chytridiales_GCA_027604305.1	0.0003436032527774596
+Other fungi	Spizellomyces_GCA_000182565.2	0.0002580978190734288
+Other fungi	Neocallimastix_GCA_002104975.1	4.947066389630949e-05
+Other fungi	Blyttiomyces_GCA_027604625.1	0.0003600230414746544
+Agaricomycetes or BGC-rich Pezizomycotina	Plenodomus_GCA_900465125.1	0.0050289712474035205
+Agaricomycetes or BGC-rich Pezizomycotina	Verticillium_GCA_000732205.1	0.004803921568627451
+Other fungi	Podochytrium_GCA_027596195.1	0.0009964294610977332
+Agaricomycetes or BGC-rich Pezizomycotina	Sphaerobolus_GCA_000827215.1	0.0032119610016770415
+Other fungi	Hesseltinella_GCA_002104935.1	8.977466558937069e-05
+Other fungi	Paraphysoderma_GCA_025602915.1	9.210647508519849e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Ramichloridium_GCA_002368545.1	0.012423763270838039
+Agaricomycetes or BGC-rich Pezizomycotina	Paraphaeosphaeria_GCF_001642045.1	0.013031084566309217
+Agaricomycetes or BGC-rich Pezizomycotina	Knufia_GCA_002319055.1	0.003941621391285821
+Agaricomycetes or BGC-rich Pezizomycotina	Emmonsia_GCA_002572855.1	0.0016838796587337224
+Other fungi	Zopfochytrium_GCA_025765615.1	0.0014467418168665983
+Agaricomycetes or BGC-rich Pezizomycotina	Diaporthe_GCA_001447215.1	0.005692745595815063
+Agaricomycetes or BGC-rich Pezizomycotina	Auricularia_GCA_000265015.1	0.00025470136265229017
+Other fungi	Symbiotaphrina_GCA_001599915.1	0.0016213086276780544
+Agaricomycetes or BGC-rich Pezizomycotina	Venturia_GCA_000738655.1	0.0064802814293649326
+Other fungi	Linderina_GCF_002104995.1	0.000106951871657754
+Agaricomycetes or BGC-rich Pezizomycotina	Trametes_GCA_001895945.1	0.007852129803349315
+Agaricomycetes or BGC-rich Pezizomycotina	Paxillus_GCA_000827475.1	0.006231884057971014
+Agaricomycetes or BGC-rich Pezizomycotina	Beverwykella_GCA_001599595.1	0.017385203087237858
+Other fungi	Meira_GCF_003144205.1	0.00013433637829124128
+Other fungi	Saksenaea_GCA_000697055.1	0.0002635509092506369
+Agaricomycetes or BGC-rich Pezizomycotina	Chlorencoelia_GCA_003988815.1	0.00461010299166258
+Agaricomycetes or BGC-rich Pezizomycotina	Scedosporium_GCA_000812075.1	0.009394363381970817
+Agaricomycetes or BGC-rich Pezizomycotina	Arthonia_GCA_002989075.1	0.0027863777089783283
+Agaricomycetes or BGC-rich Pezizomycotina	Evernia_GCA_003184365.1	0.00894648829431438
+Agaricomycetes or BGC-rich Pezizomycotina	Trichoderma_GCF_001481775.2	0.011100170083251275
+Agaricomycetes or BGC-rich Pezizomycotina	Monilinia_GCA_002162545.1	0.004848860002063344
+Agaricomycetes or BGC-rich Pezizomycotina	Cladonia_GCA_002927785.1	0.011603689378161261
+Agaricomycetes or BGC-rich Pezizomycotina	Serendipita_GCA_000313545.1	0.012029820399864452
+Agaricomycetes or BGC-rich Pezizomycotina	Pseudophaeomoniella_GCA_003868215.1	0.006954570947840718
+Agaricomycetes or BGC-rich Pezizomycotina	Microdochium_GCA_001566295.1	0.010482339536650209
+Other fungi	Irineochytrium_GCA_027600665.1	0.0003359932801343973
+Agaricomycetes or BGC-rich Pezizomycotina	Coniella_GCA_003019895.1	0.0029167403217252963
+Agaricomycetes or BGC-rich Pezizomycotina	Hysterium_GCA_000467715.1	0.012633935710858787
+Agaricomycetes or BGC-rich Pezizomycotina	Coniochaeta_GCA_002798055.1	0.004761432397579605
+Other fungi	Gigaspora_GCA_003550325.1	0.00025602457835952253
+Other fungi	Bifiguratus_GCA_002261195.1	0.00035106196243637
+Agaricomycetes or BGC-rich Pezizomycotina	Cladosporium_GCA_000261425.2	0.0013360053440213762
+Other fungi	Thoreauomyces_GCA_027596035.1	0.00010634903754121025
+Other fungi	Fimicolochytrium_GCF_025526975.1	9.935419771485345e-05
+Agaricomycetes or BGC-rich Pezizomycotina	Scleroderma_GCA_000827425.1	0.009859490354846392
+Agaricomycetes or BGC-rich Pezizomycotina	Plicaturopsis_GCA_000827205.1	0.0005875009179701844
+Agaricomycetes or BGC-rich Pezizomycotina	Coniophora_GCF_000271625.1	0.006978772899098575
+Agaricomycetes or BGC-rich Pezizomycotina	Serpula_GCA_000218685.1	0.0031081641110650643

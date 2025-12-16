@@ -7,47 +7,51 @@ import numpy
 from Bio import SeqIO
 import gzip
 from collections import defaultdict
+import math
+
+atcg = set(['A', 'C', 'G', 'T'])
 
 def n50_calc(genome_file):
-	#Solution adapted from dinovski:
-	#https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5dbe53c
-	lengths = []
-	seq = ""	
-	if genome_file.endswith('.gz'):
-		with gzip.open(genome_file, 'rt') as fasta:
-			for line in fasta:
-				if line.startswith('>'):
-					if seq != "":
-						lengths.append(len(seq))
-					seq = ""
-				else:
-					seq += line.strip()
-		if seq != "":
-			lengths.append(len(seq))
-	else:	
-		with open(genome_file) as fasta:
-			for line in fasta:
-				if line.startswith('>'):
-					if seq != "":
-						lengths.append(len(seq))
-					seq = ""
-				else:
-					seq += line.strip()
-		if seq != "":
-			lengths.append(len(seq))
+    #Solution adapted from dinovski:
+    #https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5dbe53c
+    lengths = []
+    seq = ""
+    if genome_file.endswith('.gz'):
+        with gzip.open(genome_file, 'rt') as fasta:
+            for line in fasta:
+                if line.startswith('>'):
+                    if seq != "" and len(seq) >= 500:
+                        lengths.append(len(seq))
+                    seq = ""
+                else:
+                    seq += line.strip()
+        if seq != "" and len(seq) >= 500:
+            lengths.append(len(seq))
+    else:
+        with open(genome_file) as fasta:
+            for line in fasta:
+                if line.startswith('>'):
+                    seq = ''.join([x for x in seq if x.upper() in atcg])
+                    if seq != "" and len(seq) >= 500:
+                        lengths.append(len(seq))
+                    seq = ""
+                else:
+                    seq += line.strip()
+        seq = ''.join([x for x in seq if x.upper() in atcg])
+        if seq != "" and len(seq) >= 500:
+            lengths.append(len(seq))
 
-	## sort contigs longest>shortest
-	all_len=sorted(lengths, reverse=True)
-	csum=numpy.cumsum(all_len)
+    ## sort contigs longest>shortest
+    all_len=sorted(lengths, reverse=True)
+    csum=numpy.cumsum(all_len)
 
-	n2=int(sum(lengths)/2)
+    n2=math.floor(sum(lengths)/2)
 
-	# get index for cumsum >= N/2
-	csumn2=min(csum[csum >= n2])
-	ind=numpy.where(csum == csumn2)
-	n50 = all_len[int(ind[0])]
-	return(n50)
-
+    # get index for cumsum >= N/2
+    csumn2=min(csum[csum >= n2])
+    ind=numpy.where(csum == csumn2)
+    n50 = all_len[int(ind[0])]
+    return(n50)
 
 taxid_to_name = {}
 taxid_to_genus = {}
@@ -107,7 +111,10 @@ with open('Modified_Previous_Overview_File.txt') as ompof:
 
         taxonomy = gca_to_taxonomy[gca]
         name = gca_to_genus[gca] + '_' + version_info
-        n50 = n50_calc(fasta_file)
+        n50 = "NA"
+        if fasta_file != 'Not found':
+            n50 = n50_calc(fasta_file)
+
         new_ls = [gca, name, taxonomy, annot_method, version_info, str(n50), fasta_file, gff_file]
         print('\t'.join(new_ls))
 

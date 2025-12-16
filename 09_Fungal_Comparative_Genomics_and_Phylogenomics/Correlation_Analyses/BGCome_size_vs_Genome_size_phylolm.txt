@@ -1,0 +1,45 @@
+Loading required package: ape
+
+Setting initial dates...
+Fitting in progress... get a first set of estimates
+         (Penalised) log-lik = -147.6131 
+Optimising rates... dates... -147.6131 
+Optimising rates... dates... -147.6122 
+Optimising rates... dates... -147.6111 
+Optimising rates... dates... -147.6106 
+Optimising rates... dates... -147.6104 
+Optimising rates... dates... -147.6103 
+Optimising rates... dates... -147.6103 
+Optimising rates... dates... -147.6102 
+
+log-Lik = -146.7607 
+PHIIC = 2177.66 
+Warning message:
+In phylolm(trait ~ pred, data = dat, phy = tree, model = "lambda") :
+  will drop from the tree 4 taxa with missing data
+
+Call:
+phylolm(formula = trait ~ pred, data = dat, phy = tree, model = "lambda")
+
+   AIC logLik 
+ 847.3 -419.6 
+
+Raw residuals:
+    Min      1Q  Median      3Q     Max 
+-2.5384 -0.1219  0.2062  1.3373  6.2752 
+
+Mean tip height: 1
+Parameter estimate(s) using ML:
+lambda : 0.719224
+sigma2: 1.393329 
+
+Coefficients:
+             Estimate    StdErr t.value   p.value    
+(Intercept) 0.1858235 0.3338799  0.5566 0.5782311    
+pred        0.0065669 0.0018292  3.5900 0.0003843 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-squared: 0.03991	Adjusted R-squared: 0.03682 
+
+Note: p-values and R-squared are conditional on lambda=0.719224.

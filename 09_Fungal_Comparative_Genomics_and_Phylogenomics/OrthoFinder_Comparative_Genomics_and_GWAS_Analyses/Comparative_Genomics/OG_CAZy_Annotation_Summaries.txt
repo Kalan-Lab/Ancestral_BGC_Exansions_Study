@@ -1,0 +1,1673 @@
+OG0000004	no_cazy_match=5889; AA7=1; AA8=1; AA3_2=1; GT62=1; GH18=1; GH79=1
+OG0000005	no_cazy_match=5840; AA7=1
+OG0000006	no_cazy_match=5564; GH18=3; GH35=1; AA3_2=1
+OG0000008	no_cazy_match=5193; GH46=3; GH30_8=2; GT16=1; GH18=1; AA9=1; AA8=1; GH13_15=1
+OG0000009	no_cazy_match=4995; AA9=1
+OG0000014	no_cazy_match=4370; GT2_Chitin_synth_2=1; GT25=1; GH16_1=1; GT4=1; CE20=1; GT71=1
+OG0000016	no_cazy_match=3964; GH5_41=1
+OG0000017	no_cazy_match=3920; CBM21=4; GH135=1; AA7=1; AA11=1; CE1=1
+OG0000019	no_cazy_match=3877; AA7=1
+OG0000021	no_cazy_match=3832; GH5_15=1
+OG0000022	no_cazy_match=3795; AA3_2=1; GH27=1
+OG0000023	no_cazy_match=3793; GT32=2
+OG0000026	no_cazy_match=3577; CE3=1
+OG0000027	AA3_2=2746; no_cazy_match=399; AA3_3=376; AA3=21; AA3_1=2
+OG0000028	no_cazy_match=3270; GH71=1
+OG0000030	no_cazy_match=3090; GH5_50=1; GH18=1; AA3=1
+OG0000036	no_cazy_match=2890; GH16_19=1
+OG0000039	no_cazy_match=2802; GT47=1; GH17=1
+OG0000040	CE4=2403; no_cazy_match=374; CBM18=19; GH11=4; CBM50=3; GT2_Glycos_transf_2=1
+OG0000042	no_cazy_match=2717; GH114=1
+OG0000043	AA7=1587; no_cazy_match=1120
+OG0000046	no_cazy_match=2505; GH18=2
+OG0000047	AA1=903; AA1_3=535; AA1_2=476; AA1_1=368; no_cazy_match=210
+OG0000048	no_cazy_match=2484; AA8=1
+OG0000049	no_cazy_match=2469; AA8=1; AA7=1
+OG0000054	AA9=2216; no_cazy_match=90; CBM1=1
+OG0000055	GH18=2074; no_cazy_match=217; CBM50=3; CBM24=1; GH16_3=1
+OG0000056	no_cazy_match=2272; AA7=1
+OG0000057	no_cazy_match=2264; CE18=1
+OG0000059	no_cazy_match=2249; PL1_6=1
+OG0000061	no_cazy_match=2171; CE4=1
+OG0000062	GH3=1904; no_cazy_match=234; GH6=6; GH16_2=1
+OG0000064	no_cazy_match=2128; GT2_Chitin_synth_1=1; GH43_5=1
+OG0000066	no_cazy_match=2109; GH76=1
+OG0000068	GT2_Chitin_synth_2=1858; no_cazy_match=211
+OG0000069	no_cazy_match=2057; AA1=1; AA2=1; CE1=1
+OG0000070	no_cazy_match=2049; AA3_2=1; GH46=1
+OG0000073	no_cazy_match=2023; fungi_doc=1
+OG0000077	no_cazy_match=1982; GH47=1
+OG0000082	no_cazy_match=1054; AA5_1=873; CBM1=2; GH5_31=2; GT14=1; CBM47=1; AA5=1; CE4=1; GH18=1
+OG0000083	no_cazy_match=1933; GT90=1
+OG0000084	no_cazy_match=1906; CBM13=18; CBM18=5; CE3=1; CE4=1; GH16=1
+OG0000085	no_cazy_match=1828; CBM63=93; CBM35=3; CBM18=2
+OG0000090	no_cazy_match=1900; GT32=1
+OG0000092	no_cazy_match=1864; GH5_5=1
+OG0000106	no_cazy_match=1772; AA3_2=2
+OG0000107	no_cazy_match=1770; GH43_13=1
+OG0000108	no_cazy_match=1742; GH16_18=1
+OG0000109	no_cazy_match=1723; GT10=1
+OG0000110	no_cazy_match=1715; CE4=2
+OG0000112	no_cazy_match=1662; CBM21=1
+OG0000114	no_cazy_match=1616; GT32=1
+OG0000120	no_cazy_match=1565; GT109=1
+OG0000122	no_cazy_match=1554; CBM47=1
+OG0000125	no_cazy_match=1546; GT71=1
+OG0000127	no_cazy_match=1540; CE1=2
+OG0000133	no_cazy_match=1502; GH16_4=1; CE3=1; GT21=1
+OG0000134	GH47=1418; no_cazy_match=81; AA3_1=1
+OG0000140	no_cazy_match=1460; GH72=1; CE16=1; GT2_Glycos_transf_2=1
+OG0000141	no_cazy_match=1452; GT2_Glycos_transf_2=1
+OG0000145	no_cazy_match=1422; AA2=2
+OG0000147	GT2_Chitin_synth_1=1319; no_cazy_match=79; GH37=1; GT2_Chitin_synth_2=1; GH18=1
+OG0000148	no_cazy_match=1397; GH5_12=1; CBM87=1
+OG0000151	GH31_1=793; GH31_3=154; GH31_2=132; no_cazy_match=123; GH31_4=75; GH31_18=36; GH31_5=28; GH31=24; GH31_20=2; GH31_17=1
+OG0000153	GH5_9=899; GH5_15=170; GH5_50=133; no_cazy_match=80; GH5_49=62; GH5=5; GH5_14=2; GH5_23=1; GH5_45=1; GH30_3=1
+OG0000154	no_cazy_match=1346; GH19=2; AA14=1
+OG0000157	no_cazy_match=1338; CE2=1
+OG0000164	no_cazy_match=1314; AA8=4; GT32=3
+OG0000167	no_cazy_match=1318; CBM21=1
+OG0000173	no_cazy_match=1267; GT8=1
+OG0000175	GH16_1=1184; no_cazy_match=67; GH16=1
+OG0000177	GH28=1137; no_cazy_match=109; CE8=1; GH43_21=1
+OG0000179	no_cazy_match=1243; GH128=1; GT57=1
+OG0000182	no_cazy_match=1238; GH16_3=1
+OG0000183	no_cazy_match=1238; AA9=1
+OG0000184	no_cazy_match=1236; GH106=1
+OG0000185	no_cazy_match=852; AA7=383
+OG0000186	no_cazy_match=1226; CBM14=1; GT2_Glycos_transf_2=1
+OG0000187	no_cazy_match=1227; GH37=1
+OG0000188	no_cazy_match=1224; GH47=1; GH51_2=1; GH5_31=1
+OG0000193	no_cazy_match=1202; GH5_24=2
+OG0000196	GT39=1122; no_cazy_match=77; GH16_2=1
+OG0000199	no_cazy_match=1194; AA7=1; AA1_3=1
+OG0000211	no_cazy_match=1157; GH6=1
+OG0000212	no_cazy_match=1155; GT1=1
+OG0000213	no_cazy_match=1149; PL38=2
+OG0000215	no_cazy_match=1139; GH5_31=3
+OG0000216	no_cazy_match=1138; GH128=2; CE4=1; CBM1=1
+OG0000218	GT15=1075; no_cazy_match=64
+OG0000219	no_cazy_match=1134; GH18=1; GH79=1
+OG0000222	no_cazy_match=1131; GH18=1; GT92=1
+OG0000225	no_cazy_match=1122; PL3_2=1
+OG0000228	no_cazy_match=1118; GH5_41=1
+OG0000231	GT71=1039; no_cazy_match=72; GT90=1
+OG0000232	no_cazy_match=1109; CE1=1
+OG0000235	no_cazy_match=1101; GH28=1; GT61=1
+OG0000237	no_cazy_match=1099; GH26=1
+OG0000238	no_cazy_match=1097; PL14_3=1; GT14=1
+OG0000239	no_cazy_match=1096; GH16_23=1
+OG0000241	no_cazy_match=1095; GT69=1
+OG0000243	no_cazy_match=1091; GH76=1
+OG0000248	GT20=998; no_cazy_match=82
+OG0000251	GT90=995; no_cazy_match=80
+OG0000255	GH16_19=591; GH16_18=406; no_cazy_match=37; GH16_21=24; CBM50=2; GH16=1
+OG0000256	no_cazy_match=1053; GH18=1
+OG0000258	GH76=1005; no_cazy_match=47
+OG0000259	no_cazy_match=1049; GH79=1
+OG0000265	no_cazy_match=1024; CBM50=4; GH128=2; CBM18=1
+OG0000273	no_cazy_match=1010; GH5_12=1
+OG0000275	no_cazy_match=1000; CE12=1
+OG0000277	no_cazy_match=999; AA1=1
+OG0000281	no_cazy_match=989; GH28=3
+OG0000282	no_cazy_match=983; GT8=2; CE4=1; GH5_5=1
+OG0000284	no_cazy_match=984; AA5_1=1
+OG0000289	no_cazy_match=981; CE12=1
+OG0000296	no_cazy_match=972; GH79=1; GT22=1
+OG0000297	no_cazy_match=970; GT71=1
+OG0000298	no_cazy_match=966; GH47=1
+OG0000300	GT8=881; no_cazy_match=83; GT64=1
+OG0000303	no_cazy_match=953; CE9=2
+OG0000305	no_cazy_match=950; CE12=2; PL4_5=1; GT39=1
+OG0000307	no_cazy_match=949; GT57=1
+OG0000308	no_cazy_match=946; CE3=1
+OG0000309	no_cazy_match=691; GH179=218; GH177=26; GH109=12
+OG0000312	GT1=811; no_cazy_match=130
+OG0000313	no_cazy_match=939; GH20=1
+OG0000314	no_cazy_match=938; AA8=1
+OG0000315	no_cazy_match=936; CBM21=1
+OG0000316	no_cazy_match=936; AA7=1
+OG0000319	no_cazy_match=785; GH26=145; AA2=1
+OG0000324	no_cazy_match=923; CE16=1
+OG0000327	no_cazy_match=918; GH79=1
+OG0000329	no_cazy_match=914; AA12=1
+OG0000335	no_cazy_match=901; CE7=1
+OG0000339	no_cazy_match=886; GH5_9=1
+OG0000344	no_cazy_match=883; GT57=1
+OG0000346	no_cazy_match=883; GT8=1
+OG0000347	no_cazy_match=882; GT2_Glycos_transf_2=1
+OG0000359	no_cazy_match=865; AA1=1
+OG0000360	no_cazy_match=863; GH28=1; GH3=1
+OG0000361	no_cazy_match=859; GT90=1
+OG0000370	no_cazy_match=852; GH31_3=1; GT71=1
+OG0000371	no_cazy_match=852; CE4=1
+OG0000372	GH18=497; no_cazy_match=340; CBM5=13; CBM19=1; CBM50=1; GT2_Chitin_synth_2=1
+OG0000377	no_cazy_match=790; AA8=56
+OG0000390	CE16=756; no_cazy_match=68
+OG0000395	no_cazy_match=815; AA9=1
+OG0000400	GH5_7=428; GH5_41=258; no_cazy_match=64; GH5_30=57; GH5=2; GH76=2; GH11=1
+OG0000405	no_cazy_match=802; AA2=1
+OG0000406	no_cazy_match=802; GT69=1
+OG0000412	no_cazy_match=792; GT32=1; GT71=1
+OG0000417	GH72=764; no_cazy_match=26; CBM43=1
+OG0000419	no_cazy_match=785; AA3_2=1
+OG0000421	no_cazy_match=782; AA3_2=1
+OG0000428	no_cazy_match=775; GH16_19=1
+OG0000430	AA11=719; no_cazy_match=57
+OG0000433	no_cazy_match=541; CBM50=212; GH184=15; CBM18=2; CBM66=2; CBM20=1
+OG0000436	no_cazy_match=768; GH16_19=1
+OG0000437	no_cazy_match=767; GT8=1
+OG0000440	no_cazy_match=765; GT34=2
+OG0000444	no_cazy_match=763; GH46=1
+OG0000448	no_cazy_match=761; GH5_30=1
+OG0000449	no_cazy_match=761; GH5_5=1
+OG0000451	no_cazy_match=759; AA1_3=1; GT71=1
+OG0000452	no_cazy_match=757; GH5_9=1; AA7=1
+OG0000461	no_cazy_match=750; GH16_1=1
+OG0000468	no_cazy_match=744; AA1_2=1
+OG0000475	GH10=704; no_cazy_match=38
+OG0000477	no_cazy_match=739; GT66=1; GT61=1
+OG0000479	no_cazy_match=736; CE4=1
+OG0000482	AA2=706; no_cazy_match=30; GH71=1
+OG0000483	GH16_2=648; no_cazy_match=86; GH18=1; GH16_3=1
+OG0000484	GT32=455; no_cazy_match=279; CBM9=1
+OG0000485	GH79=641; no_cazy_match=94
+OG0000488	no_cazy_match=731; GT57=1
+OG0000491	no_cazy_match=728; CBM21=1
+OG0000493	no_cazy_match=725; GT25=1
+OG0000494	no_cazy_match=724; GT4=1; GH114=1
+OG0000498	no_cazy_match=719; GT15=1
+OG0000500	no_cazy_match=717; AA2=1
+OG0000501	no_cazy_match=715; AA14=1; GH45_1=1
+OG0000503	no_cazy_match=682; CBM13=33; CBM50=2
+OG0000507	no_cazy_match=711; GT50=1; GT47=1
+OG0000508	no_cazy_match=710; GH5_7=1
+OG0000515	no_cazy_match=704; AA3=1
+OG0000516	no_cazy_match=703; GH72=1
+OG0000520	no_cazy_match=696; GH47=2
+OG0000527	no_cazy_match=690; AA7=1
+OG0000528	no_cazy_match=687; GH3=3
+OG0000529	no_cazy_match=689; GH76=1
+OG0000530	GH7=577; no_cazy_match=112; CBM1=1
+OG0000531	no_cazy_match=687; CE4=1
+OG0000532	no_cazy_match=687; CE16=1
+OG0000533	GH1=622; no_cazy_match=65
+OG0000535	no_cazy_match=685; GT31=1
+OG0000538	no_cazy_match=681; GH78=1; GH18=1; GH95=1
+OG0000544	GH128=657; no_cazy_match=24
+OG0000549	no_cazy_match=675; CE4=1
+OG0000553	no_cazy_match=671; GT77=1; GT4=1
+OG0000555	no_cazy_match=669; GH152=2
+OG0000558	no_cazy_match=666; GH72=1
+OG0000563	GH35=575; no_cazy_match=87; GH95=1
+OG0000566	GH92=599; no_cazy_match=64
+OG0000568	no_cazy_match=660; GT4=1
+OG0000571	no_cazy_match=659; GT8=1
+OG0000572	no_cazy_match=659; GH26=1
+OG0000583	no_cazy_match=648; GT21=1; GT2_Chitin_synth_2=1
+OG0000584	no_cazy_match=648; GH18=1; AA9=1
+OG0000585	no_cazy_match=649; GT10=1
+OG0000589	no_cazy_match=646; GT90=1
+OG0000591	no_cazy_match=646; AA3_2=1
+OG0000594	GH55_2=548; no_cazy_match=80; GH55=17; GH55_3=1
+OG0000595	no_cazy_match=644; CBM14=1
+OG0000600	no_cazy_match=642; AA11=1
+OG0000603	no_cazy_match=639; CE4=1
+OG0000606	no_cazy_match=638; CBM50=1
+OG0000610	no_cazy_match=636; GH6=1
+OG0000611	no_cazy_match=634; AA2=2
+OG0000612	no_cazy_match=635; GH47=1
+OG0000616	no_cazy_match=632; GT32=1
+OG0000617	no_cazy_match=632; AA3_2=1
+OG0000619	no_cazy_match=629; GT57=3
+OG0000622	no_cazy_match=457; GT1=174
+OG0000626	no_cazy_match=626; GH86=1; GH18=1
+OG0000630	no_cazy_match=626; AA5_1=1
+OG0000632	no_cazy_match=625; GT34=1
+OG0000637	no_cazy_match=615; GT31=8
+OG0000644	no_cazy_match=620; GT71=1
+OG0000657	no_cazy_match=612; GH5_41=2
+OG0000661	GH20=562; no_cazy_match=51
+OG0000663	no_cazy_match=611; GH31_2=1
+OG0000665	no_cazy_match=609; AA1=1
+OG0000668	no_cazy_match=607; AA9=1
+OG0000677	no_cazy_match=599; GT69=1
+OG0000678	GH27=553; no_cazy_match=46; CE20=1
+OG0000681	no_cazy_match=598; GT77=1
+OG0000685	AA6=580; no_cazy_match=17
+OG0000688	no_cazy_match=592; GT58=1; GT50=1
+OG0000691	no_cazy_match=592; AA2=1
+OG0000695	no_cazy_match=588; GH76=2
+OG0000701	no_cazy_match=583; CBM21=2; AA1=1; AA2=1
+OG0000719	no_cazy_match=577; GT90=1
+OG0000721	no_cazy_match=369; AA4=187; AA7=21
+OG0000723	no_cazy_match=573; GH79=2
+OG0000725	no_cazy_match=571; GH16_2=1; GT2_Chitin_synth_1=1
+OG0000726	no_cazy_match=571; GT4=2
+OG0000735	no_cazy_match=569; AA9=1
+OG0000736	GH71=521; no_cazy_match=43; CBM24=5; CBM25=1
+OG0000740	no_cazy_match=567; GH47=1
+OG0000747	no_cazy_match=564; GH5_12=1
+OG0000753	no_cazy_match=561; GH16_1=1
+OG0000755	no_cazy_match=559; GT34=1
+OG0000758	no_cazy_match=558; GH128=1
+OG0000761	no_cazy_match=557; GH28=1
+OG0000762	no_cazy_match=557; CE9=1
+OG0000765	no_cazy_match=554; GT71=1
+OG0000766	no_cazy_match=553; CE1=1; GH5_34=1
+OG0000767	GH5_5=536; no_cazy_match=19
+OG0000768	no_cazy_match=553; GT34=1
+OG0000770	CE16=300; no_cazy_match=253
+OG0000771	GH11=532; no_cazy_match=17; GH10=2; CBM1=1; CE3=1
+OG0000773	GH15=510; no_cazy_match=29; CBM20=13
+OG0000777	GT57=494; no_cazy_match=56
+OG0000780	AA2=519; no_cazy_match=30
+OG0000790	no_cazy_match=543; CBM20=1; GT76=1
+OG0000793	no_cazy_match=537; CE12=5; CE3=1
+OG0000797	CBM21=482; no_cazy_match=58
+OG0000801	no_cazy_match=533; GH43_6=2; GH71=1; GH20=1
+OG0000802	GH5_12=497; no_cazy_match=32; GH5=8
+OG0000804	GH16_4=435; GH16_3=55; no_cazy_match=39; GH16=6; AA5_1=1
+OG0000805	no_cazy_match=535; GH53=1
+OG0000810	no_cazy_match=534; GH16_19=1
+OG0000814	no_cazy_match=532; GT2_Glyco_tranf_2_3=1
+OG0000816	no_cazy_match=529; GT8=1
+OG0000823	no_cazy_match=521; GT71=3
+OG0000825	no_cazy_match=523; GH5_7=1
+OG0000836	no_cazy_match=518; GT71=1
+OG0000840	no_cazy_match=507; CBM13=12
+OG0000849	no_cazy_match=515; GT17=1
+OG0000853	no_cazy_match=512; GT90=1; GH18=1
+OG0000856	no_cazy_match=512; GH53=1
+OG0000859	no_cazy_match=511; GH15=1
+OG0000860	no_cazy_match=510; AA3_2=1
+OG0000861	GT32=395; no_cazy_match=115
+OG0000863	no_cazy_match=508; GH43_21=1
+OG0000869	no_cazy_match=507; CE4=1
+OG0000875	GT2_Glyco_trans_2_3=448; no_cazy_match=56; GH16_4=3
+OG0000883	no_cazy_match=500; CE4=5
+OG0000885	no_cazy_match=494; CE1=11
+OG0000888	no_cazy_match=503; GT49=1
+OG0000890	no_cazy_match=502; GH79=1
+OG0000892	no_cazy_match=502; GH31_2=1
+OG0000894	no_cazy_match=493; GT77=5; GT2_Glycos_transf_2=4
+OG0000895	GT62=487; no_cazy_match=15
+OG0000897	no_cazy_match=500; GT58=1
+OG0000900	CE8=466; no_cazy_match=32; GH28=2
+OG0000902	no_cazy_match=495; GH5_5=4
+OG0000903	no_cazy_match=498; GH79=1
+OG0000905	no_cazy_match=497; GH71=1
+OG0000906	no_cazy_match=496; AA1_3=1
+OG0000913	GT69=475; no_cazy_match=20
+OG0000916	no_cazy_match=490; CE16=1
+OG0000918	no_cazy_match=489; GH72=1
+OG0000919	no_cazy_match=489; GT90=1
+OG0000920	no_cazy_match=489; GH31_2=1
+OG0000924	no_cazy_match=487; GH5_7=1
+OG0000927	no_cazy_match=485; GH45_1=1; GT34=1; GT49=1
+OG0000935	GH13_40=365; no_cazy_match=34; GH13_30=20; GH13=16; GH13_31=10; GH13_17=9; GH13_4=8; GH13_23=8; GH13_36=3; GH13_29=2; GH13_20=2; GH13_37=2; GH13_39=2; GH13_21=1; GH13_42=1; GH13_10=1; GH13_45=1
+OG0000939	no_cazy_match=483; GH79=1; AA9=1
+OG0000942	no_cazy_match=481; PL7=1; GH2=1
+OG0000945	no_cazy_match=480; GH43_33=1
+OG0000946	no_cazy_match=480; GH46=1
+OG0000949	GH2=405; no_cazy_match=74
+OG0000950	no_cazy_match=478; GT32=1
+OG0000951	no_cazy_match=477; GT2_Chitin_synth_2=1
+OG0000958	CE5=446; no_cazy_match=30
+OG0000963	no_cazy_match=473; GH43_25=1
+OG0000964	no_cazy_match=472; CE1=2
+OG0000970	no_cazy_match=469; CE16=1
+OG0000980	no_cazy_match=464; CE16=1; GH18=1
+OG0000981	no_cazy_match=461; GH18=2; GT25=1
+OG0000982	no_cazy_match=462; GH8=1
+OG0000984	no_cazy_match=461; GH15=1
+OG0000993	no_cazy_match=458; CE4=1
+OG0001005	GT25=290; no_cazy_match=166
+OG0001010	AA3_1=286; AA8=151; no_cazy_match=12; AA3=5; AA3_2=1
+OG0001013	no_cazy_match=452; CE16=1
+OG0001028	no_cazy_match=446; GH146=1
+OG0001030	no_cazy_match=446; GH76=1
+OG0001031	no_cazy_match=446; GH16_19=1
+OG0001036	no_cazy_match=444; GT57=1
+OG0001037	no_cazy_match=444; GT71=1
+OG0001040	no_cazy_match=442; SLH=2
+OG0001044	no_cazy_match=441; GH16_19=1; AA2=1
+OG0001049	PL14_4=197; PL14_5=93; PL14=85; PL14_3=35; no_cazy_match=31; PL36_2=1
+OG0001070	GH152=392; no_cazy_match=40; GH18=3
+OG0001071	PL3_2=412; no_cazy_match=17; PL3=5; PL3_4=1
+OG0001085	no_cazy_match=428; GH179=1; GT15=1
+OG0001087	no_cazy_match=429; CE3=1
+OG0001094	GH38=365; no_cazy_match=63
+OG0001104	no_cazy_match=425; GH116=1
+OG0001107	no_cazy_match=424; GT69=1
+OG0001109	no_cazy_match=424; GH28=1
+OG0001111	GT48=373; no_cazy_match=52
+OG0001112	no_cazy_match=424; AA7=1
+OG0001115	no_cazy_match=422; GT91=1
+OG0001117	no_cazy_match=419; AA8=3
+OG0001123	no_cazy_match=417; GH47=3
+OG0001124	no_cazy_match=418; GH31_2=1; AA3_2=1
+OG0001135	no_cazy_match=415; CBM13=2
+OG0001139	no_cazy_match=414; GH132=1
+OG0001149	no_cazy_match=412; AA2=1
+OG0001154	no_cazy_match=408; GH18=1
+OG0001158	no_cazy_match=407; GH31_15=1
+OG0001162	no_cazy_match=406; GH85=1
+OG0001187	GT34=368; no_cazy_match=31; GT8=2
+OG0001188	no_cazy_match=400; GH18=1
+OG0001196	no_cazy_match=397; GT8=3
+OG0001197	no_cazy_match=399; CBM6=1
+OG0001200	no_cazy_match=398; GT2_Chitin_synth_2=1
+OG0001202	no_cazy_match=396; GT5=1; GH37=1
+OG0001206	no_cazy_match=397; AA9=1
+OG0001207	GH13_1=376; no_cazy_match=19; GH13=3
+OG0001208	no_cazy_match=396; GT76=1
+OG0001216	GH6=373; no_cazy_match=22
+OG0001217	PL1_7=233; PL1_9=44; PL1_6=43; PL1_10=33; PL1=23; no_cazy_match=19
+OG0001221	GH114=367; no_cazy_match=25; AA9=1; fungi_doc=1
+OG0001225	no_cazy_match=392; PL14=1
+OG0001235	no_cazy_match=389; GH16_18=1
+OG0001237	no_cazy_match=389; CE16=1
+OG0001239	no_cazy_match=388; GT90=1
+OG0001245	no_cazy_match=387; GT15=1
+OG0001252	no_cazy_match=386; PL8=1
+OG0001254	no_cazy_match=373; AA7=14
+OG0001263	no_cazy_match=384; CBM87=1
+OG0001274	no_cazy_match=383; GH46=1
+OG0001284	no_cazy_match=382; GT32=1
+OG0001293	no_cazy_match=380; GT32=1
+OG0001305	no_cazy_match=378; GT71=1
+OG0001312	no_cazy_match=377; GH13_1=1
+OG0001318	CBM18=194; no_cazy_match=184
+OG0001322	no_cazy_match=376; AA2=1
+OG0001327	no_cazy_match=376; GH79=1
+OG0001334	no_cazy_match=375; GT28=1
+OG0001336	no_cazy_match=347; GH74=23; GH33=6
+OG0001337	no_cazy_match=375; GT90=1
+OG0001341	no_cazy_match=374; GT32=1
+OG0001356	GH37=355; no_cazy_match=18
+OG0001363	no_cazy_match=371; GH8=1
+OG0001365	GH78=331; no_cazy_match=41
+OG0001369	no_cazy_match=370; GT21=1
+OG0001375	no_cazy_match=369; CE4=1
+OG0001385	no_cazy_match=368; AA2=1
+OG0001388	GT2_Glyco_tranf_2_3=315; no_cazy_match=53; PL38=1
+OG0001389	CE1=281; no_cazy_match=84; CBM1=2; fungi_doc=1; GH10=1
+OG0001391	no_cazy_match=367; GT22=1
+OG0001396	GH125=357; no_cazy_match=11
+OG0001398	GH43_14=169; GH43_13=102; GH43_11=49; no_cazy_match=15; GH43_12=15; CBM91=11; GH43_9=7
+OG0001402	no_cazy_match=366; GH16_10=1
+OG0001408	GT3=351; no_cazy_match=15
+OG0001410	no_cazy_match=365; GT90=1
+OG0001412	no_cazy_match=363; CE4=1; GT90=1; GH72=1
+OG0001414	no_cazy_match=365; GT90=1
+OG0001416	no_cazy_match=364; GH3=1; AA1=1
+OG0001420	no_cazy_match=364; GH131=1
+OG0001423	no_cazy_match=364; GH13_32=1
+OG0001426	no_cazy_match=361; GH76=1; GH128=1; GH16_22=1
+OG0001430	no_cazy_match=363; GH16_1=1
+OG0001431	GH13_8=329; GH13_10=19; no_cazy_match=14; GH13_9=1; GH13_11=1
+OG0001433	no_cazy_match=363; AA3_2=1
+OG0001434	no_cazy_match=363; GT90=1
+OG0001445	no_cazy_match=346; AA4=16; AA7=1
+OG0001453	no_cazy_match=361; AA12=1
+OG0001457	no_cazy_match=361; CE5=1
+OG0001474	no_cazy_match=359; GH8=1
+OG0001475	no_cazy_match=359; GT2_Chitin_synth_1=1
+OG0001478	no_cazy_match=359; GT4=1
+OG0001485	no_cazy_match=359; GH16_19=1
+OG0001492	no_cazy_match=357; GT47=2
+OG0001499	no_cazy_match=358; GH28=1
+OG0001506	no_cazy_match=357; GH85=1
+OG0001513	no_cazy_match=356; GT62=1
+OG0001516	no_cazy_match=356; AA3_2=1
+OG0001523	no_cazy_match=354; GH35=2; CE12=1
+OG0001534	no_cazy_match=355; GT2_Chitin_synth_2=1
+OG0001539	no_cazy_match=355; GT4=1
+OG0001541	no_cazy_match=355; GH5_7=1
+OG0001543	no_cazy_match=355; GH31_2=1
+OG0001555	no_cazy_match=354; AA9=1
+OG0001556	no_cazy_match=354; AA9=1
+OG0001557	no_cazy_match=348; GT50=6
+OG0001558	no_cazy_match=353; GH76=1
+OG0001559	no_cazy_match=351; CE4=3
+OG0001570	no_cazy_match=352; AA14=1
+OG0001571	no_cazy_match=352; GT66=1
+OG0001583	no_cazy_match=351; GH10=1
+OG0001600	no_cazy_match=350; GT15=1
+OG0001603	no_cazy_match=349; GT39=1; GH31_2=1
+OG0001608	GH12=328; no_cazy_match=23
+OG0001611	GT24=305; no_cazy_match=45
+OG0001619	no_cazy_match=349; CE9=1
+OG0001625	no_cazy_match=348; GT34=1
+OG0001637	no_cazy_match=347; GH16_2=1
+OG0001647	no_cazy_match=211; GT31=137
+OG0001654	no_cazy_match=346; GH5_7=1
+OG0001658	no_cazy_match=346; AA7=1
+OG0001670	no_cazy_match=345; GT62=1
+OG0001674	no_cazy_match=345; GH5_24=1
+OG0001683	no_cazy_match=344; GH72=1; GH32=1
+OG0001686	no_cazy_match=344; GH16_19=2
+OG0001693	CE3=315; no_cazy_match=28; GH5_7=3
+OG0001695	no_cazy_match=343; AA7=2
+OG0001697	no_cazy_match=344; GH5_13=1
+OG0001698	no_cazy_match=344; GH28=1
+OG0001704	no_cazy_match=344; GT15=1
+OG0001705	no_cazy_match=344; GH46=1
+OG0001708	no_cazy_match=344; AA7=1
+OG0001712	no_cazy_match=341; GH37=2; GH16_1=1
+OG0001721	GH47=314; no_cazy_match=30
+OG0001725	no_cazy_match=343; GT2_Chitin_synth_2=1
+OG0001727	no_cazy_match=175; GH17=169
+OG0001728	AA12=318; no_cazy_match=19; AA8=7
+OG0001729	no_cazy_match=342; GH5_41=1
+OG0001732	no_cazy_match=342; CE9=1
+OG0001737	no_cazy_match=342; GH128=1
+OG0001739	GT2_Glycos_transf_2=331; no_cazy_match=12
+OG0001743	AA3_2=309; no_cazy_match=34
+OG0001755	no_cazy_match=340; GT71=2
+OG0001758	no_cazy_match=341; GT2_Chitin_synth_1=1
+OG0001759	no_cazy_match=341; GH32=1
+OG0001777	no_cazy_match=340; GH17=1
+OG0001780	no_cazy_match=340; AA7=1
+OG0001784	no_cazy_match=340; GH95=1
+OG0001787	no_cazy_match=339; GH31_1=1
+OG0001791	no_cazy_match=339; GH47=1
+OG0001794	no_cazy_match=339; GT39=1
+OG0001796	no_cazy_match=339; GH16_19=1
+OG0001797	no_cazy_match=339; GH76=1
+OG0001803	no_cazy_match=339; CBM9=1
+OG0001808	no_cazy_match=338; GT90=1
+OG0001816	no_cazy_match=336; GH6=2; AA7=1
+OG0001817	no_cazy_match=338; GH10=1
+OG0001820	no_cazy_match=338; GT34=1
+OG0001828	no_cazy_match=336; GH76=1; AA7=1
+OG0001832	no_cazy_match=337; GH2=1
+OG0001836	no_cazy_match=337; AA14=1
+OG0001846	no_cazy_match=318; CBM13=20
+OG0001850	no_cazy_match=336; GT47=1
+OG0001852	no_cazy_match=336; GT54=1
+OG0001856	no_cazy_match=334; GH5_9=2; GT57=1
+OG0001860	no_cazy_match=336; GH19=1
+OG0001863	no_cazy_match=336; GH3=1
+OG0001865	no_cazy_match=335; GT71=2
+OG0001873	no_cazy_match=335; AA6=1
+OG0001877	no_cazy_match=335; CE8=1
+OG0001880	no_cazy_match=335; GT21=1
+OG0001885	no_cazy_match=335; GT22=1
+OG0001892	no_cazy_match=335; GH39=1
+OG0001894	no_cazy_match=335; GH16_23=1
+OG0001895	no_cazy_match=334; GH15=2
+OG0001900	no_cazy_match=334; PL14_3=1
+OG0001903	no_cazy_match=333; GT2_Chitin_synth_2=1; CE4=1
+OG0001904	no_cazy_match=334; GT39=1
+OG0001913	no_cazy_match=331; GT39=3
+OG0001919	no_cazy_match=333; AA12=1
+OG0001920	no_cazy_match=333; GT20=1
+OG0001923	GT4=303; no_cazy_match=31
+OG0001925	no_cazy_match=333; GH47=1
+OG0001933	no_cazy_match=332; CE9=1
+OG0001940	no_cazy_match=332; GT71=1
+OG0001950	no_cazy_match=332; GT20=1
+OG0001952	no_cazy_match=332; AA7=1
+OG0001954	no_cazy_match=332; CE8=1
+OG0001955	no_cazy_match=332; AA1=1
+OG0001965	no_cazy_match=332; GH76=1
+OG0001980	no_cazy_match=331; GH5_41=1
+OG0001995	no_cazy_match=331; CE4=1
+OG0001997	no_cazy_match=331; AA7=1
+OG0002000	no_cazy_match=331; GT59=1
+OG0002007	no_cazy_match=330; GT39=1
+OG0002015	no_cazy_match=330; AA14=1
+OG0002023	no_cazy_match=330; GH18=1
+OG0002030	no_cazy_match=285; GT61=46
+OG0002033	no_cazy_match=330; AA3_2=1
+OG0002037	no_cazy_match=329; GT69=1
+OG0002043	no_cazy_match=329; GT2_Glycos_transf_2=1
+OG0002047	no_cazy_match=327; PL14_5=3
+OG0002051	no_cazy_match=329; GT31=1
+OG0002052	no_cazy_match=326; GH47=2; PL7=2
+OG0002062	no_cazy_match=327; AA5_1=2
+OG0002065	no_cazy_match=328; GT76=1
+OG0002077	GH13_25=303; no_cazy_match=25; GH133=1
+OG0002080	no_cazy_match=328; GH18=1
+OG0002097	no_cazy_match=327; GH37=1
+OG0002106	no_cazy_match=327; GH12=1
+OG0002107	no_cazy_match=327; GH46=1
+OG0002116	no_cazy_match=326; GH175=1; GH63=1
+OG0002127	no_cazy_match=326; GH18=1
+OG0002128	no_cazy_match=326; CE4=1
+OG0002133	GT66=317; no_cazy_match=10
+OG0002141	no_cazy_match=326; GH16_19=1
+OG0002142	no_cazy_match=326; CE17=1
+OG0002145	no_cazy_match=326; GT62=1
+OG0002146	no_cazy_match=325; GT71=2
+OG0002148	no_cazy_match=326; AA3_2=1
+OG0002151	no_cazy_match=324; GH125=3
+OG0002152	no_cazy_match=326; GH1=1
+OG0002154	no_cazy_match=326; GH79=1
+OG0002155	no_cazy_match=326; GT2_Glycos_transf_2=1
+OG0002156	no_cazy_match=326; GT32=1
+OG0002158	CE5=306; no_cazy_match=19; GH16_22=1; CBM24=1
+OG0002163	no_cazy_match=316; CE14=10
+OG0002176	no_cazy_match=323; GH18=2; GH5_9=1
+OG0002178	no_cazy_match=323; GT32=3
+OG0002193	no_cazy_match=322; AA2=3
+OG0002206	no_cazy_match=324; AA8=1
+OG0002209	no_cazy_match=324; GH18=1
+OG0002214	no_cazy_match=323; GT47=1
+OG0002222	no_cazy_match=323; GT2_Glycos_transf_2=1
+OG0002227	no_cazy_match=323; GT2_Chitin_synth_2=1
+OG0002238	no_cazy_match=323; GH16_19=1
+OG0002250	no_cazy_match=321; GT57=2
+OG0002252	no_cazy_match=322; GT59=1
+OG0002258	no_cazy_match=322; GH1=1
+OG0002264	no_cazy_match=322; GT50=1
+OG0002265	no_cazy_match=321; GH5_31=2
+OG0002267	no_cazy_match=322; AA5_1=1
+OG0002275	no_cazy_match=321; GT2_Glycos_transf_2=1
+OG0002282	no_cazy_match=321; GH47=1
+OG0002283	no_cazy_match=320; GT69=1; GH43_26=1
+OG0002287	no_cazy_match=321; GT15=1
+OG0002306	GT22=301; no_cazy_match=20
+OG0002308	no_cazy_match=320; GT14=1
+OG0002311	no_cazy_match=320; CE13=1
+OG0002317	no_cazy_match=320; GT22=1
+OG0002318	no_cazy_match=320; GT64=1
+OG0002325	no_cazy_match=320; GT109=1
+OG0002331	no_cazy_match=320; PL14_4=1
+OG0002332	no_cazy_match=316; GT71=5
+OG0002336	no_cazy_match=320; GH47=1
+OG0002338	no_cazy_match=320; AA2=1
+OG0002347	GH17=280; no_cazy_match=39; GH9=2
+OG0002350	no_cazy_match=319; CBM21=1; AA2=1
+OG0002351	no_cazy_match=319; GH23=1
+OG0002353	no_cazy_match=319; GH20=1
+OG0002355	no_cazy_match=319; PL3_2=1
+OG0002356	GT4=307; no_cazy_match=12; PL14=1
+OG0002383	GH16_23=196; GH16_22=95; no_cazy_match=26; GH16_21=2; GH16=1
+OG0002390	no_cazy_match=318; CE5=1
+OG0002397	no_cazy_match=318; GH5_34=1
+OG0002407	no_cazy_match=318; AA3_3=1
+OG0002410	no_cazy_match=318; GH71=1
+OG0002411	no_cazy_match=318; GH85=1
+OG0002414	no_cazy_match=318; GT62=1
+OG0002417	no_cazy_match=317; GT71=1
+OG0002431	GT21=309; no_cazy_match=9
+OG0002441	no_cazy_match=317; GH105=1
+OG0002442	no_cazy_match=317; GH18=1
+OG0002443	no_cazy_match=317; CE4=1
+OG0002450	no_cazy_match=213; GT2_Glyco_trans_2_3=105
+OG0002465	no_cazy_match=316; GH31_1=1
+OG0002469	no_cazy_match=316; GH72=1
+OG0002474	GT35=296; no_cazy_match=21
+OG0002478	no_cazy_match=316; GT25=1
+OG0002485	no_cazy_match=315; GT2_Chitin_synth_1=1
+OG0002487	no_cazy_match=315; AA2=1
+OG0002498	no_cazy_match=314; GT2_Chitin_synth_1=2
+OG0002506	no_cazy_match=315; GH12=1
+OG0002514	no_cazy_match=315; GH5_41=1
+OG0002517	no_cazy_match=315; AA9=1
+OG0002519	no_cazy_match=315; GT71=1
+OG0002530	no_cazy_match=314; CBM13=1
+OG0002532	GT4=279; no_cazy_match=36
+OG0002544	no_cazy_match=314; GT90=1
+OG0002551	no_cazy_match=285; GT71=30
+OG0002553	no_cazy_match=313; AA3_2=1
+OG0002555	no_cazy_match=312; GT34=1; AA5_1=1
+OG0002571	no_cazy_match=313; GT90=1
+OG0002582	no_cazy_match=313; AA2=1
+OG0002584	no_cazy_match=312; GH71=1
+OG0002593	no_cazy_match=312; GH18=1
+OG0002618	no_cazy_match=311; GH78=1
+OG0002623	no_cazy_match=311; GT57=1
+OG0002636	no_cazy_match=310; AA8=1; GT8=1
+OG0002654	CE9=292; no_cazy_match=19
+OG0002661	GH32=289; no_cazy_match=21; CBM38=1
+OG0002664	no_cazy_match=310; GT25=1
+OG0002666	no_cazy_match=210; AA8=101
+OG0002676	no_cazy_match=309; GT62=1
+OG0002678	no_cazy_match=309; GH1=1
+OG0002689	no_cazy_match=309; GH10=1
+OG0002698	no_cazy_match=308; GT15=1
+OG0002699	no_cazy_match=305; GT71=4
+OG0002706	no_cazy_match=308; AA9=1
+OG0002710	no_cazy_match=308; CE4=1
+OG0002720	no_cazy_match=308; GH71=1
+OG0002723	no_cazy_match=308; GH13_22=1
+OG0002730	no_cazy_match=308; GH76=1
+OG0002739	no_cazy_match=307; AA9=1
+OG0002741	no_cazy_match=307; GT8=1
+OG0002746	no_cazy_match=307; GT69=1
+OG0002759	no_cazy_match=307; GH179=1
+OG0002767	no_cazy_match=306; GH47=1
+OG0002770	no_cazy_match=306; GH71=1
+OG0002773	GT33=291; no_cazy_match=16
+OG0002780	no_cazy_match=306; GH16_19=1
+OG0002781	no_cazy_match=306; GH125=1
+OG0002785	no_cazy_match=306; GH47=1
+OG0002789	no_cazy_match=305; GT34=1
+OG0002790	no_cazy_match=305; GH5_13=1
+OG0002801	no_cazy_match=305; GH79=1
+OG0002804	no_cazy_match=305; CE12=1
+OG0002824	no_cazy_match=304; AA16=1
+OG0002829	no_cazy_match=304; GT90=1
+OG0002837	no_cazy_match=303; GH17=1
+OG0002852	no_cazy_match=303; GH131=1
+OG0002869	GT22=283; no_cazy_match=19; GH5_9=1
+OG0002887	no_cazy_match=302; GH5_9=1
+OG0002890	GH115=261; no_cazy_match=42
+OG0002896	no_cazy_match=299; CBM5=1; GH18=1; AA3_2=1
+OG0002913	no_cazy_match=292; CE7=10
+OG0002917	GH18=234; no_cazy_match=67; CE16=1
+OG0002921	no_cazy_match=300; GT14=1
+OG0002923	no_cazy_match=300; GT8=1
+OG0002930	no_cazy_match=300; GH16_23=1
+OG0002946	no_cazy_match=299; GH47=1
+OG0002959	no_cazy_match=299; GT34=1
+OG0002962	GH105=244; no_cazy_match=55; CBM50=1
+OG0002966	no_cazy_match=298; AA9=1
+OG0002972	no_cazy_match=294; GH47=2; GH5_5=1; GH81=1; GH5_16=1
+OG0002979	GT2_Glycos_transf_2=282; no_cazy_match=17
+OG0002999	no_cazy_match=297; GT25=1
+OG0003010	GH5_16=128; GH5_24=69; GH5_11=51; GH5_1=28; no_cazy_match=11; GH5_51=10; GH5=1
+OG0003028	no_cazy_match=296; AA8=1
+OG0003041	no_cazy_match=295; AA5_1=1
+OG0003050	no_cazy_match=295; GH47=1
+OG0003051	no_cazy_match=295; CE4=1
+OG0003056	no_cazy_match=294; GH5_31=1
+OG0003063	no_cazy_match=294; GT34=1
+OG0003070	no_cazy_match=294; CE9=1
+OG0003078	CE18=258; no_cazy_match=24; CBM87=13
+OG0003083	no_cazy_match=293; CBM50=1
+OG0003087	no_cazy_match=293; AA1=1
+OG0003095	no_cazy_match=293; GT90=1
+OG0003101	no_cazy_match=293; CE4=1
+OG0003111	CE1=289; no_cazy_match=4
+OG0003128	no_cazy_match=291; GT2_Glycos_transf_2=1
+OG0003142	no_cazy_match=290; GH5_41=1
+OG0003147	no_cazy_match=290; GT22=1
+OG0003148	GT22=266; no_cazy_match=25
+OG0003158	AA14=263; no_cazy_match=22; AA11=6
+OG0003166	no_cazy_match=287; GH5_1=3
+OG0003168	no_cazy_match=289; GH72=1
+OG0003174	AA3_1=216; AA3=49; no_cazy_match=24; AA3_2=1
+OG0003175	no_cazy_match=289; GH79=1
+OG0003179	no_cazy_match=288; GH179=1
+OG0003185	GT50=272; no_cazy_match=17
+OG0003194	no_cazy_match=288; CE4=1
+OG0003207	no_cazy_match=286; AA3_2=1
+OG0003208	no_cazy_match=276; GT28=11
+OG0003209	no_cazy_match=286; GH26=1
+OG0003218	no_cazy_match=285; AA3_2=1; GH28=1
+OG0003255	no_cazy_match=282; GH152=2
+OG0003259	no_cazy_match=283; GH5_31=1
+OG0003263	no_cazy_match=283; GH16_1=1
+OG0003265	no_cazy_match=283; AA3=1
+OG0003280	no_cazy_match=282; CE13=1
+OG0003290	no_cazy_match=282; GT69=1
+OG0003292	no_cazy_match=282; GH12=1
+OG0003298	no_cazy_match=281; GT71=1
+OG0003299	GH17=166; no_cazy_match=116
+OG0003304	GT17=256; no_cazy_match=26
+OG0003305	no_cazy_match=280; AA8=1
+OG0003316	GH43_6=177; GH43_5=72; no_cazy_match=15; GH43_4=15; GH43=1; fungi_doc=1
+OG0003342	no_cazy_match=278; AA2=1
+OG0003364	no_cazy_match=276; GH17=1
+OG0003373	no_cazy_match=275; GH135=1
+OG0003377	GH13_22=223; no_cazy_match=49; GT5=4
+OG0003384	no_cazy_match=274; GT90=1
+OG0003393	no_cazy_match=273; GH18=2
+OG0003396	GH45=164; GH45_1=107; no_cazy_match=4
+OG0003447	no_cazy_match=270; AA7=1
+OG0003448	no_cazy_match=268; GT90=2
+OG0003458	no_cazy_match=269; GH128=1
+OG0003462	GT49=222; no_cazy_match=47
+OG0003467	no_cazy_match=182; GH177=85; GH109=2
+OG0003468	GH13_5=227; no_cazy_match=24; GH13_6=16; GH13=2
+OG0003470	CE4=161; no_cazy_match=108
+OG0003496	no_cazy_match=265; GH5_49=1
+OG0003500	no_cazy_match=265; GH18=1
+OG0003508	no_cazy_match=263; CE4=1; GH79=1
+OG0003525	GT58=251; no_cazy_match=13
+OG0003549	no_cazy_match=261; GT71=1
+OG0003561	no_cazy_match=260; PL7=1
+OG0003567	no_cazy_match=256; CE4=4
+OG0003575	no_cazy_match=258; GH79=1; AA7=1
+OG0003578	GH43_1=100; GH43_29=52; GH43_34=43; GH43_16=38; GH43_35=11; no_cazy_match=7; GH43_2=6; CBM6=2; GH43_28=1
+OG0003581	no_cazy_match=258; CE17=1
+OG0003588	AA2=223; no_cazy_match=35; AA1_2=1
+OG0003593	GT59=232; no_cazy_match=26
+OG0003594	GT76=231; no_cazy_match=27
+OG0003623	no_cazy_match=254; GH17=1; GH10=1
+OG0003626	GH81=242; no_cazy_match=13; CBM92=1
+OG0003648	no_cazy_match=249; GH177=6
+OG0003672	no_cazy_match=249; GH30_5=2; GH16_1=1
+OG0003710	GH51_2=222; no_cazy_match=24; GH51_4=2; GH51=1
+OG0003715	no_cazy_match=241; GT41=7
+OG0003720	no_cazy_match=247; CE4=1
+OG0003725	PL1_4=234; no_cazy_match=14
+OG0003727	no_cazy_match=246; GH125=1
+OG0003751	no_cazy_match=242; GT2_Glycos_transf_2=3
+OG0003753	no_cazy_match=244; GT90=1
+OG0003762	no_cazy_match=242; GT57=2
+OG0003768	no_cazy_match=243; CE16=1
+OG0003775	no_cazy_match=126; GH24=117; GH25=1
+OG0003821	no_cazy_match=239; GH5_5=1
+OG0003822	no_cazy_match=239; AA3_2=1
+OG0003826	no_cazy_match=239; GH5_23=1
+OG0003842	PL38=220; no_cazy_match=19
+OG0003849	no_cazy_match=237; GT4=1
+OG0003869	GH9=222; no_cazy_match=14; fungi_doc=1
+OG0003874	GH177=157; no_cazy_match=68; GH179=12
+OG0003875	no_cazy_match=235; GH76=1
+OG0003879	GH5_22=188; GH5_54=26; no_cazy_match=15; GH5=4; GH5_39=1; GH5_47=1; GH5_46=1
+OG0003883	no_cazy_match=234; GT22=1
+OG0003887	no_cazy_match=234; GH47=1
+OG0003892	no_cazy_match=215; CBM1=20
+OG0003904	no_cazy_match=211; GH177=12; GH179=6; GH109=4
+OG0003912	no_cazy_match=231; GT57=1
+OG0003925	no_cazy_match=215; CBM18=16
+OG0003931	GH43_24=191; GH43_25=17; no_cazy_match=13; GH43_37=7; CBM13=1; GH43=1
+OG0003932	GH135=215; no_cazy_match=15
+OG0003936	no_cazy_match=228; CE16=1
+OG0003943	GT90=120; no_cazy_match=108; CBM21=1
+OG0003944	no_cazy_match=228; GH88=1
+OG0003952	no_cazy_match=226; GT77=1; GT65=1
+OG0003953	GT4=204; no_cazy_match=24
+OG0003961	no_cazy_match=226; GT2_Chitin_synth_2=1
+OG0003984	no_cazy_match=124; CBM13=101; AA7=1
+OG0003989	GT2_Glyco_trans_2_3=207; no_cazy_match=18
+OG0004009	no_cazy_match=223; CE5=1
+OG0004024	no_cazy_match=222; GH72=1
+OG0004030	no_cazy_match=221; GH5_9=1
+OG0004056	GH3=200; no_cazy_match=19; SLH=1
+OG0004059	no_cazy_match=218; PL3_2=2
+OG0004069	CE15=209; no_cazy_match=9; GH10=1
+OG0004073	CE17=135; no_cazy_match=84
+OG0004098	GH13_32=148; no_cazy_match=29; GH13_15=26; GH13_28=11; CBM20=2; CBM21=1
+OG0004109	no_cazy_match=216; GH3=1
+OG0004118	no_cazy_match=215; GH16_19=1
+OG0004120	GH43_26=202; no_cazy_match=14
+OG0004121	no_cazy_match=109; CE1=98; fungi_doc=9
+OG0004128	GH15=176; no_cazy_match=39
+OG0004145	GH78=195; no_cazy_match=13; CBM67=5
+OG0004150	no_cazy_match=212; AA2=1
+OG0004167	GT4=193; no_cazy_match=17
+OG0004171	no_cazy_match=209; CE4=1
+OG0004173	GH95=187; no_cazy_match=23
+OG0004188	no_cazy_match=207; AA3_2=1
+OG0004199	no_cazy_match=206; GT32=1
+OG0004202	no_cazy_match=206; AA3_2=1
+OG0004204	GT34=142; no_cazy_match=65
+OG0004207	CE12=198; no_cazy_match=5; PL4=4
+OG0004219	GH46=188; no_cazy_match=18
+OG0004225	no_cazy_match=204; AA1=1
+OG0004234	no_cazy_match=204; AA1_3=1
+OG0004253	no_cazy_match=203; AA3_2=1
+OG0004272	no_cazy_match=200; GH43_13=1; GT22=1
+OG0004276	no_cazy_match=201; GH76=1
+OG0004291	GT14=171; no_cazy_match=29; GH18=1
+OG0004303	no_cazy_match=199; GH7=1
+OG0004311	GH154=185; no_cazy_match=15
+OG0004318	no_cazy_match=198; GT68=1
+OG0004322	GH2=183; no_cazy_match=13; GH95=1; fungi_doc=1
+OG0004326	no_cazy_match=189; CE1=7; GH16_4=2
+OG0004358	GT8=135; no_cazy_match=61
+OG0004359	GH5_31=176; no_cazy_match=20
+OG0004362	no_cazy_match=194; GH18=1
+OG0004377	GH64=187; no_cazy_match=7
+OG0004380	no_cazy_match=192; CBM50=2
+OG0004381	no_cazy_match=192; AA2=1
+OG0004382	GH29=164; no_cazy_match=29
+OG0004392	no_cazy_match=192; AA9=1
+OG0004403	GH37=177; no_cazy_match=15
+OG0004404	no_cazy_match=191; GH18=1
+OG0004410	GT22=158; no_cazy_match=33
+OG0004416	no_cazy_match=190; AA3_2=1
+OG0004418	no_cazy_match=190; GT14=1
+OG0004443	no_cazy_match=187; CE4=1
+OG0004455	no_cazy_match=186; AA2=1
+OG0004457	no_cazy_match=186; GH177=1
+OG0004463	no_cazy_match=185; GT102=2
+OG0004473	no_cazy_match=185; GT33=1
+OG0004479	no_cazy_match=185; GT1=1
+OG0004488	no_cazy_match=184; CE3=1
+OG0004492	no_cazy_match=180; GT32=3; GT91=1; GT2_Glycos_transf_2=1
+OG0004494	no_cazy_match=184; CBM50=1
+OG0004512	no_cazy_match=182; GT71=1
+OG0004515	no_cazy_match=182; GH76=1
+OG0004530	no_cazy_match=181; GT34=1
+OG0004535	AA4=163; no_cazy_match=19
+OG0004538	GT2_Chitin_synth_2=141; no_cazy_match=30; GT2_Glyco_trans_2_3=9; CE4=1
+OG0004550	GH88=163; no_cazy_match=17
+OG0004565	GH30_3=144; no_cazy_match=26; GH30_1=4; GH30=3; GH30_8=1; GH30_2=1
+OG0004572	no_cazy_match=178; CBM13=1
+OG0004609	PL35=121; no_cazy_match=55; AA5_2=1
+OG0004624	AA16=174; no_cazy_match=2
+OG0004639	no_cazy_match=173; GH71=1
+OG0004643	no_cazy_match=133; GH18=36; CBM12=2; CBM1=1; CBM18=1; CBM13=1
+OG0004652	no_cazy_match=172; CBM13=1
+OG0004654	GH131=166; no_cazy_match=7
+OG0004660	GT64=131; no_cazy_match=41
+OG0004664	GH3=159; no_cazy_match=13
+OG0004670	GT2_Glyco_tranf_2_3=51; no_cazy_match=43; GT2_Glyco_trans_2_3=38; GT2_Glycos_transf_2=36; AA7=3; GH5_2=1
+OG0004671	GH53=169; no_cazy_match=3
+OG0004674	GH28=159; no_cazy_match=12
+OG0004681	no_cazy_match=93; AA2=78
+OG0004731	no_cazy_match=166; GT18=1
+OG0004754	no_cazy_match=164; GH5_5=2
+OG0004760	GH43_30=160; no_cazy_match=2; GH43=2; GH43_8=1
+OG0004766	GH131=151; no_cazy_match=14
+OG0004781	no_cazy_match=159; CBM13=5
+OG0004795	no_cazy_match=105; GT4=58
+OG0004802	no_cazy_match=161; GT8=1
+OG0004811	no_cazy_match=160; AA8=1
+OG0004822	no_cazy_match=160; GT49=1
+OG0004823	no_cazy_match=159; CBM50=1; AA1=1
+OG0004847	no_cazy_match=158; CBM50=1
+OG0004860	GH18=80; no_cazy_match=77; GH28=1
+OG0004865	GH85=135; no_cazy_match=22
+OG0004874	GH19=122; no_cazy_match=22; GH19_2=11; GH19_1=2
+OG0004881	GH5_27=131; no_cazy_match=17; GH5=5; GH5_28=3
+OG0004884	no_cazy_match=94; GT1=62
+OG0004893	GH93=152; no_cazy_match=3
+OG0004900	no_cazy_match=152; CE4=2
+OG0004906	no_cazy_match=153; fungi_doc=1
+OG0004907	GH43_21=101; GH43_34=25; GH43_22=16; GH43_19=5; no_cazy_match=4; GH43_20=3
+OG0004916	GT2_Glycos_transf_2=90; no_cazy_match=62; GT8=1
+OG0004918	no_cazy_match=152; GH16_19=1
+OG0004919	no_cazy_match=152; GT25=1
+OG0004937	GH16_3=150; no_cazy_match=2
+OG0004941	no_cazy_match=151; GH13_28=1
+OG0004942	no_cazy_match=150; AA11=1
+OG0004943	no_cazy_match=149; GT17=1; GT22=1
+OG0004950	no_cazy_match=150; CE16=1
+OG0004955	no_cazy_match=150; AA9=1
+OG0004962	no_cazy_match=132; CBM18=18
+OG0004973	no_cazy_match=100; GH184=49
+OG0004993	no_cazy_match=147; CBM50=1
+OG0004996	no_cazy_match=147; GT77=1
+OG0005010	no_cazy_match=146; AA11=1
+OG0005013	PL4_1=136; no_cazy_match=10; PL4=1
+OG0005021	no_cazy_match=145; AA9=1
+OG0005028	no_cazy_match=145; GT32=1
+OG0005030	no_cazy_match=123; GH45_2=19; fungi_doc=4
+OG0005055	no_cazy_match=143; GT39=1
+OG0005064	no_cazy_match=142; GT2_Glyco_trans_2_3=1
+OG0005069	no_cazy_match=141; GT32=2
+OG0005071	GH74=94; no_cazy_match=48; AA9=1
+OG0005079	GH2=122; no_cazy_match=20
+OG0005102	no_cazy_match=140; CE9=1
+OG0005113	GH30_5=123; no_cazy_match=17
+OG0005125	no_cazy_match=139; GH47=1
+OG0005129	no_cazy_match=138; GH16_19=1
+OG0005132	no_cazy_match=138; CE3=1
+OG0005133	GH132=139
+OG0005151	GH51_1=132; no_cazy_match=4; GH51_4=1; GH51=1
+OG0005160	GH30_7=122; GH30_8=9; no_cazy_match=5; GH30=1; GH30_10=1
+OG0005161	GH105=133; no_cazy_match=5
+OG0005176	GH5_4=129; no_cazy_match=7; fungi_doc=1
+OG0005255	no_cazy_match=115; GH15=17
+OG0005285	no_cazy_match=130; AA7=1
+OG0005296	no_cazy_match=119; CBM52=11
+OG0005301	no_cazy_match=129; AA3=1
+OG0005306	no_cazy_match=116; CBM13=12; CBM18=2
+OG0005316	no_cazy_match=125; CBM13=3; CE5=1
+OG0005320	GH105=123; no_cazy_match=4; PL4_3=1; GH112=1
+OG0005328	fungi_doc=111; no_cazy_match=14; GH16_21=4
+OG0005338	no_cazy_match=127; GH30_4=1
+OG0005377	no_cazy_match=125; GH5_50=1
+OG0005384	no_cazy_match=125; AA7=1
+OG0005390	no_cazy_match=123; GT71=2
+OG0005395	no_cazy_match=118; GH146=7
+OG0005425	GH62=116; no_cazy_match=8
+OG0005426	no_cazy_match=109; CBM13=15
+OG0005440	GH76=115; no_cazy_match=8
+OG0005449	GH25=116; no_cazy_match=7
+OG0005457	no_cazy_match=121; AA6=1
+OG0005465	AA5_2=109; no_cazy_match=11; CBM32=2
+OG0005473	no_cazy_match=120; PL14=1
+OG0005490	AA1=89; no_cazy_match=31
+OG0005532	GH43_36=97; no_cazy_match=9; GH43_10=8; CBM91=4
+OG0005538	GH65=111; no_cazy_match=6
+OG0005540	no_cazy_match=116; GH43_30=1
+OG0005549	no_cazy_match=103; GH18=8; CBM5=4; GH19_2=2
+OG0005574	GH20=103; no_cazy_match=13
+OG0005576	no_cazy_match=102; GH177=14
+OG0005609	GT1=101; no_cazy_match=14
+OG0005626	no_cazy_match=113; GH5_41=1
+OG0005635	PL4_3=79; PL4=23; no_cazy_match=12
+OG0005651	no_cazy_match=112; GT15=1
+OG0005666	no_cazy_match=106; GT32=6
+OG0005673	no_cazy_match=111; GH43_21=1
+OG0005682	CE12=108; no_cazy_match=4
+OG0005688	no_cazy_match=97; GT61=15
+OG0005722	GT10=98; no_cazy_match=12
+OG0005736	no_cazy_match=109; GH76=1
+OG0005788	no_cazy_match=107; GH27=1; AA11=1
+OG0005808	PL8=49; PL8_4=47; no_cazy_match=7; PL8_3=5
+OG0005809	no_cazy_match=107; AA5_1=1
+OG0005829	no_cazy_match=106; CE16=1
+OG0005850	PL42=90; no_cazy_match=17
+OG0005853	no_cazy_match=106; GH32=1
+OG0005872	no_cazy_match=105; AA1=1
+OG0005878	GH75=101; no_cazy_match=5
+OG0005921	no_cazy_match=104; GH23=1
+OG0005923	no_cazy_match=103; GH85=1; GH16_3=1
+OG0005943	no_cazy_match=103; GH85=1
+OG0005974	GH132=100; no_cazy_match=3
+OG0005998	no_cazy_match=102; GH12=1
+OG0006034	CE1=62; no_cazy_match=28; fungi_doc=12
+OG0006040	no_cazy_match=101; GH3=1
+OG0006084	no_cazy_match=66; GT2_Glyco_tranf_2_3=33; GT2_Glyco_trans_2_3=2
+OG0006155	no_cazy_match=98; CE8=1
+OG0006171	no_cazy_match=98; CE8=1
+OG0006208	no_cazy_match=97; GH18=1
+OG0006228	no_cazy_match=73; GT8=25
+OG0006329	no_cazy_match=95; GH16_1=1
+OG0006372	no_cazy_match=94; GH179=1
+OG0006373	no_cazy_match=91; CBM52=3; CBM18=1
+OG0006374	CE2=77; no_cazy_match=17; fungi_doc=1
+OG0006386	GH2=86; no_cazy_match=8
+OG0006393	GT109=86; no_cazy_match=8
+OG0006406	no_cazy_match=92; AA1=1; GH17=1
+OG0006445	no_cazy_match=92; GH14=1
+OG0006474	no_cazy_match=66; GT2_Glyco_tranf_2_3=18; GH16_3=8; GT2_Glycos_transf_2=1
+OG0006481	AA3=80; no_cazy_match=13
+OG0006488	GH106=82; no_cazy_match=11
+OG0006496	GT47=83; no_cazy_match=9
+OG0006500	no_cazy_match=52; GT114=38; GT71=1; GT17=1
+OG0006504	no_cazy_match=91; CE2=1
+OG0006505	no_cazy_match=91; GH5_31=1
+OG0006531	GH76=58; no_cazy_match=34
+OG0006534	no_cazy_match=91; GH131=1
+OG0006545	GH127=86; no_cazy_match=6
+OG0006554	no_cazy_match=66; fungi_doc=25
+OG0006555	GH20=85; no_cazy_match=6
+OG0006607	no_cazy_match=88; CBM1=3
+OG0006617	no_cazy_match=89; GH16_19=1
+OG0006654	no_cazy_match=89; GH179=1
+OG0006677	no_cazy_match=88; GT77=1
+OG0006690	no_cazy_match=88; GH179=1
+OG0006730	GH18=62; no_cazy_match=26
+OG0006768	no_cazy_match=87; CBM18=1
+OG0006844	no_cazy_match=85; GH18=1
+OG0006880	no_cazy_match=81; CBM52=5
+OG0006894	no_cazy_match=85; fungi_doc=1
+OG0006901	no_cazy_match=84; GT64=1
+OG0006914	no_cazy_match=84; AA3_2=1
+OG0006996	no_cazy_match=83; AA8=1
+OG0006998	no_cazy_match=83; AA9=1
+OG0007038	no_cazy_match=82; GT2_Chitin_synth_2=1
+OG0007071	no_cazy_match=82; AA8=1
+OG0007123	no_cazy_match=81; GH128=1
+OG0007124	no_cazy_match=81; GH76=1
+OG0007126	GH177=74; no_cazy_match=8
+OG0007226	no_cazy_match=69; GT61=11
+OG0007254	no_cazy_match=78; CE16=2
+OG0007259	no_cazy_match=79; GH8=1
+OG0007260	GH26=71; no_cazy_match=4; fungi_doc=4; CBM35=1
+OG0007263	GH16_10=78; no_cazy_match=2
+OG0007266	no_cazy_match=48; GT61=25; GT65=5; GT68=2
+OG0007304	CE2=74; no_cazy_match=5
+OG0007308	no_cazy_match=77; CBM10=2
+OG0007311	CE5=72; no_cazy_match=7
+OG0007321	CBM67=63; no_cazy_match=16
+OG0007344	GT31=39; GT12=24; no_cazy_match=15
+OG0007346	no_cazy_match=77; GH18=1
+OG0007399	no_cazy_match=76; AA3_2=1
+OG0007414	GH54=75; CBM42=1; no_cazy_match=1
+OG0007441	GH89=73; no_cazy_match=3
+OG0007488	no_cazy_match=74; GH5_31=1
+OG0007536	GT2_Glyco_trans_2_3=32; GT2_Glyco_tranf_2_3=25; no_cazy_match=18
+OG0007579	GH67=68; no_cazy_match=6
+OG0007597	GH93=71; no_cazy_match=2; GT62=1
+OG0007603	no_cazy_match=69; CBM18=5
+OG0007612	no_cazy_match=72; GH2=1
+OG0007637	no_cazy_match=71; CE4=2
+OG0007639	GH36=72; no_cazy_match=1
+OG0007709	no_cazy_match=67; GH26=5
+OG0007716	no_cazy_match=71; GH16_1=1
+OG0007727	no_cazy_match=70; CBM47=1
+OG0007774	no_cazy_match=48; CBM50=22; GH18=1
+OG0007781	fungi_doc=55; no_cazy_match=15; CBM1=1
+OG0007801	GH31_15=61; no_cazy_match=7; GH31_18=2
+OG0007819	no_cazy_match=69; CE4=1
+OG0007892	GT69=69
+OG0007935	CE1=59; fungi_doc=6; no_cazy_match=4
+OG0007953	no_cazy_match=67; GH18=1
+OG0007969	GH35=61; no_cazy_match=7
+OG0008009	no_cazy_match=65; CE16=2
+OG0008030	no_cazy_match=66; GT47=1
+OG0008037	no_cazy_match=66; GH5_5=1
+OG0008064	no_cazy_match=65; GT71=1
+OG0008092	PL1_2=64; no_cazy_match=2
+OG0008103	no_cazy_match=65; GT6=1
+OG0008110	no_cazy_match=59; CBM13=7
+OG0008164	PL26=62; no_cazy_match=3
+OG0008171	no_cazy_match=58; AA2=7
+OG0008181	no_cazy_match=64; CBM32=1
+OG0008285	no_cazy_match=61; GH99=1; CBM92=1
+OG0008361	no_cazy_match=61; GH3=1
+OG0008408	no_cazy_match=61; GT90=1
+OG0008409	no_cazy_match=61; GT32=1
+OG0008412	fungi_doc=40; no_cazy_match=22
+OG0008417	no_cazy_match=46; CBM21=16
+OG0008479	no_cazy_match=60; fungi_coh=1
+OG0008499	AA3_4=44; no_cazy_match=11; AA3=5
+OG0008504	no_cazy_match=59; AA12=1
+OG0008526	no_cazy_match=59; GT37=1
+OG0008555	GH114=55; no_cazy_match=5
+OG0008595	no_cazy_match=56; AA9=3
+OG0008681	GH27=52; no_cazy_match=6
+OG0008699	no_cazy_match=57; GH18=1
+OG0008704	GH16_23=44; no_cazy_match=14
+OG0008729	no_cazy_match=44; AA7=13
+OG0008748	PL4_5=54; no_cazy_match=2; PL4=1
+OG0008788	no_cazy_match=35; fungi_doc=17; CBM1=5
+OG0008823	no_cazy_match=54; fungi_doc=2
+OG0008859	no_cazy_match=55; fungi_coh=1
+OG0008862	CE6=41; fungi_doc=9; no_cazy_match=6
+OG0008953	no_cazy_match=54; CBM18=1
+OG0008954	no_cazy_match=45; fungi_doc=10
+OG0008968	no_cazy_match=49; GT8=5
+OG0009032	no_cazy_match=52; GH128=2
+OG0009046	GH48=50; no_cazy_match=4
+OG0009089	GH3=48; no_cazy_match=5
+OG0009091	GH142=51; no_cazy_match=2
+OG0009098	no_cazy_match=47; PL29=6
+OG0009190	no_cazy_match=33; fungi_doc=13; CBM29=6
+OG0009203	PL9_3=48; PL9=3; PL9_2=1
+OG0009206	no_cazy_match=51; PL22=1
+OG0009214	no_cazy_match=50; CBM13=2
+OG0009215	GH3=50; no_cazy_match=2
+OG0009280	no_cazy_match=50; GH18=1
+OG0009314	GH19_2=40; no_cazy_match=7; GH18=3; CBM5=1
+OG0009343	GH128=48; no_cazy_match=2
+OG0009441	CBM9=42; no_cazy_match=6; GH18=1
+OG0009457	no_cazy_match=47; GH16_1=2
+OG0009484	GT77=39; no_cazy_match=10
+OG0009511	CE3=37; no_cazy_match=12
+OG0009543	GH140=37; no_cazy_match=11
+OG0009573	GH16_3=48
+OG0009596	no_cazy_match=47; CE4=1
+OG0009657	GH78=44; no_cazy_match=2; CBM67=1
+OG0009697	no_cazy_match=46; CE1=1
+OG0009698	GH94=47
+OG0009761	no_cazy_match=42; GT77=5
+OG0009769	no_cazy_match=46; GH38=1
+OG0009787	no_cazy_match=45; GT71=1
+OG0009789	no_cazy_match=45; GT61=1
+OG0009790	GT8=29; no_cazy_match=17
+OG0009845	no_cazy_match=41; GT23=5
+OG0009885	no_cazy_match=32; GH19=11; CBM18=3
+OG0009900	GH31_13=43; no_cazy_match=2
+OG0009961	no_cazy_match=43; CBM13=2
+OG0009993	no_cazy_match=44; GT1=1
+OG0010016	GH2=38; no_cazy_match=6
+OG0010018	no_cazy_match=43; AA7=1
+OG0010106	no_cazy_match=43; GH183=1
+OG0010118	no_cazy_match=43; fungi_doc=1
+OG0010122	no_cazy_match=43; CE4=1
+OG0010142	no_cazy_match=37; GH46=3; CE4=3
+OG0010157	no_cazy_match=42; GT90=1
+OG0010176	no_cazy_match=42; CE16=1
+OG0010207	no_cazy_match=42; GT4=1
+OG0010224	GH5_23=40; no_cazy_match=3
+OG0010231	no_cazy_match=38; CBM18=4; fungi_doc=1
+OG0010257	GT43=27; no_cazy_match=15
+OG0010287	GH146=39; no_cazy_match=2; GH127=1
+OG0010291	AA13=42
+OG0010297	GH134=41; no_cazy_match=1
+OG0010302	no_cazy_match=41; GH16_19=1
+OG0010334	no_cazy_match=41; CBM13=1
+OG0010370	PL7=38; no_cazy_match=4
+OG0010460	GH44=38; GH5_5=2; no_cazy_match=1
+OG0010520	GT60=32; no_cazy_match=8
+OG0010571	GT5=37; no_cazy_match=3
+OG0010602	no_cazy_match=39; GH177=1
+OG0010622	fungi_doc=24; no_cazy_match=16
+OG0010664	GH29=30; no_cazy_match=8; GH35=1
+OG0010666	no_cazy_match=34; GH25=5
+OG0010712	no_cazy_match=29; PL38=10
+OG0010732	no_cazy_match=21; CE1=18
+OG0010750	no_cazy_match=35; AA7=4
+OG0010886	PL7_4=36; no_cazy_match=2
+OG0010888	no_cazy_match=22; GT31=16
+OG0010924	no_cazy_match=37; fungi_doc=1
+OG0010925	no_cazy_match=30; fungi_coh=8
+OG0010936	no_cazy_match=36; GH46=2
+OG0010937	no_cazy_match=37; AA3_1=1
+OG0010957	no_cazy_match=32; CBM18=5
+OG0011003	GH8=36; no_cazy_match=1
+OG0011004	no_cazy_match=32; GT92=5
+OG0011077	no_cazy_match=35; GT10=1; GT71=1
+OG0011087	no_cazy_match=28; CBM13=9
+OG0011116	GH106=34; no_cazy_match=2
+OG0011212	no_cazy_match=25; GT34=11
+OG0011222	no_cazy_match=33; CBM19=3
+OG0011227	no_cazy_match=26; fungi_doc=10
+OG0011254	GH28=34; no_cazy_match=1
+OG0011306	no_cazy_match=34; GH16_19=1
+OG0011363	no_cazy_match=33; CBM18=2
+OG0011446	no_cazy_match=33; GH1=1
+OG0011459	no_cazy_match=33; CBM50=1
+OG0011466	AA3=25; no_cazy_match=9
+OG0011617	no_cazy_match=31; fungi_doc=2
+OG0011739	CBM13=18; fungi_doc=5; no_cazy_match=5; CBM35=5
+OG0011742	no_cazy_match=32; fungi_coh=1
+OG0011787	GH33=24; no_cazy_match=8
+OG0011789	no_cazy_match=30; GT8=2
+OG0011848	GH13_11=24; GH13_14=6; no_cazy_match=2
+OG0011900	no_cazy_match=28; GT61=4
+OG0011920	no_cazy_match=24; GT34=7; GT25=1
+OG0011965	PL7=23; no_cazy_match=5; PL7_3=4
+OG0011996	GH30_4=19; GH30=8; no_cazy_match=3; GH30_5=1
+OG0012048	GH31_8=28; no_cazy_match=3
+OG0012077	no_cazy_match=27; GH183=4
+OG0012128	fungi_doc=22; CBM1=5; no_cazy_match=4
+OG0012160	no_cazy_match=28; CBM32=3
+OG0012167	no_cazy_match=29; GT8=1
+OG0012194	no_cazy_match=23; CE1=7
+OG0012217	no_cazy_match=21; GT1=9
+OG0012227	no_cazy_match=29; GT8=1
+OG0012234	no_cazy_match=29; AA9=1
+OG0012292	no_cazy_match=29; CBM24=1
+OG0012323	no_cazy_match=20; CBM18=9; CBM52=1
+OG0012324	no_cazy_match=27; CBM18=3
+OG0012326	no_cazy_match=28; fungi_doc=1; GH173=1
+OG0012482	GH42=29
+OG0012503	no_cazy_match=28; AA7=1
+OG0012536	no_cazy_match=28; AA2=1
+OG0012539	no_cazy_match=24; CBM18=5
+OG0012544	CE1=21; no_cazy_match=3; CBM13=3; fungi_doc=1; GH10=1
+OG0012546	CE1=21; no_cazy_match=7; CBM18=1
+OG0012589	GT27=26; CBM13=1; no_cazy_match=1
+OG0012593	GH76=28
+OG0012648	GH152=14; no_cazy_match=14
+OG0012718	GH49=25; no_cazy_match=3
+OG0012720	no_cazy_match=27; AA11=1
+OG0012759	CE1=28
+OG0012776	GH46=23; no_cazy_match=5
+OG0012824	no_cazy_match=26; cohesin=1
+OG0012825	GT31=25; no_cazy_match=2
+OG0012922	no_cazy_match=26; CBM13=1
+OG0012940	GH78=24; no_cazy_match=3
+OG0012958	no_cazy_match=24; GH18=2; GH16_3=1
+OG0013054	no_cazy_match=26; GH16_19=1
+OG0013055	no_cazy_match=26; CBM51=1
+OG0013058	no_cazy_match=26; CE1=1
+OG0013129	no_cazy_match=25; fungi_doc=1
+OG0013131	CBM52=19; no_cazy_match=7
+OG0013197	GH16_3=24; GH11=1; no_cazy_match=1
+OG0013198	GT91=23; no_cazy_match=3
+OG0013200	no_cazy_match=19; GT31=7
+OG0013227	no_cazy_match=19; GT2_Glycos_transf_2=6; GT4=1
+OG0013239	no_cazy_match=18; CBM18=8
+OG0013240	fungi_doc=21; no_cazy_match=5
+OG0013245	no_cazy_match=16; GH26=6; fungi_doc=4
+OG0013247	no_cazy_match=25; GH1=1
+OG0013297	GH31_12=23; no_cazy_match=2; CBM21=1
+OG0013433	PL20=25
+OG0013552	GH10=25
+OG0013553	no_cazy_match=24; CBM10=1
+OG0013605	AA1=20; no_cazy_match=5
+OG0013608	no_cazy_match=24; CBM13=1
+OG0013635	GT8=19; GT64=3; no_cazy_match=1; GT6=1
+OG0013699	no_cazy_match=13; CBM13=11
+OG0013727	GH162=20; no_cazy_match=4
+OG0013816	no_cazy_match=23; AA9=1
+OG0013917	no_cazy_match=23; GH76=1
+OG0013931	no_cazy_match=21; CBM47=2
+OG0013939	GH141=20; no_cazy_match=3
+OG0013969	no_cazy_match=18; GH125=5
+OG0013984	no_cazy_match=22; GH36=1
+OG0014008	no_cazy_match=17; GH15=6
+OG0014019	GH77=22; no_cazy_match=1
+OG0014064	GH28=23
+OG0014116	no_cazy_match=19; GT77=4
+OG0014141	GH5_34=19; no_cazy_match=4
+OG0014157	no_cazy_match=21; CBM18=1; fungi_doc=1
+OG0014167	no_cazy_match=21; CBM18=2
+OG0014176	no_cazy_match=21; CBM50=2
+OG0014275	no_cazy_match=21; GH183=1
+OG0014279	no_cazy_match=15; GH135=7
+OG0014359	no_cazy_match=19; GT71=3
+OG0014399	no_cazy_match=17; CE4=5
+OG0014417	no_cazy_match=21; GH16_1=1
+OG0014451	GT17=20; no_cazy_match=2
+OG0014497	no_cazy_match=21; AA9=1
+OG0014512	no_cazy_match=21; GH46=1
+OG0014533	no_cazy_match=21; GT71=1
+OG0014584	GH14=18; no_cazy_match=3; CBM20=1
+OG0014723	no_cazy_match=15; GT37=3; GT23=2; GH18=1
+OG0014788	GH18=15; no_cazy_match=6
+OG0014842	PL33_2=17; no_cazy_match=3; PL33=1
+OG0014895	no_cazy_match=19; CBM18=2
+OG0014914	no_cazy_match=20; GT10=1
+OG0014994	no_cazy_match=20; GH18=1
+OG0015017	no_cazy_match=18; GT31=2
+OG0015025	no_cazy_match=19; CBM26=1
+OG0015031	GH130_3=14; no_cazy_match=5; GH130=1
+OG0015082	no_cazy_match=17; GH18=3
+OG0015301	no_cazy_match=19; AA14=1
+OG0015323	no_cazy_match=11; CBM18=9
+OG0015337	no_cazy_match=19; GH128=1
+OG0015364	no_cazy_match=19; PL1_8=1
+OG0015456	no_cazy_match=18; GH16_19=1
+OG0015474	GT15=19
+OG0015509	GT55=16; no_cazy_match=3
+OG0015562	no_cazy_match=18; CBM32=1
+OG0015574	GH13_26=19
+OG0015642	GH43_23=15; no_cazy_match=4
+OG0015670	GH36=18; no_cazy_match=1
+OG0015682	GT14=17; no_cazy_match=2
+OG0015908	no_cazy_match=18; GT31=1
+OG0015929	GT13=13; no_cazy_match=5
+OG0016016	no_cazy_match=17; GT32=1
+OG0016030	no_cazy_match=17; GH18=1
+OG0016144	PL1_2=17; no_cazy_match=1
+OG0016170	no_cazy_match=16; GH17=2
+OG0016206	no_cazy_match=16; AA3_2=2
+OG0016271	no_cazy_match=11; CBM13=7
+OG0016274	fungi_doc=12; no_cazy_match=6
+OG0016275	fungi_coh=10; no_cazy_match=8
+OG0016280	fungi_doc=11; no_cazy_match=7
+OG0016289	no_cazy_match=17; GT71=1
+OG0016676	no_cazy_match=16; CE2=1
+OG0016744	PL11_2=12; no_cazy_match=3; PL11=2
+OG0016831	no_cazy_match=16; CBM21=1
+OG0016855	no_cazy_match=16; CBM18=1
+OG0016856	fungi_doc=15; no_cazy_match=2
+OG0016899	no_cazy_match=16; GT71=1
+OG0017021	no_cazy_match=15; CBM51=2
+OG0017046	no_cazy_match=12; CBM14=4
+OG0017071	no_cazy_match=15; GT4=1
+OG0017074	CE20=15; no_cazy_match=1
+OG0017105	no_cazy_match=15; GH28=1
+OG0017220	no_cazy_match=8; GT4=8
+OG0017227	no_cazy_match=13; CBM1=3
+OG0017258	no_cazy_match=15; AA9=1
+OG0017261	GH172=14; no_cazy_match=2
+OG0017266	GH13=14; no_cazy_match=1; GH13_10=1
+OG0017505	no_cazy_match=15; CBM18=1
+OG0017515	no_cazy_match=15; GH24=1
+OG0017526	no_cazy_match=9; GT8=5; GT92=2
+OG0017527	GH5_8=14; no_cazy_match=2
+OG0017681	no_cazy_match=15; GT8=1
+OG0017690	no_cazy_match=11; AA5_2=3; AA5_1=2
+OG0017699	CBM13=10; no_cazy_match=6
+OG0017724	no_cazy_match=15; CBM96=1
+OG0017739	GH38=14; no_cazy_match=1
+OG0017743	CBM14=13; no_cazy_match=2
+OG0017950	GH18=13; no_cazy_match=2
+OG0017962	AA3=14; no_cazy_match=1
+OG0017972	no_cazy_match=14; GH179=1
+OG0018008	GH43_33=13; no_cazy_match=2
+OG0018276	fungi_doc=11; no_cazy_match=4
+OG0018323	no_cazy_match=14; GH20=1
+OG0018534	GH110=9; no_cazy_match=6
+OG0018652	GT1=13; no_cazy_match=1
+OG0018787	no_cazy_match=13; CE4=1
+OG0018800	CBM13=9; no_cazy_match=5
+OG0018842	no_cazy_match=13; CBM18=1
+OG0018959	GH32=14
+OG0018975	GT109=14
+OG0019043	GT47=9; no_cazy_match=5
+OG0019186	no_cazy_match=10; CBM18=4
+OG0019219	no_cazy_match=13; GH47=1
+OG0019253	GH5_13=13; GH5=1
+OG0019271	no_cazy_match=8; CBM18=6
+OG0019272	no_cazy_match=13; CBM18=1
+OG0019284	no_cazy_match=13; GT2_Glycos_transf_2=1
+OG0019422	no_cazy_match=9; CBM87=5
+OG0019463	GH22=11; no_cazy_match=2
+OG0019484	GH33=11; no_cazy_match=2
+OG0019499	no_cazy_match=8; CBM66=5
+OG0019576	no_cazy_match=12; GH28=1
+OG0019799	no_cazy_match=12; CBM50=1
+OG0019849	GH43_37=11; no_cazy_match=2
+OG0019988	no_cazy_match=9; GT92=4
+OG0020052	no_cazy_match=9; CBM18=4
+OG0020058	no_cazy_match=12; GH18=1
+OG0020089	no_cazy_match=12; GT2_Glyco_tranf_2_4=1
+OG0020144	CBM87=12; no_cazy_match=1
+OG0020192	GH9=13
+OG0020285	no_cazy_match=11; CBM67=2
+OG0020351	no_cazy_match=11; CBM19=2
+OG0020650	CE2=7; no_cazy_match=5
+OG0020721	no_cazy_match=10; GT2_Glyco_tranf_2_4=2
+OG0020795	no_cazy_match=11; GH129=1
+OG0020839	AA10=10; no_cazy_match=2
+OG0020879	GH52=12
+OG0020913	no_cazy_match=11; GH16_1=1
+OG0021108	CBM87=8; no_cazy_match=4
+OG0021364	no_cazy_match=9; fungi_coh=3
+OG0021388	fungi_doc=11; no_cazy_match=1
+OG0021421	no_cazy_match=10; CBM13=2
+OG0021483	no_cazy_match=11; GT69=1
+OG0021528	no_cazy_match=11; CBM20=1
+OG0021596	GT77=10; no_cazy_match=2
+OG0021791	CBM14=6; no_cazy_match=5
+OG0021793	GT7=11
+OG0021803	GT31=11
+OG0021827	no_cazy_match=9; GH141=2
+OG0022203	no_cazy_match=10; GT25=1
+OG0022285	GH43_26=8; no_cazy_match=2; GH43=1
+OG0022345	GH55_1=11
+OG0022351	AA9=10; no_cazy_match=1
+OG0022541	no_cazy_match=10; CBM13=1
+OG0022741	GH5=7; no_cazy_match=4
+OG0022775	CBM13=6; no_cazy_match=5
+OG0022846	GH8=6; no_cazy_match=3; fungi_doc=2
+OG0022873	no_cazy_match=10; fungi_doc=1
+OG0022875	GH24=6; no_cazy_match=5
+OG0022897	PL15=7; no_cazy_match=3; PL15_1=1
+OG0023204	no_cazy_match=10; GT61=1
+OG0023289	GH18=9; no_cazy_match=2
+OG0023335	no_cazy_match=9; CBM14=1
+OG0023336	GT105=7; no_cazy_match=3
+OG0023339	CE13=9; no_cazy_match=1
+OG0023358	no_cazy_match=9; CBM1=1
+OG0023735	GT62=7; no_cazy_match=3
+OG0023774	no_cazy_match=8; GH152=2
+OG0024009	GH136=8; no_cazy_match=2
+OG0024036	no_cazy_match=9; GT61=1
+OG0024401	CE16=9; no_cazy_match=1
+OG0024408	no_cazy_match=6; GT4=4
+OG0024515	no_cazy_match=8; CBM18=2
+OG0024533	no_cazy_match=6; fungi_coh=4
+OG0024534	fungi_doc=6; no_cazy_match=4
+OG0024539	fungi_doc=10
+OG0024545	no_cazy_match=9; CBM18=1
+OG0024572	no_cazy_match=9; CBM5=1
+OG0024792	no_cazy_match=9; AA3_2=1
+OG0025034	no_cazy_match=6; CBM18=4
+OG0025162	GH39=7; no_cazy_match=2
+OG0025503	no_cazy_match=7; GT91=2
+OG0025649	no_cazy_match=8; GT4=1
+OG0025953	PL27=9
+OG0026222	no_cazy_match=6; fungi_doc=3
+OG0026462	no_cazy_match=8; fungi_doc=1
+OG0026489	GH25=7; no_cazy_match=2
+OG0026519	no_cazy_match=6; fungi_doc=3
+OG0027017	no_cazy_match=5; AA2=4
+OG0027126	GT14=6; no_cazy_match=3
+OG0027239	GH84=8
+OG0027250	GT47=6; no_cazy_match=1; GT64=1
+OG0027284	GT77=6; no_cazy_match=2
+OG0027287	no_cazy_match=5; GT110=3
+OG0027362	GH139=6; no_cazy_match=2
+OG0027725	GT51=5; no_cazy_match=3
+OG0027748	PL8=6; GT15=1; no_cazy_match=1
+OG0027919	GH128=7; no_cazy_match=1
+OG0028203	no_cazy_match=6; GH63=2
+OG0028647	GH18=4; no_cazy_match=4
+OG0028653	no_cazy_match=7; GH5_5=1
+OG0028856	CBM26=3; no_cazy_match=3; CBM25=2
+OG0028878	CE4=8
+OG0028889	no_cazy_match=6; CBM13=2
+OG0028898	fungi_doc=7; no_cazy_match=1
+OG0028954	fungi_coh=5; no_cazy_match=3
+OG0029087	CBM18=5; no_cazy_match=3
+OG0029123	GT77=5; no_cazy_match=3
+OG0029544	no_cazy_match=7; GT2_Chitin_synth_2=1
+OG0029628	no_cazy_match=7; GH16_19=1
+OG0029860	no_cazy_match=7; GT71=1
+OG0029915	CBM14=6; no_cazy_match=1
+OG0029931	no_cazy_match=4; GT16=2; GT13=1
+OG0029977	GH79=5; no_cazy_match=2
+OG0029991	GT77=7
+OG0030223	GT39=4; no_cazy_match=3
+OG0030613	no_cazy_match=6; GT77=1
+OG0030787	no_cazy_match=4; GH18=3
+OG0031099	no_cazy_match=6; CBM12=1
+OG0031125	GH2=4; no_cazy_match=3
+OG0031126	CE1=6; no_cazy_match=1
+OG0031570	GH171=6; no_cazy_match=1
+OG0031857	no_cazy_match=5; CBM13=2
+OG0031971	no_cazy_match=4; GH106=3
+OG0031984	fungi_doc=5; no_cazy_match=2
+OG0031999	CBM29=7
+OG0032002	fungi_doc=6; no_cazy_match=1
+OG0032025	GH124=7
+OG0032114	no_cazy_match=6; fungi_coh=1
+OG0032120	fungi_doc=5; no_cazy_match=2
+OG0032125	fungi_coh=5; no_cazy_match=2
+OG0032129	no_cazy_match=6; GT101=1
+OG0032258	no_cazy_match=5; fungi_coh=2
+OG0032408	CBM43=5; no_cazy_match=2
+OG0032462	no_cazy_match=6; CBM50=1
+OG0032567	no_cazy_match=5; GH18=2
+OG0032987	no_cazy_match=6; CBM66=1
+OG0032997	no_cazy_match=4; CBM92=3
+OG0033059	no_cazy_match=5; GT77=2
+OG0033312	GT6=4; no_cazy_match=3
+OG0033327	no_cazy_match=4; GH18=3
+OG0033339	PL7=4; no_cazy_match=3
+OG0033418	GT92=6
+OG0033439	no_cazy_match=5; GT31=1
+OG0033444	no_cazy_match=4; SLH=2
+OG0033476	no_cazy_match=5; GH39=1
+OG0033828	no_cazy_match=5; CE1=1
+OG0033878	GT2_Chitin_synth_2=3; no_cazy_match=3
+OG0034142	no_cazy_match=5; GT2_Chitin_synth_2=1
+OG0034161	GT47=5; no_cazy_match=1
+OG0034215	GH13=6
+OG0034330	no_cazy_match=5; GH18=1
+OG0034727	no_cazy_match=5; GH16_21=1
+OG0034785	GH43=5; GH43_37=1
+OG0034820	GT47=4; no_cazy_match=2
+OG0035167	no_cazy_match=5; GT75=1
+OG0035258	no_cazy_match=4; AA3_2=2
+OG0035859	PL22_2=6
+OG0036213	no_cazy_match=5; fungi_doc=1
+OG0036221	fungi_doc=6
+OG0036241	CE12=6
+OG0036245	no_cazy_match=4; fungi_coh=2
+OG0036301	fungi_doc=6
+OG0036390	no_cazy_match=5; fungi_coh=1
+OG0036391	no_cazy_match=4; fungi_doc=2
+OG0036413	GT101=5; no_cazy_match=1
+OG0036427	no_cazy_match=4; fungi_doc=2
+OG0036434	no_cazy_match=5; CBM18=1
+OG0037592	GH17=4; no_cazy_match=2
+OG0038002	no_cazy_match=5; GH16_3=1
+OG0038014	no_cazy_match=5; GH13_6=1
+OG0038081	no_cazy_match=5; CE4=1
+OG0038220	GT54=5
+OG0038267	no_cazy_match=4; GT47=1
+OG0038294	no_cazy_match=3; GT4=2
+OG0038463	no_cazy_match=3; AA9=2
+OG0039021	GT6=5
+OG0039023	GT31=3; no_cazy_match=2
+OG0039668	GH9=4; no_cazy_match=1
+OG0040331	no_cazy_match=3; CE3=2
+OG0040346	no_cazy_match=3; GT4=2
+OG0040397	no_cazy_match=4; AA9=1
+OG0040893	PL42=4; no_cazy_match=1
+OG0041839	no_cazy_match=3; fungi_coh=2
+OG0041893	fungi_doc=5
+OG0042071	fungi_doc=3; no_cazy_match=2
+OG0042152	no_cazy_match=3; fungi_coh=2
+OG0042324	CBM32=5
+OG0042348	fungi_doc=5
+OG0042349	no_cazy_match=4; fungi_coh=1
+OG0042350	no_cazy_match=4; fungi_doc=1
+OG0042504	no_cazy_match=4; GH35=1
+OG0042643	CBM24=5
+OG0042668	no_cazy_match=4; CBM24=1
+OG0043148	no_cazy_match=4; GT2_Chitin_synth_1=1
+OG0043156	GH4=4; no_cazy_match=1
+OG0043728	no_cazy_match=3; GH46=2
+OG0043811	GH105=5
+OG0043904	GH10=3; no_cazy_match=2
+OG0044113	GT39=5
+OG0044118	CBM52=4; no_cazy_match=1
+OG0044265	no_cazy_match=3; CBM47=2
+OG0044343	no_cazy_match=4; GT14=1
+OG0044348	no_cazy_match=3; GT47=2
+OG0044445	no_cazy_match=3; CBM13=2
+OG0044458	no_cazy_match=4; GH18=1
+OG0044936	CBM14=4
+OG0044960	CBM14=2; no_cazy_match=2
+OG0044976	no_cazy_match=3; GT31=1
+OG0045006	CBM92=4
+OG0045010	GT23=4
+OG0045315	no_cazy_match=3; AA3_2=1
+OG0045770	GH18=4
+OG0046091	no_cazy_match=3; GH46=1
+OG0046637	no_cazy_match=3; AA3_2=1
+OG0046899	no_cazy_match=3; AA3_2=1
+OG0047196	GH97=4
+OG0047849	AA10=4
+OG0048330	no_cazy_match=3; AA3_2=1
+OG0048503	no_cazy_match=2; GH120=2
+OG0048848	GH24=3; no_cazy_match=1
+OG0049396	no_cazy_match=3; CBM1=1
+OG0050442	no_cazy_match=3; GH25=1
+OG0050467	no_cazy_match=2; CBM25=1; CBM26=1
+OG0050515	no_cazy_match=3; fungi_doc=1
+OG0050537	fungi_doc=3; no_cazy_match=1
+OG0050582	fungi_doc=3; no_cazy_match=1
+OG0050588	GH48=4
+OG0050672	no_cazy_match=2; fungi_doc=2
+OG0050696	CBM18=3; no_cazy_match=1
+OG0050773	fungi_doc=4
+OG0050829	no_cazy_match=3; fungi_coh=1
+OG0050968	fungi_coh=2; no_cazy_match=2
+OG0051002	CBM18=3; no_cazy_match=1
+OG0051021	fungi_coh=3; no_cazy_match=1
+OG0051037	CBM13=3; GH5_35=1
+OG0051044	no_cazy_match=3; CBM18=1
+OG0051048	fungi_doc=2; no_cazy_match=2
+OG0051052	no_cazy_match=3; CBM18=1
+OG0051649	PL10=3; no_cazy_match=1
+OG0051710	no_cazy_match=3; GH38=1
+OG0051765	no_cazy_match=2; GT2_Glycos_transf_2=2
+OG0052008	GT90=3; no_cazy_match=1
+OG0052519	GH18=4
+OG0053123	no_cazy_match=3; CBM20=1
+OG0053158	no_cazy_match=3; GT92=1
+OG0053370	GT15=4
+OG0053955	CBM13=2; no_cazy_match=2
+OG0054008	CE14=3; no_cazy_match=1
+OG0054017	no_cazy_match=3; GT2_Glycos_transf_2=1
+OG0054020	GH172=3; no_cazy_match=1
+OG0054309	no_cazy_match=3; CBM13=1
+OG0054984	no_cazy_match=3; CE8=1
+OG0055072	AA15=3
+OG0055138	CBM39=3
+OG0055151	GT65=3
+OG0055213	GH99=3
+OG0055310	no_cazy_match=2; GH55_3=1
+OG0056740	no_cazy_match=2; CBM50=1
+OG0057287	no_cazy_match=2; CBM5=1
+OG0057801	CE13=3
+OG0057943	no_cazy_match=2; AA3_2=1
+OG0058103	no_cazy_match=2; CBM50=1
+OG0058315	AA17=2; no_cazy_match=1
+OG0058345	GH76=3
+OG0058618	no_cazy_match=2; GH33=1
+OG0059080	no_cazy_match=2; CBM52=1
+OG0059146	CE8=2; no_cazy_match=1
+OG0060424	CE16=2; no_cazy_match=1
+OG0061156	no_cazy_match=2; GT25=1
+OG0061174	GH78=2; no_cazy_match=1
+OG0061505	GT92=2; no_cazy_match=1
+OG0061506	GT64=2; GT8=1
+OG0062578	no_cazy_match=2; GT37=1
+OG0063215	no_cazy_match=2; fungi_doc=1
+OG0063239	fungi_doc=2; no_cazy_match=1
+OG0063299	no_cazy_match=2; CBM18=1
+OG0063314	fungi_doc=3
+OG0063370	fungi_doc=3
+OG0063386	fungi_doc=3
+OG0063408	no_cazy_match=2; GT2_Chitin_synth_2=1
+OG0063437	fungi_doc=2; no_cazy_match=1
+OG0063440	CBM26=2; CBM25=1
+OG0063447	fungi_doc=2; no_cazy_match=1
+OG0063502	fungi_coh=2; no_cazy_match=1
+OG0063511	fungi_doc=2; no_cazy_match=1
+OG0063787	no_cazy_match=2; fungi_doc=1
+OG0063803	GH73=2; no_cazy_match=1
+OG0063812	GH10=3
+OG0063819	CBM18=2; no_cazy_match=1
+OG0063859	fungi_doc=3
+OG0065426	no_cazy_match=2; CE5=1
+OG0067561	SLH=2; CBM9=1
+OG0067575	SLH=2; CBM35=1
+OG0067579	no_cazy_match=2; CE4=1
+OG0068243	GH20=2; no_cazy_match=1
+OG0068953	no_cazy_match=2; CBM13=1
+OG0069005	GT4=3
+OG0069009	no_cazy_match=2; CBM47=1
+OG0069022	CE2=2; no_cazy_match=1
+OG0069706	no_cazy_match=2; GH18=1
+OG0069741	no_cazy_match=2; CE4=1
+OG0069958	no_cazy_match=2; CE4=1
+OG0069980	CBM1=2; no_cazy_match=1
+OG0070261	no_cazy_match=2; GH31_18=1
+OG0070786	no_cazy_match=2; GH18=1
+OG0070842	GT102=3
+OG0071418	GT68=1; no_cazy_match=1
+OG0071491	GH39=1; no_cazy_match=1
+OG0071582	CBM40=2
+OG0071596	CBM57=2
+OG0071649	GT11=1; no_cazy_match=1
+OG0071662	GT4=1; no_cazy_match=1
+OG0071678	GH16_14=2
+OG0071710	GH59=2
+OG0072180	no_cazy_match=1; GT39=1
+OG0072393	GH72=2
+OG0076238	no_cazy_match=1; GH117=1
+OG0076419	PL7=2
+OG0076727	GH128=2
+OG0078666	no_cazy_match=1; CBM96=1
+OG0078919	no_cazy_match=1; GT39=1
+OG0079184	GH129=2
+OG0079683	GH71=2
+OG0084160	CBM91=2
+OG0084832	no_cazy_match=1; GH18=1
+OG0085031	GT77=2
+OG0085032	GT47=1; no_cazy_match=1
+OG0085797	GH182=2
+OG0086091	AA9=2
+OG0088898	no_cazy_match=1; CBM18=1
+OG0090654	no_cazy_match=1; CBM18=1
+OG0090665	fungi_doc=2
+OG0090669	fungi_doc=1; no_cazy_match=1
+OG0090834	fungi_coh=2
+OG0091198	CBM29=2
+OG0091213	fungi_doc=2
+OG0091216	CBM18=2
+OG0091217	no_cazy_match=1; CBM18=1
+OG0091285	fungi_doc=1; no_cazy_match=1
+OG0091346	fungi_doc=2
+OG0091448	no_cazy_match=1; fungi_doc=1
+OG0091466	fungi_coh=2
+OG0091467	CBM18=1; no_cazy_match=1
+OG0091507	fungi_doc=2
+OG0091508	GH10=2
+OG0091554	fungi_doc=2
+OG0091606	CBM18=2
+OG0092197	CBM13=2
+OG0092894	fungi_doc=2
+OG0092938	fungi_coh=2
+OG0092950	fungi_doc=1; no_cazy_match=1
+OG0094002	GH5=2
+OG0096837	GH5_40=2
+OG0096930	GT81=1; GT2_Glycos_transf_2=1
+OG0102343	CBM13=1; no_cazy_match=1
+OG0103013	GT77=1; no_cazy_match=1
+OG0103113	GT14=1; no_cazy_match=1
+OG0103783	CBM13=1; no_cazy_match=1
+OG0103817	PL38=2
+OG0103883	PL7=2
+OG0103942	GH19=1; no_cazy_match=1
+OG0105613	CBM13=1; no_cazy_match=1
+OG0105643	PL5=2
+OG0106239	GH87=2
+OG0108509	CBM13=1; no_cazy_match=1
+OG0108820	GH128=1; no_cazy_match=1

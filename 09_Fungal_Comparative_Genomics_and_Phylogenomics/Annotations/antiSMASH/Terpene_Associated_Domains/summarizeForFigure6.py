@@ -41,13 +41,13 @@ for clade in clade_gcas:
     clade_gca_counts[clade] = len(clade_gcas[clade])
 
 dom_gcas = defaultdict(set)
-with open('Results.txt') as orf:
+with open('Results_DomInclusive.txt') as orf:
     for line in orf:
         line = line.strip()
         ls = line.split('\t')
 
         dom = ls[0]
-        gca = ls[2].split('|')[0]
+        gca = ls[1].split('|')[0]
         if gca in genus_reps:
             dom_gcas[dom].add(gca)
 

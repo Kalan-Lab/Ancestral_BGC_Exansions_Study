@@ -1,0 +1,1 @@
+diamond blastp --query HET_Domains_Extracted_from_312.faa --db HET_from_Characterized_Proteins_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp --evalue 1e-3 --out Diamond_Blastp_to_Characterized_Proteins.txt --very-sensitive

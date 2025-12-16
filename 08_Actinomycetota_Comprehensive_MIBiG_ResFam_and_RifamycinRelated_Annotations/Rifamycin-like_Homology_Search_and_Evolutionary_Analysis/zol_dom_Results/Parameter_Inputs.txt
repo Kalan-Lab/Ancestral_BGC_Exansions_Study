@@ -1,0 +1,43 @@
+Input directory / GenBank files: ['inputs/']
+Output directory: /workspace/lab/kalanlab/salamzar/multicellularity_and_bgcs/calcaneus/Multicellularity_and_BGC_Abundances/Actino/Search_for_MIBiG_BGCs/Coarse_Search_for_Rifamycin/construct_larger_phylogeny_on_domains/zol_dom_Results/
+Domain mode specified?: True
+Minimum length of chopped CDS features for inclusion: 50
+Eukaryotic Gene Cluster?: False
+Select fai parameters mode?: False
+Perform iterative DIAMOND cluster based orthogrouping instead of default InParanoid-based approach?: False
+DIAMOND cluster parameters for orthogrouping (assuming approach requested): --approx-id 50 --mutual-cover 25
+Ortholog group finding identity threshold: 30.0
+Ortholog group finding coverage threshold: 50.0
+Ortholog group finding E-value threshold: 0.001
+Ortholog group finding MCL inflation parameter: 1.5
+Use align mode in MUSCLE for alignments?: False
+Run FUBAR selection analyses?: False
+Skip GARD partitioning by recombination breakpoints?: False
+Skip BUSTED selection analysis?: False
+Time allotted to running GARD per ortholog group: 60
+Computate Beta-RDgc statistics?: False
+Focal GenBanks listing: None
+Comparator GenBanks listing: None
+Filter low quality gene clusters?: True
+Filter draft/incomplete gene clusters?: True
+Only compute orthologs and stop?: False
+Use pre-computed orthogroup designations defined in a provided file: None
+Perform broad level estimation of ortholog group conservation if dereplication requested?: False
+Comprehensive reporting of evolutionary statistics, including for non-single copy ortholog groups: False
+Rename locus tags?: True
+Use CDS features with attribute near_scaffold_edge = True.: False
+Perform Dereplication?: False
+Perform reinflation?: False
+Reinflation DIAMOND BLASTp parameters: fast 98.0 95.0
+Dereplication identity threshold: 99.0
+Dereplication coverage threshold: 95.0
+Dereplication clustering method / MCL inflation parameter: None
+Dereplication using skani with --small-genomes preset: False
+Custom annotation database: None
+Plot height: 7
+Plot width: 14
+Use full GenBank labels?: False
+Number of threads requested: 50
+Maximum memory in GB: None
+Skip Cleanup?: False
+Skip Annotations?: False
