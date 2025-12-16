@@ -10,22 +10,22 @@ Gathering of protein sequences was done by searching key-terms on UniProt + gene
 
 Final architectures considered as HI-associated are:
 
-HET
-Het-C
-ATP-cone|Ribonuc_red_lgN|Ribonuc_red_lgC
-HMG_box
-MAT1-1-2
-Patatin|NB-ARC
-HeLo|HET-s_218-289
-HET|NACHT|WD40
-SET|Rubis-subs-bind|zf-MYND
-Peptidase_S8
-GLTP
-RVT_2
-SERF-like_N
-CYSTM
-Ccdc124
-Fructosamin_kin
-Patatin|TPR_10
+* HET
+* Het-C
+* ATP-cone|Ribonuc_red_lgN|Ribonuc_red_lgC
+* HMG_box
+* MAT1-1-2
+* Patatin|NB-ARC
+* HeLo|HET-s_218-289
+* HET|NACHT|WD40
+* SET|Rubis-subs-bind|zf-MYND
+* Peptidase_S8
+* GLTP
+* RVT_2
+* SERF-like_N
+* CYSTM
+* Ccdc124
+* Fructosamin_kin
+* Patatin|TPR_10
 
 > *Note, "|" is used to separate domain names from Pfam-A in the architecture strings above. Also, tandem-repeating domains are collapsed. For instance, WD40 can repeat multiple times in the HET|NACHT|WD40 architecture.*
