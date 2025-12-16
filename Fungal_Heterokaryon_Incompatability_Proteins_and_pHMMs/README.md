@@ -1,3 +1,6 @@
+> [!NOTE]
+> This folder just contains useful files for annotation of HI proteins in fungal genomes/proteomes for users who are interested in doing this. For additional details on the HI-related analyses we did for our manuscript, please instead see [this folder](https://github.com/Kalan-Lab/Ancestral_BGC_Exansions_Study/tree/main/09_Fungal_Comparative_Genomics_and_Phylogenomics/HI_Domain_Architectures_and_HET_Phylogeny).
+
 Known HI-associated proteins were gathered from many studies/reviews, including but not limited to the following:
 
 - "Non-self recognition and programmed cell death in filamentous fungi" by Glass & Dementhon 2006
