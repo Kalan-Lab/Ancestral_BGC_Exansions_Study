@@ -1,1 +1,0 @@
-../../HI_Domain_Architectures_and_Phylogenies/Domain_Architecture/Domain_Architecture_HET_Containing_Proteins.txt
