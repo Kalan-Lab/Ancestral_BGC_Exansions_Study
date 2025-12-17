@@ -15,12 +15,9 @@ annotation_colors <- c(
   "PKS" = "#C00000",                   # Red
   "NRPS(-like)" = "#BDC3C7",           # Gray (same as Other)
   "Cytochrome P450" = "#BDC3C7",       # Gray (same as Other)
-  "Transporter" = "#3498DB",           # Blue
   "Transposase / Putative Transposase" = "#5DADE2", # Light blue
   "Reverse transcriptase" = "#2E86C1", # Medium blue
   "Putative phage integrase" = "#1B4F72", # Dark blue
-  "Tailoring enzyme" = "#F39C12",      # Orange/Yellow
-  "Regulator" = "#2ECC71",             # Green
   "Other" = "#BDC3C7"                  # Gray
 )
 
@@ -32,7 +29,7 @@ genes <- read_tsv(INPUT_FILE, show_col_types = FALSE)
 genes <- genes %>%
   mutate(
     display_category = case_when(
-      manual_annotation %in% c("Cytochrome P450", "Cytochrome 450", "NRPS(-like)") ~ "Other",
+      manual_annotation %in% c("Cytochrome P450", "NRPS(-like)") ~ "Other",
       TRUE ~ manual_annotation
     ),
     direction = ifelse(strand == "+", 1, -1)
