@@ -8,6 +8,8 @@ The file **Supplementary_Figures.pdf** contains some additional figures related 
 
 Additional datasets related to this project can be found on Zenodo at: https://zenodo.org/uploads/15168076
 
+For those interested in the annotation of fungal proteins for involvement in heterokaryon incompatability, please check out the [`Fungal_Heterokaryon_Incompatability_Proteins_and_HMMs/`](https://github.com/Kalan-Lab/Ancestral_BGC_Exansions_Study/tree/main/Fungal_Heterokaryon_Incompatability_Proteins_and_pHMMs) folder, which contains potentially useful data (e.g. sequences in FASTA format for characterized HI-associated proteins along with Pfam pHMMs of domains in these proteins and domain architecture overviews).
+
 ## Directory stucture:
 
 * **01_BacterialAndArchaealOrder_Genome_Selection**: Code for selection of genus-level representative genomes from orders for the bacterial and archaeal timetree analysis (Supplementary Table S1).
