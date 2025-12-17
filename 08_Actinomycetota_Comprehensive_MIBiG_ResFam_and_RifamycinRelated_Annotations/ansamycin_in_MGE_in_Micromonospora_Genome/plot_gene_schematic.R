@@ -15,11 +15,9 @@ annotation_colors <- c(
   "PKS" = "#C00000",                   # Red
   "NRPS(-like)" = "#BDC3C7",           # Gray (same as Other)
   "Cytochrome P450" = "#BDC3C7",       # Gray (same as Other)
-  "Cytochrome 450" = "#BDC3C7",        # Gray (same as Other)
   "Transporter" = "#3498DB",           # Blue
   "Transposase / Putative Transposase" = "#5DADE2", # Light blue
   "Reverse transcriptase" = "#2E86C1", # Medium blue
-  "Reverse transcriptase " = "#2E86C1",# Medium blue (with space)
   "Putative phage integrase" = "#1B4F72", # Dark blue
   "Tailoring enzyme" = "#F39C12",      # Orange/Yellow
   "Regulator" = "#2ECC71",             # Green
