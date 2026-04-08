@@ -1,8 +1,6 @@
 library(ggplot2)
 
-dat <- read.table("tmp", header=T, sep='\t')
-#dat <- read.table("Plotting_Input.txt", header=T, sep='\t')
-# order	median_genome_size	median_bgcome_size	median_bgc_count	median_bgcome_size_relaxed	median_bgc_count_relaxed	median_npbgcome_size	median_nrps_count	median_pks_count	median_oxy_count	median_distinct_cazy_count	median_total_cazy_count
+dat <- read.table("Overview_Order_Level_with_MedianBGCcounts.txt", header=T, sep='\t')
 
 colors <- c('#8FB4B8', '#A070B5', '#BA5E7C', '#000000')
 names(colors) <- c('Cyano', 'Actino', 'Myxo', 'TMP')
