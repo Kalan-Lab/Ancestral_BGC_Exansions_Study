@@ -1,6 +1,6 @@
 library(ggplot2)
 
-dat <- read.table("Overview_Order_Level_with_MedianBGCcounts.txt", header=T, sep='\t')
+dat <- read.table("Overview_Order_Level_with_MedianBGCcounts.with_coloring_info.txt", header=T, sep='\t')
 
 colors <- c('#8FB4B8', '#A070B5', '#BA5E7C')
 names(colors) <- c('Cyano', 'Actino', 'Myxo')
