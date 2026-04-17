@@ -1,0 +1,1 @@
+genomad end-to-end --cleanup --threads 4 --splits 8 GCA_002953255.1_ASM295325v1_genomic.fna geNomad_Results/GCA_002953255.1_ASM295325v1_genomic/ /workspace/local/rauf/multicellularity_and_bgcs/genomad/genomad_db/
